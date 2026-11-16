@@ -1,0 +1,34 @@
+{
+  "format": 1,
+  "id": "20261116-2d58687c34352f6d-bc6fa9",
+  "hash": "2d58687c34352f6d",
+  "sha1": "8c377e0c67e4f1a2be96f4c21a928dbbb1efc1a3",
+  "fileName": "ADPTR MetricAB (AU).json",
+  "details": {
+    "plugin": "ADPTR MetricAB",
+    "maker": "Plugin Alliance",
+    "format": "AU",
+    "daw": "ableton",
+    "logicPlugin": null,
+    "category": "utility",
+    "pluginVersion": "",
+    "dawVersion": "12.4.16"
+  },
+  "found": {
+    "plugin": true,
+    "maker": true,
+    "format": true,
+    "daw": true,
+    "category": true,
+    "dawVersion": true
+  },
+  "verified": {
+    "pluginId": true
+  },
+  "idVerified": true,
+  "alternative": null,
+  "credit": "Live test",
+  "note": "Test share from the app. It will be declined.",
+  "appVersion": "0.2.3",
+  "sharedAt": "2026-11-16T16:47:51.469Z"
+}
