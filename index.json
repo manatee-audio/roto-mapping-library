@@ -1,5 +1,40 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-16T13:45:21.893Z",
-  "entries": []
+  "updatedAt": "2026-11-16T19:57:33.349Z",
+  "entries": [
+    {
+      "hash": "2019223f1e3a7801",
+      "plugin": "VEQ-MG4+",
+      "maker": "Antelope Audio",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "eq",
+      "knobs": [
+        "Sub",
+        "40 Hz",
+        "160 Hz",
+        "650 Hz",
+        "2.5 kHz",
+        "Sky Gain",
+        "Sky Band",
+        "Output"
+      ],
+      "buttons": [
+        "Bypassed"
+      ],
+      "file": "mappings/ableton/VEQ-MG4+ (AU).json",
+      "sha1": "fa278d03d847a6b4a49a28ef78b1ebccbad4e673",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-16T19:57:33.349Z",
+      "updatedAt": "2026-11-16T19:57:33.349Z",
+      "worksForMe": 0,
+      "problems": 0
+    }
+  ]
 }
