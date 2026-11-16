@@ -1,7 +1,37 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-16T19:57:33.349Z",
+  "updatedAt": "2026-11-16T23:48:57.637Z",
   "entries": [
+    {
+      "hash": "25772a4d0769713b",
+      "plugin": "MidBoss",
+      "maker": "AnalogObsession",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "saturation",
+      "knobs": [
+        "TYPE",
+        "DRIVE",
+        "OUTPUT",
+        "MIX"
+      ],
+      "buttons": [
+        "BYPASS"
+      ],
+      "file": "mappings/ableton/MidBoss (AU).json",
+      "sha1": "8efcb442dd0c89420adbff9d41daae8b846cfb9e",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-16T23:48:57.637Z",
+      "updatedAt": "2026-11-16T23:48:57.637Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
     {
       "hash": "2019223f1e3a7801",
       "plugin": "VEQ-MG4+",
