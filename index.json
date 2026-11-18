@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-18T14:34:53.002Z",
+  "updatedAt": "2026-11-18T14:40:31.409Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -168,14 +168,25 @@
         "Circuit",
         "Drive",
         "Output",
-        "Dry/Wet"
+        "Dry/Wet",
+        "LFO Mode",
+        "LFO Wave",
+        "Morph Slope",
+        "Env Amount",
+        "Control",
+        "LFO Amount",
+        "LFO Phase",
+        "LFO Offset"
       ],
       "buttons": [
+        "Filter Slope",
         "Soft Clip On",
-        "Device On"
+        "Device On",
+        "LFO Stereo M",
+        "LFO Q Mode"
       ],
       "file": "mappings/ableton/Auto Filter (Ableton stock).json",
-      "sha1": "ef48d6157f5c4e0bb9bca6a8b22ef80c5af3e191",
+      "sha1": "f4e43aec93808cfa0578b058154e135fe1d48921",
       "label": "approved",
       "checkedIn": {
         "daw": "ableton",
@@ -183,7 +194,7 @@
       },
       "credit": null,
       "addedAt": "2026-11-18T14:26:01.444Z",
-      "updatedAt": "2026-11-18T14:26:01.444Z",
+      "updatedAt": "2026-11-18T14:40:31.409Z",
       "worksForMe": 0,
       "problems": 0
     },
