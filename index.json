@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-18T11:10:23.841Z",
+  "updatedAt": "2026-11-18T14:26:01.444Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -79,6 +79,111 @@
       "credit": null,
       "addedAt": "2026-11-18T11:10:23.841Z",
       "updatedAt": "2026-11-18T11:10:23.841Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "3e5b435320606d1d",
+      "plugin": "Align Delay",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "tool",
+      "knobs": [
+        "Mode",
+        "Left ms",
+        "Right ms",
+        "Delay L Smp",
+        "Delay R smp",
+        "Left meter",
+        "Right meter",
+        "Celsius"
+      ],
+      "buttons": [
+        "Link L/R",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Align Delay (Ableton stock).json",
+      "sha1": "5e3ad9fd4fcc4655326706022f24f2129c79a5ac",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-18T14:26:01.444Z",
+      "updatedAt": "2026-11-18T14:26:01.444Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "5f4612120f75036f",
+      "plugin": "Amp",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "fx",
+      "knobs": [
+        "Amp Type",
+        "Input Gain",
+        "Bass",
+        "Middle",
+        "Treble",
+        "Presence",
+        "Volume",
+        "Dry/Wet"
+      ],
+      "buttons": [
+        "Dual Mono",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Amp (Ableton stock).json",
+      "sha1": "b94d10dc67ab1c9c64ecfedb5ed0afdd75e3bce9",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-18T14:26:01.444Z",
+      "updatedAt": "2026-11-18T14:26:01.444Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "25552a6540094a28",
+      "plugin": "Auto Filter",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "filter",
+      "knobs": [
+        "Frequency",
+        "Resonance",
+        "Filter Type",
+        "Filter Morph",
+        "Circuit",
+        "Drive",
+        "Output",
+        "Dry/Wet"
+      ],
+      "buttons": [
+        "Soft Clip On",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Auto Filter (Ableton stock).json",
+      "sha1": "ef48d6157f5c4e0bb9bca6a8b22ef80c5af3e191",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-18T14:26:01.444Z",
+      "updatedAt": "2026-11-18T14:26:01.444Z",
       "worksForMe": 0,
       "problems": 0
     },
