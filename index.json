@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-18T17:37:08.577Z",
+  "updatedAt": "2026-11-18T17:49:39.250Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -411,6 +411,62 @@
       "credit": null,
       "addedAt": "2026-11-18T17:37:08.577Z",
       "updatedAt": "2026-11-18T17:37:08.577Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "2c1d1c4e1c793c4f",
+      "plugin": "Bass",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "instrument",
+      "knobs": [
+        "Cutoff",
+        "Res",
+        "Filter Env",
+        "Drive",
+        "Dist",
+        "Sub Osc",
+        "Glide",
+        "Volume",
+        "Sine",
+        "Sawtooth",
+        "Pulse",
+        "Triangle",
+        "Sub Osc",
+        "Analog",
+        "Pulse Width",
+        "Sub Tone",
+        "Attack",
+        "Decay",
+        "Sustain",
+        "Release",
+        "Attack",
+        "Decay",
+        "Sustain",
+        "Release"
+      ],
+      "buttons": [
+        "Sync",
+        "Ring Mod",
+        "Filter Type",
+        "Glide type",
+        "Device On",
+        "Env Time",
+        "Amp Env Time"
+      ],
+      "file": "mappings/ableton/Bass (Ableton stock).json",
+      "sha1": "fa01bedaba7eb6986afe0de2c0e57da327c8e811",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-18T17:49:39.250Z",
+      "updatedAt": "2026-11-18T17:49:39.250Z",
       "worksForMe": 0,
       "problems": 0
     },
