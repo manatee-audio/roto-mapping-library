@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-18T17:49:39.250Z",
+  "updatedAt": "2026-11-18T18:44:37.521Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -510,6 +510,205 @@
       "credit": null,
       "addedAt": "2026-11-18T09:41:00.108Z",
       "updatedAt": "2026-11-18T09:41:00.108Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "034d355c72555315",
+      "plugin": "Bettermaker EQ232D",
+      "maker": "Plugin Alliance",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "eq",
+      "knobs": [
+        "HPF FREQ",
+        "EQ1 GAIN",
+        "EQ1 FREQ",
+        "EQ1 Q",
+        "EQ2 GAIN",
+        "EQ2 FREQ",
+        "EQ2 Q",
+        "OUTPUT",
+        "LO BOOST",
+        "LO FREQ",
+        "LO ATTEN",
+        "HI BOOST 1",
+        "HI FREQ",
+        "HI ATTEN",
+        "HI BANDWIDTH",
+        "OUTPUT"
+      ],
+      "buttons": [
+        "HPF IN",
+        "EQ 1 IN",
+        "EQ2 IN",
+        "ENGAGE",
+        "PEQ IN",
+        "ENGAGE 1"
+      ],
+      "file": "mappings/ableton/Bettermaker EQ232D (AU).json",
+      "sha1": "3601b9ae2a448bbdadc9be91439e146ad90fa24b",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-18T18:44:37.521Z",
+      "updatedAt": "2026-11-18T18:44:37.521Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "4d7c386b5b334a0c",
+      "plugin": "Bettermaker EQ232D",
+      "maker": "Plugin Alliance",
+      "format": "VST",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "eq",
+      "knobs": [
+        "HPF FREQ",
+        "EQ1 GAIN",
+        "EQ1 FREQ",
+        "EQ1 Q",
+        "EQ2 GAIN",
+        "EQ2 FREQ",
+        "EQ2 Q",
+        "OUTPUT",
+        "LO BOOST",
+        "LO FREQ",
+        "LO ATTEN",
+        "HI BOOST 1",
+        "HI FREQ",
+        "HI ATTEN",
+        "HI BANDWIDTH",
+        "OUTPUT"
+      ],
+      "buttons": [
+        "HPF IN",
+        "EQ 1 IN",
+        "EQ2 IN",
+        "ENGAGE",
+        "PEQ IN",
+        "ENGAGE 1"
+      ],
+      "file": "mappings/ableton/Bettermaker EQ232D (VST).json",
+      "sha1": "85938e7d0682a6d80a39d81fee68d48ae271be77",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-18T18:44:37.521Z",
+      "updatedAt": "2026-11-18T18:44:37.521Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "6c41673b42405f44",
+      "plugin": "Cabinet",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "fx",
+      "knobs": [
+        "Speaker",
+        "Microphone",
+        "Dry/Wet"
+      ],
+      "buttons": [
+        "Dual Mono",
+        "Mic Type",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Cabinet (Ableton stock).json",
+      "sha1": "57bc3a8c8675afc860896a8e70941a1912f289cb",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-18T18:44:37.521Z",
+      "updatedAt": "2026-11-18T18:44:37.521Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "4f782f5d07457805",
+      "plugin": "CC Control",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "midi-fx",
+      "knobs": [
+        "Mod Wheel",
+        "Pitch Bend",
+        "Pressure",
+        "Custom B",
+        "Custom C",
+        "Custom D",
+        "Custom E",
+        "Custom F",
+        "Custom G",
+        "Custom H",
+        "Custom I",
+        "Custom J",
+        "Custom K",
+        "Custom L",
+        "Custom M"
+      ],
+      "buttons": [
+        "Custom A",
+        "Device On"
+      ],
+      "file": "mappings/ableton/CC Control (Ableton stock).json",
+      "sha1": "f376108c3085a8d5d8d79fdad552f550a3f517ce",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-18T18:44:37.521Z",
+      "updatedAt": "2026-11-18T18:44:37.521Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "1d2d7c6738460313",
+      "plugin": "Channel EQ",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "eq",
+      "knobs": [
+        "Low Gain",
+        "Mid Gain",
+        "Mid Freq",
+        "High Gain",
+        "Output"
+      ],
+      "buttons": [
+        "Highpass On",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Channel EQ (Ableton stock).json",
+      "sha1": "a4fa7a843d2ae8a8f2841710861ec8b3e2279b88",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-18T18:44:37.521Z",
+      "updatedAt": "2026-11-18T18:44:37.521Z",
       "worksForMe": 0,
       "problems": 0
     },
