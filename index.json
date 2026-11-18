@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-18T16:15:15.814Z",
+  "updatedAt": "2026-11-18T16:44:29.393Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -169,12 +169,12 @@
         "Drive",
         "Output",
         "Dry/Wet",
-        "LFO Mode",
-        "LFO Wave",
-        "Morph Slope",
-        "Env Amount",
-        "Control",
         "LFO Amount",
+        "LFO Freq",
+        "Wave",
+        "Formant",
+        "LFO Mode",
+        "Envelope",
         "LFO Phase",
         "LFO Offset"
       ],
@@ -186,7 +186,7 @@
         "LFO Q Mode"
       ],
       "file": "mappings/ableton/Auto Filter (Ableton stock).json",
-      "sha1": "f4e43aec93808cfa0578b058154e135fe1d48921",
+      "sha1": "ffe6455500a00a4575e52dcf0a7b7594c97cde6d",
       "label": "approved",
       "checkedIn": {
         "daw": "ableton",
@@ -194,7 +194,7 @@
       },
       "credit": null,
       "addedAt": "2026-11-18T14:26:01.444Z",
-      "updatedAt": "2026-11-18T14:40:31.409Z",
+      "updatedAt": "2026-11-18T16:44:29.393Z",
       "worksForMe": 0,
       "problems": 0
     },
