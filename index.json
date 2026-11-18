@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-18T17:35:39.635Z",
+  "updatedAt": "2026-11-18T17:37:08.577Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -374,6 +374,43 @@
       "credit": null,
       "addedAt": "2026-11-18T14:26:01.444Z",
       "updatedAt": "2026-11-18T16:44:29.393Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "23006f1e2d124743",
+      "plugin": "Auto Shift",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "pitch",
+      "knobs": [
+        "Strength",
+        "Smooth Time",
+        "Pitch St.",
+        "Formant",
+        "Form Follow",
+        "Vibrato Amt",
+        "Vibrato Rate",
+        "Dry/Wet"
+      ],
+      "buttons": [
+        "Quantizer On",
+        "Smooth On",
+        "Latch",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Auto Shift (Ableton stock).json",
+      "sha1": "ac4d3ce573dbfc759f3d596cae3b611e841d83bb",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-18T17:37:08.577Z",
+      "updatedAt": "2026-11-18T17:37:08.577Z",
       "worksForMe": 0,
       "problems": 0
     },
