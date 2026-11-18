@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-18T16:44:29.393Z",
+  "updatedAt": "2026-11-18T16:49:17.243Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -378,6 +378,42 @@
       "credit": null,
       "addedAt": "2026-11-18T16:15:15.814Z",
       "updatedAt": "2026-11-18T16:15:15.814Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "207e666861466e35",
+      "plugin": "Limiter",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "limiter",
+      "knobs": [
+        "Input Gain",
+        "Release",
+        "Ceiling",
+        "Link",
+        "M/S Link",
+        "Lookahead",
+        "Mode"
+      ],
+      "buttons": [
+        "Maximize On",
+        "Auto",
+        "Routing",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Limiter (Ableton stock).json",
+      "sha1": "c67aa6250b031283d6eaa6088fbe2051a556aedc",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-18T16:49:17.243Z",
+      "updatedAt": "2026-11-18T16:49:17.243Z",
       "worksForMe": 0,
       "problems": 0
     },
