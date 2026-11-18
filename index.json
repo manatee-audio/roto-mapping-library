@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-18T14:26:01.444Z",
+  "updatedAt": "2026-11-18T14:34:53.002Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -392,6 +392,39 @@
       "credit": null,
       "addedAt": "2026-11-16T23:50:39.110Z",
       "updatedAt": "2026-11-16T23:50:39.110Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "1b38737f6a3d5a67",
+      "plugin": "Scale",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "midi-fx",
+      "knobs": [
+        "Base",
+        "Internal Sca",
+        "Transpose",
+        "Lowest",
+        "Range"
+      ],
+      "buttons": [
+        "Use Current",
+        "Fold",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Scale (Ableton stock).json",
+      "sha1": "f2265bfa55942658e6fbfee6d7748e517f1cac34",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-18T14:34:53.002Z",
+      "updatedAt": "2026-11-18T14:34:53.002Z",
       "worksForMe": 0,
       "problems": 0
     },
