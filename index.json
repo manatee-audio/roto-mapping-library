@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-18T14:40:31.409Z",
+  "updatedAt": "2026-11-18T16:15:15.814Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -342,6 +342,42 @@
       "credit": null,
       "addedAt": "2026-11-18T09:41:00.108Z",
       "updatedAt": "2026-11-18T09:41:00.108Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "532919477f353830",
+      "plugin": "LFO",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "tool",
+      "knobs": [
+        "Depth",
+        "Rate Hz",
+        "Rate Sync",
+        "Shape",
+        "Offset",
+        "Phase",
+        "Jitter",
+        "Smooth"
+      ],
+      "buttons": [
+        "Time Mode",
+        "Hold",
+        "Device On"
+      ],
+      "file": "mappings/ableton/LFO (Ableton stock).json",
+      "sha1": "2d3f18dc8bd54817ef56744a489a4e46cee65e84",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-18T16:15:15.814Z",
+      "updatedAt": "2026-11-18T16:15:15.814Z",
       "worksForMe": 0,
       "problems": 0
     },
