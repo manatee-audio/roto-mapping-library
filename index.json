@@ -1,7 +1,87 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-18T09:41:00.108Z",
+  "updatedAt": "2026-11-18T11:10:23.841Z",
   "entries": [
+    {
+      "hash": "1507476c002f2457",
+      "plugin": "ADPTR MetricAB",
+      "maker": "Plugin Alliance",
+      "format": "VST",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "utility",
+      "knobs": [
+        "MODE",
+        "UI Scale",
+        "Track Gain",
+        "Filter Range",
+        "Filter Low F",
+        "Filter High ",
+        "Track",
+        "Stereo Mode"
+      ],
+      "buttons": [
+        "Meter Zoom",
+        "Mini Mode",
+        "Loudness Mat",
+        "On / Off",
+        "Stereo In Pl",
+        "MONO",
+        "AB Switch",
+        "Device On"
+      ],
+      "file": "mappings/ableton/ADPTR MetricAB (VST).json",
+      "sha1": "65a803996ff39dc4e7b806a678810696315339de",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-18T11:10:23.841Z",
+      "updatedAt": "2026-11-18T11:10:23.841Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "2d58687c34352f6d",
+      "plugin": "ADPTR MetricAB",
+      "maker": "Plugin Alliance",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "utility",
+      "knobs": [
+        "MODE",
+        "UI Scale",
+        "Gain",
+        "Filter Range",
+        "Filter Slope",
+        "Filter Low",
+        "Filter High "
+      ],
+      "buttons": [
+        "Meter Zoom",
+        "Mini Mode",
+        "Loud Match",
+        "On / Off",
+        "Mono",
+        "AB",
+        "Device On"
+      ],
+      "file": "mappings/ableton/ADPTR MetricAB (AU).json",
+      "sha1": "67417d242082f7097db907018c1a0bafd1d62b45",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-18T11:10:23.841Z",
+      "updatedAt": "2026-11-18T11:10:23.841Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
     {
       "hash": "0d3065197134100b",
       "plugin": "Beat Repeat",
@@ -314,6 +394,169 @@
       "credit": null,
       "addedAt": "2026-11-18T09:41:00.108Z",
       "updatedAt": "2026-11-18T09:41:00.108Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "2c420e35505c7378",
+      "plugin": "ADPTR MetricAB",
+      "maker": "Plugin Alliance",
+      "format": "",
+      "daw": "bitwig",
+      "logicPlugin": null,
+      "category": "utility",
+      "knobs": [
+        "MODE",
+        "UI Scale",
+        "Gain",
+        "Filter Range",
+        "Filter Slope",
+        "Filter Low",
+        "Filter High "
+      ],
+      "buttons": [
+        "Meter Zoom",
+        "Mini Mode",
+        "Loud Match",
+        "On / Off",
+        "Mono",
+        "AB"
+      ],
+      "file": "mappings/bitwig/ADPTR MetricAB (Bitwig).json",
+      "sha1": "001f93fb1fb8af68e2600fd82bd55cbf1f4cfd2e",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "bitwig",
+        "version": "6.1.7"
+      },
+      "credit": null,
+      "addedAt": "2026-11-18T11:10:23.841Z",
+      "updatedAt": "2026-11-18T11:10:23.841Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "090d465372223c70",
+      "plugin": "Channel EQ",
+      "maker": "Apple",
+      "format": "STOCK",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Channel EQ",
+        "channels": "mono",
+        "stock": true
+      },
+      "category": "eq",
+      "knobs": [
+        "Low Cut Freq",
+        "Low Cut Q",
+        "Lo Sh Freq",
+        "Lo Sh Gain",
+        "Peak 1 Freq",
+        "Peak 1 Gain",
+        "Peak 2 Freq",
+        "Peak 2 Gain",
+        "Peak 3 Freq",
+        "Peak 3 Gain",
+        "Peak 4 Freq",
+        "Peak 4 Gain",
+        "Hi Sh Freq",
+        "Hi Sh Gain",
+        "Hi Cut Freq",
+        "Hi Cut Q",
+        "Master  Gain"
+      ],
+      "buttons": [
+        "On/Off",
+        "Lo Cut Slope",
+        "On/Off",
+        "Lo Shelf Q",
+        "On/Off",
+        "Peak 1 Q",
+        "On/Off",
+        "Peak 2 Q",
+        "On/Off",
+        "Peak 3 Q",
+        "On/Off",
+        "Peak 4 Q",
+        "On/Off",
+        "Hi Shelf Q",
+        "On/Off",
+        "Hi Cut Slope",
+        "Analyzer Top"
+      ],
+      "file": "mappings/logic/Channel EQ (Logic stock, mono).json",
+      "sha1": "3db623101da2d492e52d486e44544dca10aaed90",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": ""
+      },
+      "credit": null,
+      "addedAt": "2026-11-18T11:10:23.841Z",
+      "updatedAt": "2026-11-18T11:10:23.841Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "154241530a3b5c31",
+      "plugin": "Channel EQ",
+      "maker": "Apple",
+      "format": "STOCK",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Channel EQ",
+        "channels": "stereo",
+        "stock": true
+      },
+      "category": "eq",
+      "knobs": [
+        "Low Cut Freq",
+        "Lo Cut Q",
+        "Lo Sh Freq",
+        "Lo Sh Gain",
+        "Peak 1 Freq",
+        "Peak 1 Gain",
+        "Peak 2 Freq",
+        "Peak 2 Gain",
+        "Peak 3 Freq",
+        "Peak 3 Gain",
+        "Peak 4 Freq",
+        "Peak 4 Gain",
+        "Hi Sh Freq",
+        "Hi Sh Gain",
+        "Hi Cut Freq",
+        "Hi Cut Q",
+        "Master  Gain"
+      ],
+      "buttons": [
+        "On/Off",
+        "Lo Cut Slope",
+        "On/Off",
+        "Lo Shelf Q",
+        "On/Off",
+        "Peak 1 Q",
+        "On/Off",
+        "Peak 2 Q",
+        "On/Off",
+        "Peak 3 Q",
+        "On/Off",
+        "Peak 4 Q",
+        "On/Off",
+        "Hi Shelf Q",
+        "On/Off",
+        "Hi Cut Slope"
+      ],
+      "file": "mappings/logic/Channel EQ (Logic stock, stereo).json",
+      "sha1": "246d6f25a21b277cb8633106686303aeb4b5916f",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": ""
+      },
+      "credit": null,
+      "addedAt": "2026-11-18T11:10:23.841Z",
+      "updatedAt": "2026-11-18T11:10:23.841Z",
       "worksForMe": 0,
       "problems": 0
     }
