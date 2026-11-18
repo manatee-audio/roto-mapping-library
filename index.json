@@ -1,7 +1,154 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-16T23:50:39.110Z",
+  "updatedAt": "2026-11-18T09:41:00.108Z",
   "entries": [
+    {
+      "hash": "0d3065197134100b",
+      "plugin": "Beat Repeat",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "fx",
+      "knobs": [
+        "Interval",
+        "Offset",
+        "Grid",
+        "Variation",
+        "Chance",
+        "Gate",
+        "Pitch",
+        "Pitch Decay",
+        "Mix Type",
+        "Filter Freq",
+        "Filter Width",
+        "Volume",
+        "Decay"
+      ],
+      "buttons": [
+        "Repeat",
+        "Block Triple",
+        "Variation Ty",
+        "Device On",
+        "Filter On"
+      ],
+      "file": "mappings/ableton/Beat Repeat (Ableton stock).json",
+      "sha1": "3688b6be55fc402ddcc883a64a36e2c2c3fe6530",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-18T09:41:00.108Z",
+      "updatedAt": "2026-11-18T09:41:00.108Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "733e5d75006c5b32",
+      "plugin": "CrushStation",
+      "maker": "Eventide",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "saturation",
+      "knobs": [
+        "Input",
+        "MIX",
+        "DRIVE",
+        "SUSTAIN",
+        "SAG",
+        "OCTAVES",
+        "GRIT",
+        "Output",
+        "Gate Thresh",
+        "BASS",
+        "MIDS",
+        "Mids Freq",
+        "TREBLE",
+        "Ribbon"
+      ],
+      "buttons": [
+        "Attack",
+        "GATE",
+        "ACTIVE",
+        "HOTSWITCH",
+        "Device On"
+      ],
+      "file": "mappings/ableton/CrushStation (AU).json",
+      "sha1": "79581571d5ab608cc60cfaee68df7f57f1d5b544",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-18T09:41:00.108Z",
+      "updatedAt": "2026-11-18T09:41:00.108Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "49496b22362c2c1f",
+      "plugin": "Endless Smile",
+      "maker": "Dada Life",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "fx",
+      "knobs": [
+        "INTENSITY"
+      ],
+      "buttons": [
+        "BYPASS"
+      ],
+      "file": "mappings/ableton/Endless Smile (AU).json",
+      "sha1": "8a1c1e5275642d7aaad311a03c7529c134a6d731",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-18T09:41:00.108Z",
+      "updatedAt": "2026-11-18T09:41:00.108Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "18367e1a64697611",
+      "plugin": "kHs Bitcrush",
+      "maker": "Kilohearts",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "other",
+      "knobs": [
+        "Quantize",
+        "Bits",
+        "Dither",
+        "Rate",
+        "ADC Quality",
+        "DAC Quality",
+        "Mix"
+      ],
+      "buttons": [
+        "Enabled"
+      ],
+      "file": "mappings/ableton/kHs Bitcrush (AU).json",
+      "sha1": "db296cfca0421b59a3990ee4dc5bb62206605c1d",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-18T09:41:00.108Z",
+      "updatedAt": "2026-11-18T09:41:00.108Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
     {
       "hash": "25772a4d0769713b",
       "plugin": "MidBoss",
@@ -64,6 +211,45 @@
       "problems": 0
     },
     {
+      "hash": "33660a030872675c",
+      "plugin": "SSL Digicrush",
+      "maker": "SSL",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "other",
+      "knobs": [
+        "Overload",
+        "Downsample",
+        "Jitter",
+        "Anti-Aliasin",
+        "Bits",
+        "Bit Mode",
+        "Mix",
+        "Output Gain",
+        "Anti-Images ",
+        "Output Gain"
+      ],
+      "buttons": [
+        "Anti-Aliasin",
+        "Bypass",
+        "Anti-Images",
+        "Bypass"
+      ],
+      "file": "mappings/ableton/SSL Digicrush (AU).json",
+      "sha1": "57bbd9d5ddd45acab236d5a3e012b12b56c0ef78",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-18T09:41:00.108Z",
+      "updatedAt": "2026-11-18T09:41:00.108Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "2019223f1e3a7801",
       "plugin": "VEQ-MG4+",
       "maker": "Antelope Audio",
@@ -94,6 +280,40 @@
       "credit": null,
       "addedAt": "2026-11-16T19:57:33.349Z",
       "updatedAt": "2026-11-16T19:57:33.349Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "2562124213044c41",
+      "plugin": "VEQ-MG4+",
+      "maker": "Antelope Audio",
+      "format": "VST",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "eq",
+      "knobs": [
+        "Sub",
+        "40 Hz",
+        "160 Hz",
+        "650 Hz",
+        "2.5 kHz",
+        "Sky Gain",
+        "Sky Band",
+        "Output"
+      ],
+      "buttons": [
+        "Bypassed"
+      ],
+      "file": "mappings/ableton/VEQ-MG4+ (VST).json",
+      "sha1": "d2a243c24261a1e8c6826662bc575c0ab0cd8a58",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-18T09:41:00.108Z",
+      "updatedAt": "2026-11-18T09:41:00.108Z",
       "worksForMe": 0,
       "problems": 0
     }
