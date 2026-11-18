@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-18T18:44:37.521Z",
+  "updatedAt": "2026-11-18T23:57:26.822Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -713,6 +713,42 @@
       "problems": 0
     },
     {
+      "hash": "2500456106256f54",
+      "plugin": "Chord",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "midi-fx",
+      "knobs": [
+        "Shift1",
+        "Shift2",
+        "Shift3",
+        "Shift4",
+        "Shift5",
+        "Shift5",
+        "Shift 6",
+        "Strum",
+        "Strum Tensio",
+        "Strum Cresce"
+      ],
+      "buttons": [
+        "Device On"
+      ],
+      "file": "mappings/ableton/Chord (Ableton stock).json",
+      "sha1": "964f78513f74de7fc1f1ba356742572b4d51189e",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-18T23:57:26.822Z",
+      "updatedAt": "2026-11-18T23:57:26.822Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "733e5d75006c5b32",
       "plugin": "CrushStation",
       "maker": "Eventide",
@@ -780,6 +816,40 @@
       "credit": null,
       "addedAt": "2026-11-18T09:41:00.108Z",
       "updatedAt": "2026-11-18T09:41:00.108Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "1b0a086123646214",
+      "plugin": "Expressive Chords",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "midi-fx",
+      "knobs": [
+        "Tilt",
+        "Invert",
+        "Strum",
+        "Articulate",
+        "Transpose",
+        "Variation"
+      ],
+      "buttons": [
+        "Rev Artic",
+        "Quantize",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Expressive Chords (Ableton stock).json",
+      "sha1": "2883703af255144c891ad0f89e77828f7e63cbd0",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-18T23:57:26.822Z",
+      "updatedAt": "2026-11-18T23:57:26.822Z",
       "worksForMe": 0,
       "problems": 0
     },
