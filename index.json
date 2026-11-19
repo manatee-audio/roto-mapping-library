@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-19T14:53:21.490Z",
+  "updatedAt": "2026-11-19T14:59:39.420Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -1526,6 +1526,136 @@
       "credit": null,
       "addedAt": "2026-11-19T14:53:21.490Z",
       "updatedAt": "2026-11-19T14:53:21.490Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "5039215f162c4c6a",
+      "plugin": "DS HH",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "instrument",
+      "knobs": [
+        "Tone",
+        "Attack",
+        "Pitch",
+        "Decay",
+        "Volume"
+      ],
+      "buttons": [
+        "Noise",
+        "Device On"
+      ],
+      "file": "mappings/ableton/DS HH (Ableton stock).json",
+      "sha1": "19bb1742f69a277370c07fe2b4f94f06a9f67c10",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T14:59:39.420Z",
+      "updatedAt": "2026-11-19T14:59:39.420Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "78234151335c6368",
+      "plugin": "DS Kick",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "instrument",
+      "knobs": [
+        "Pitch",
+        "Drive",
+        "Overtone",
+        "Attack",
+        "Decay",
+        "Env",
+        "Volume"
+      ],
+      "buttons": [
+        "Click",
+        "Device On"
+      ],
+      "file": "mappings/ableton/DS Kick (Ableton stock).json",
+      "sha1": "0e576a98d48f5fedec68dc76b7a121ae2a3a6c0e",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T14:59:39.420Z",
+      "updatedAt": "2026-11-19T14:59:39.420Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "4b68131026136c53",
+      "plugin": "DS Snare",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "instrument",
+      "knobs": [
+        "Color",
+        "Tone",
+        "Filter",
+        "Decay",
+        "Tune",
+        "Volume"
+      ],
+      "buttons": [
+        "Device On"
+      ],
+      "file": "mappings/ableton/DS Snare (Ableton stock).json",
+      "sha1": "4d1a75c8000a0cc987f5f12f039e2908eb3c1948",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T14:59:39.420Z",
+      "updatedAt": "2026-11-19T14:59:39.420Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "2a2f477a4d4c6730",
+      "plugin": "DS Tom",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "instrument",
+      "knobs": [
+        "Pitch",
+        "Color",
+        "Tone",
+        "Bend",
+        "Decay",
+        "Volume"
+      ],
+      "buttons": [
+        "Device On"
+      ],
+      "file": "mappings/ableton/DS Tom (Ableton stock).json",
+      "sha1": "4cc17a2fc2deedb6fed2af9a6cb54579f08b57e3",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T14:59:39.420Z",
+      "updatedAt": "2026-11-19T14:59:39.420Z",
       "worksForMe": 0,
       "problems": 0
     },
