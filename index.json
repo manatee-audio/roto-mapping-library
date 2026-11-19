@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-19T13:45:41.976Z",
+  "updatedAt": "2026-11-19T13:46:58.575Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -1309,6 +1309,48 @@
       "credit": null,
       "addedAt": "2026-11-19T13:45:41.976Z",
       "updatedAt": "2026-11-19T13:45:41.976Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "582d4d4041394c40",
+      "plugin": "Drum Buss",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "saturation",
+      "knobs": [
+        "Drive",
+        "Drive Type",
+        "Trim",
+        "Crunch",
+        "Damping Freq",
+        "Transients",
+        "Output",
+        "Dry/Wet",
+        "Boom",
+        "Freq",
+        "Decay",
+        "Output",
+        "Dry/Wet"
+      ],
+      "buttons": [
+        "Compressor",
+        "Device On",
+        "Boom Auditio",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Drum Buss (Ableton stock).json",
+      "sha1": "1babe51c5f9f0f9c3ee8e2ad3877eae426b9f321",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T13:46:58.575Z",
+      "updatedAt": "2026-11-19T13:46:58.575Z",
       "worksForMe": 0,
       "problems": 0
     },
