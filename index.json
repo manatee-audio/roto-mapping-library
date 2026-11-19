@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-19T18:34:46.342Z",
+  "updatedAt": "2026-11-19T18:47:41.257Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -374,6 +374,57 @@
       "credit": null,
       "addedAt": "2026-11-18T14:26:01.444Z",
       "updatedAt": "2026-11-18T16:44:29.393Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "69062951641b7125",
+      "plugin": "Auto Pan-Tremolo",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "modulation",
+      "knobs": [
+        "LFO Wave",
+        "LFO Mode",
+        "LFO Synced",
+        "LFO Amount",
+        "LFO Time",
+        "LFO Morph",
+        "LFO Phase",
+        "LFO Freq",
+        "LFO Mode",
+        "LFO Amount",
+        "LFO Time",
+        "Tremolo Morp",
+        "LFO Phase",
+        "LFO Offset",
+        "LFO Attack",
+        "Dyn LFO Mod",
+        "LFO 16 th",
+        "LFO Spin"
+      ],
+      "buttons": [
+        "Mode",
+        "LFO Invert",
+        "Device On",
+        "Harmonic",
+        "Vintage",
+        "LFO Stereo M",
+        "LFO Invert",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Auto Pan-Tremolo (Ableton stock).json",
+      "sha1": "cceece071abff5d7b4fcac82c36a2f5aea61f2af",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T18:47:41.257Z",
+      "updatedAt": "2026-11-19T18:47:41.257Z",
       "worksForMe": 0,
       "problems": 0
     },
@@ -1925,6 +1976,147 @@
       "credit": null,
       "addedAt": "2026-11-18T09:41:00.108Z",
       "updatedAt": "2026-11-18T09:41:00.108Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "0e17477d44330226",
+      "plugin": "Envelope Follower",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "tool",
+      "knobs": [
+        "Gain",
+        "Rise",
+        "Fall",
+        "Delay Time",
+        "Delay Sync",
+        "Mix"
+      ],
+      "buttons": [
+        "Delay Mode",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Envelope Follower (Ableton stock).json",
+      "sha1": "46cd1a8f6596f70a9ae85fe74db6c284dc1a1b44",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T18:47:41.257Z",
+      "updatedAt": "2026-11-19T18:47:41.257Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "576c1d773c6d6a3e",
+      "plugin": "Envelope MIDI",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "midi-fx",
+      "knobs": [
+        "Amount",
+        "Attack",
+        "Decay",
+        "Sustain",
+        "Release",
+        "Atk Slope",
+        "Dec Slope",
+        "Rel Slope"
+      ],
+      "buttons": [
+        "Velocity",
+        "Sustain Mode",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Envelope MIDI (Ableton stock).json",
+      "sha1": "161bfbefe3bcababab3ee1ebe9c568bd71bf1e43",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T18:47:41.257Z",
+      "updatedAt": "2026-11-19T18:47:41.257Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "79152c3815777714",
+      "plugin": "EQ Eight",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "eq",
+      "knobs": [
+        "1 Frequency ",
+        "1 Q A",
+        "1 Filter Typ",
+        "4 Frequency ",
+        "4 Gain A",
+        "4 Q A",
+        "8 Q A",
+        "8 Frequency "
+      ],
+      "buttons": [
+        "1 Filter On ",
+        "4 Filter On ",
+        "8 Filter On ",
+        "Device On"
+      ],
+      "file": "mappings/ableton/EQ Eight (Ableton stock).json",
+      "sha1": "2ad9fa1aeea7d5ff0597fd14abe58cb5c5b483b1",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T18:47:41.257Z",
+      "updatedAt": "2026-11-19T18:47:41.257Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "29170d6016410972",
+      "plugin": "EQ Three",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "eq",
+      "knobs": [
+        "FreqLo",
+        "GainLo",
+        "GainMid",
+        "GainHi",
+        "FreqHi"
+      ],
+      "buttons": [
+        "Slope",
+        "LowOn",
+        "MidOn",
+        "HighOn",
+        "Device On"
+      ],
+      "file": "mappings/ableton/EQ Three (Ableton stock).json",
+      "sha1": "6d5b2ea13f853d73b0884a2d4f78930246470548",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T18:47:41.257Z",
+      "updatedAt": "2026-11-19T18:47:41.257Z",
       "worksForMe": 0,
       "problems": 0
     },
