@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-19T13:28:52.793Z",
+  "updatedAt": "2026-11-19T13:30:26.236Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -1082,6 +1082,41 @@
       "problems": 0
     },
     {
+      "hash": "5e1108006035711c",
+      "plugin": "DB-30 Drum Butter",
+      "maker": "XLN Audio",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "eq",
+      "knobs": [
+        "BOOM",
+        "SHIFT",
+        "SPACE",
+        "COMPRESS",
+        "SATURATE",
+        "MORE",
+        "MAGNITUDE",
+        "OUTPUT"
+      ],
+      "buttons": [
+        " EQ Enable",
+        "Bypass"
+      ],
+      "file": "mappings/ableton/DB-30 Drum Butter (AU).json",
+      "sha1": "a178f279d7f126bfe0011fed206425ac08bb73ed",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T13:30:26.236Z",
+      "updatedAt": "2026-11-19T13:30:26.236Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "49496b22362c2c1f",
       "plugin": "Endless Smile",
       "maker": "Dada Life",
@@ -1569,6 +1604,41 @@
       "problems": 0
     },
     {
+      "hash": "14700a6d7960583d",
+      "plugin": "DB-30 Drum Butter",
+      "maker": "XLN Audio",
+      "format": "",
+      "daw": "bitwig",
+      "logicPlugin": null,
+      "category": "drum",
+      "knobs": [
+        "BOOM",
+        "SHIFT",
+        "SPACE",
+        "COMPRESS",
+        "SATURATE",
+        "MORE",
+        "MAGNITUDE",
+        "OUTPUT"
+      ],
+      "buttons": [
+        " EQ Enable",
+        "Bypass"
+      ],
+      "file": "mappings/bitwig/DB-30 Drum Butter (Bitwig).json",
+      "sha1": "46cc44888a0e9fa1a85c907d6867dba9e48da092",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "bitwig",
+        "version": "6.1.7"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T13:30:26.236Z",
+      "updatedAt": "2026-11-19T13:30:26.236Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "222e6c6969090e32",
       "plugin": "RC-20 Retro Color",
       "maker": "XLN Audio",
@@ -1824,6 +1894,84 @@
       "credit": null,
       "addedAt": "2026-11-19T12:01:52.966Z",
       "updatedAt": "2026-11-19T12:01:52.966Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "0a656c37745c0108",
+      "plugin": "DB-30 Drum Butter",
+      "maker": "XLN Audio",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "DB-30 Drum Butter",
+        "channels": "stereo",
+        "stock": false
+      },
+      "category": "eq",
+      "knobs": [
+        "BOOM",
+        "SHIFT",
+        "SPACE",
+        "COMPRESS",
+        "SATURATE",
+        "MORE",
+        "MAGNITUDE",
+        "OUTPUT"
+      ],
+      "buttons": [
+        " EQ Enable",
+        "Bypass"
+      ],
+      "file": "mappings/logic/DB-30 Drum Butter (Logic, stereo).json",
+      "sha1": "8ff17ee3912267de2882d6a399a814652320a3d6",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": ""
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T13:30:26.236Z",
+      "updatedAt": "2026-11-19T13:30:26.236Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "3e046f371c157f2e",
+      "plugin": "DB-30 Drum Butter",
+      "maker": "XLN Audio",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "DB-30 Drum Butter",
+        "channels": "mono",
+        "stock": false
+      },
+      "category": "eq",
+      "knobs": [
+        "BOOM",
+        "SHIFT",
+        "SPACE",
+        "COMPRESS",
+        "SATURATE",
+        "MORE",
+        "MAGNITUDE",
+        "OUTPUT"
+      ],
+      "buttons": [
+        " EQ Enable",
+        "Bypass"
+      ],
+      "file": "mappings/logic/DB-30 Drum Butter (Logic, mono).json",
+      "sha1": "01009879d4b74b1165fdbcaab6983af8d7589b69",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": ""
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T13:30:26.236Z",
+      "updatedAt": "2026-11-19T13:30:26.236Z",
       "worksForMe": 0,
       "problems": 0
     },
