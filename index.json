@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-19T13:46:58.575Z",
+  "updatedAt": "2026-11-19T13:54:23.996Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -1351,6 +1351,50 @@
       "credit": null,
       "addedAt": "2026-11-19T13:46:58.575Z",
       "updatedAt": "2026-11-19T13:46:58.575Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "615a655452400071",
+      "plugin": "Drum Sampler",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "instrument",
+      "knobs": [
+        "Start",
+        "Length",
+        "Transpose",
+        "Detune",
+        "Pan",
+        "Vel > Vol",
+        "Volume",
+        "FX Type",
+        "Attack",
+        "Hold",
+        "Decay",
+        "Filter Type",
+        "Filter Res",
+        "Filter Freq",
+        "Filter Gain"
+      ],
+      "buttons": [
+        "Device On",
+        "FX On",
+        "Env Mode",
+        "Filter On"
+      ],
+      "file": "mappings/ableton/Drum Sampler (Ableton stock).json",
+      "sha1": "56518aee4ad6a38cd6cf905863b619caacbe9ff8",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T13:54:23.996Z",
+      "updatedAt": "2026-11-19T13:54:23.996Z",
       "worksForMe": 0,
       "problems": 0
     },
