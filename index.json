@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-19T00:11:59.228Z",
+  "updatedAt": "2026-11-19T00:21:36.880Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -787,6 +787,76 @@
       "credit": null,
       "addedAt": "2026-11-19T00:04:47.490Z",
       "updatedAt": "2026-11-19T00:04:47.490Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "1450224b2e531d46",
+      "plugin": "Color Limiter",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "limiter",
+      "knobs": [
+        "Loudness",
+        "Ceiling",
+        "Release",
+        "Lookahead",
+        "Saturation",
+        "Color"
+      ],
+      "buttons": [
+        "Device On"
+      ],
+      "file": "mappings/ableton/Color Limiter (Ableton stock).json",
+      "sha1": "56bb3a32fec266b3fd8220d9d5ce5fbb0cbc0bbf",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T00:21:36.880Z",
+      "updatedAt": "2026-11-19T00:21:36.880Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "07461961302d5a02",
+      "plugin": "Compressor",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "compressor",
+      "knobs": [
+        "Threshold",
+        "Ratio",
+        "Attack",
+        "Release",
+        "Knee",
+        "Model",
+        "Dry/Wet",
+        "Output"
+      ],
+      "buttons": [
+        "Makeup",
+        "Auto Release",
+        "Look Ahead",
+        "Env Mode",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Compressor (Ableton stock).json",
+      "sha1": "f23c3f508745720fa86e4f2129431bfb4a24d541",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T00:21:36.880Z",
+      "updatedAt": "2026-11-19T00:21:36.880Z",
       "worksForMe": 0,
       "problems": 0
     },
