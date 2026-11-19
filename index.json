@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-19T18:47:41.257Z",
+  "updatedAt": "2026-11-19T18:49:02.705Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -2704,6 +2704,59 @@
       "credit": null,
       "addedAt": "2026-11-19T15:53:58.613Z",
       "updatedAt": "2026-11-19T15:53:58.613Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "586c131d615f5e38",
+      "plugin": "EQ+",
+      "maker": "Stock",
+      "format": "",
+      "daw": "bitwig",
+      "logicPlugin": null,
+      "category": "eq",
+      "knobs": [
+        "Band1 Freq",
+        "Band2 Freq",
+        "Band 2 Gain",
+        "Band 2 Q",
+        "Band7 Freq",
+        "Band 7 Gain",
+        "Band 7 Q",
+        "Band8 Freq",
+        "Band3 Freq",
+        "Band 3 Gain",
+        "Band 3 Q",
+        "Band4 Freq",
+        "Band 4 Gain",
+        "Band 4 Q",
+        "Band5 Freq",
+        "Band 5 Gain",
+        "Band 5 Q",
+        "Band6 Freq",
+        "Band 6 Gain",
+        "Band 6 Q"
+      ],
+      "buttons": [
+        "Band 1 On",
+        "Band 2 On",
+        "Band 7 On",
+        "Band 8 On",
+        "Band 3 On",
+        "Band 4 On",
+        "Band 5 On",
+        "Band 6 On"
+      ],
+      "file": "mappings/bitwig/EQ+ (Bitwig).json",
+      "sha1": "b55c46f2f3a0586421d413bfa535a1e67aa016aa",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "bitwig",
+        "version": "6.1.7"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T18:49:02.705Z",
+      "updatedAt": "2026-11-19T18:49:02.705Z",
       "worksForMe": 0,
       "problems": 0
     },
