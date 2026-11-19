@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-19T14:03:15.452Z",
+  "updatedAt": "2026-11-19T14:53:21.490Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -1463,6 +1463,69 @@
       "credit": null,
       "addedAt": "2026-11-19T14:03:15.452Z",
       "updatedAt": "2026-11-19T14:03:15.452Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "6f676f0c4e1d2525",
+      "plugin": "DS Cymbal",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "instrument",
+      "knobs": [
+        "Tone",
+        "Pitch",
+        "Decay",
+        "Volume"
+      ],
+      "buttons": [
+        "Device On"
+      ],
+      "file": "mappings/ableton/DS Cymbal (Ableton stock).json",
+      "sha1": "154f955aff5b2813ea192ddfc6fa98d8e75f4da4",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T14:53:21.490Z",
+      "updatedAt": "2026-11-19T14:53:21.490Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "316859787e417707",
+      "plugin": "DS FM",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "instrument",
+      "knobs": [
+        "Tone",
+        "Feedb.",
+        "Amount",
+        "Mod",
+        "Pitch",
+        "Decay",
+        "Volume"
+      ],
+      "buttons": [
+        "Device On"
+      ],
+      "file": "mappings/ableton/DS FM (Ableton stock).json",
+      "sha1": "bca1cbaf9c705d67bb60ec8fb8441a2143d54e3d",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T14:53:21.490Z",
+      "updatedAt": "2026-11-19T14:53:21.490Z",
       "worksForMe": 0,
       "problems": 0
     },
