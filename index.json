@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-19T00:04:47.490Z",
+  "updatedAt": "2026-11-19T00:11:59.228Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -1031,6 +1031,88 @@
       "problems": 0
     },
     {
+      "hash": "4b345c782d07452e",
+      "plugin": "RC-20 Retro Color",
+      "maker": "XLN Audio",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "fx",
+      "knobs": [
+        "NOISE",
+        "WOBBLE",
+        "DISTORT",
+        "DIGITAL",
+        "SPACE",
+        "MAGNETIC",
+        "WIDTH",
+        "MAGNITUDE",
+        "MAST Out Gai"
+      ],
+      "buttons": [
+        "On / Off",
+        "On / Off",
+        "On / Off",
+        "On / Off",
+        "On / Off",
+        "On / Off",
+        "Device On"
+      ],
+      "file": "mappings/ableton/RC-20 Retro Color (AU).json",
+      "sha1": "a32c9235d9f567c05517e2aa499e9f7dde3fd4fa",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T00:11:59.228Z",
+      "updatedAt": "2026-11-19T00:11:59.228Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "4f55194935123b00",
+      "plugin": "RC-20 Retro Color",
+      "maker": "XLN Audio",
+      "format": "VST",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "fx",
+      "knobs": [
+        "NOISE",
+        "WOBBLE",
+        "DISTORT",
+        "DIGITAL",
+        "SPACE",
+        "MAGNETIC",
+        "WIDTH",
+        "MAGNITUDE",
+        "MAST Out Gai"
+      ],
+      "buttons": [
+        "On / Off",
+        "On / Off",
+        "On / Off",
+        "On / Off",
+        "On / Off",
+        "On / Off",
+        "Device On"
+      ],
+      "file": "mappings/ableton/RC-20 Retro Color (VST).json",
+      "sha1": "96c6f70626206655649599be0f5d8b578f7077a8",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T00:11:59.228Z",
+      "updatedAt": "2026-11-19T00:11:59.228Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "600a497a2757080a",
       "plugin": "ReLife",
       "maker": "AnalogObsession",
@@ -1240,6 +1322,46 @@
       "problems": 0
     },
     {
+      "hash": "222e6c6969090e32",
+      "plugin": "RC-20 Retro Color",
+      "maker": "XLN Audio",
+      "format": "",
+      "daw": "bitwig",
+      "logicPlugin": null,
+      "category": "fx",
+      "knobs": [
+        "NOISE",
+        "WOBBLE",
+        "DISTORT",
+        "DIGITAL",
+        "SPACE",
+        "MAGNETIC",
+        "WIDTH",
+        "MAGNITUDE",
+        "MAST Out Gai"
+      ],
+      "buttons": [
+        "On / Off",
+        "On / Off",
+        "On / Off",
+        "On / Off",
+        "On / Off",
+        "On / Off"
+      ],
+      "file": "mappings/bitwig/RC-20 Retro Color (Bitwig).json",
+      "sha1": "020bac8688bba14e3519251271b43d69a53a8512",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "bitwig",
+        "version": "6.1.7"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T00:11:59.228Z",
+      "updatedAt": "2026-11-19T00:11:59.228Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "090d465372223c70",
       "plugin": "Channel EQ",
       "maker": "Apple",
@@ -1361,6 +1483,94 @@
       "credit": null,
       "addedAt": "2026-11-18T11:10:23.841Z",
       "updatedAt": "2026-11-18T11:10:23.841Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "693c271d5229761d",
+      "plugin": "RC-20 Retro Color",
+      "maker": "XLN Audio",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "RC-20 Retro Color",
+        "channels": "mono",
+        "stock": false
+      },
+      "category": "fx",
+      "knobs": [
+        "NOISE",
+        "WOBBLE",
+        "DISTORT",
+        "DIGITAL",
+        "SPACE",
+        "MAGNETIC",
+        "WIDTH",
+        "MAGNITUDE",
+        "MAST Out Gai"
+      ],
+      "buttons": [
+        "On / Off",
+        "On / Off",
+        "On / Off",
+        "On / Off",
+        "On / Off",
+        "On / Off"
+      ],
+      "file": "mappings/logic/RC-20 Retro Color (Logic, mono).json",
+      "sha1": "d3800579b09e6f2bc0691aeb080e0ab8d9cae054",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": ""
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T00:11:59.228Z",
+      "updatedAt": "2026-11-19T00:11:59.228Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "7576201d6a6e0107",
+      "plugin": "RC-20 Retro Color",
+      "maker": "XLN Audio",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "RC-20 Retro Color",
+        "channels": "stereo",
+        "stock": false
+      },
+      "category": "fx",
+      "knobs": [
+        "NOISE",
+        "WOBBLE",
+        "DISTORT",
+        "DIGITAL",
+        "SPACE",
+        "MAGNETIC",
+        "WIDTH",
+        "MAGNITUDE",
+        "MAST Out Gai"
+      ],
+      "buttons": [
+        "On / Off",
+        "On / Off",
+        "On / Off",
+        "On / Off",
+        "On / Off",
+        "On / Off"
+      ],
+      "file": "mappings/logic/RC-20 Retro Color (Logic, stereo).json",
+      "sha1": "74eceb57b37390a15008adaa27e01ca290602b75",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": ""
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T00:11:59.228Z",
+      "updatedAt": "2026-11-19T00:11:59.228Z",
       "worksForMe": 0,
       "problems": 0
     }
