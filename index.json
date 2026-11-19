@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-19T13:35:29.139Z",
+  "updatedAt": "2026-11-19T13:45:41.976Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -1145,6 +1145,43 @@
       "problems": 0
     },
     {
+      "hash": "2e7805071e711f34",
+      "plugin": "Decapitator",
+      "maker": "Soundtoys",
+      "format": "VST",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "saturation",
+      "knobs": [
+        "Style",
+        "Drive",
+        "LowCut",
+        "Tone",
+        "HighCut",
+        "OutputTrim",
+        "Mix"
+      ],
+      "buttons": [
+        "Punish",
+        "LowThump",
+        "HighSlope",
+        "AutoGain",
+        "Bypass"
+      ],
+      "file": "mappings/ableton/Decapitator (VST).json",
+      "sha1": "e17ade12146a9adef3170443b0018f26b02c8241",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T13:45:41.976Z",
+      "updatedAt": "2026-11-19T13:45:41.976Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "7d361f713f482c2e",
       "plugin": "Decapitator",
       "maker": "Soundtoys",
@@ -1178,6 +1215,100 @@
       "credit": null,
       "addedAt": "2026-11-19T13:35:29.139Z",
       "updatedAt": "2026-11-19T13:35:29.139Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "3442003b0d1f7b22",
+      "plugin": "Delay",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "delay",
+      "knobs": [
+        "L 16 th",
+        "R 16 th",
+        "L Time",
+        "R Time",
+        "Feedback",
+        "Filter Freq",
+        "Filter Width",
+        "Dry/Wet",
+        "L Offset",
+        "R Offset",
+        "Smoothing"
+      ],
+      "buttons": [
+        "Link",
+        "L Sync",
+        "R Sync",
+        "Freeze",
+        "Filter On",
+        "Ping Pong",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Delay (Ableton stock).json",
+      "sha1": "3a34b60a5a60edd34eb954c2be519be6ad37bbf3",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T13:45:41.976Z",
+      "updatedAt": "2026-11-19T13:45:41.976Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "4876773967792c29",
+      "plugin": "Drift",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "synth",
+      "knobs": [
+        "Osc 1 Wave",
+        "Osc 1 Oct",
+        "Osc 1 Shape",
+        "Osc 1 Gain",
+        "LP Freq",
+        "LP Res",
+        "HP Freq",
+        "Volume",
+        "Osc 2 Wave",
+        "Osc 2 Oct",
+        "Osc 2 Detune",
+        "Osc 2 Gain",
+        "Noise Gain",
+        "Env 1 Attack",
+        "Env 1 Decay",
+        "Env 1 Sustai",
+        "Env 1 Releas",
+        "Env 2 Attack",
+        "Env 2 Decay",
+        "Env 2 Sustai",
+        "Env 2 Releas"
+      ],
+      "buttons": [
+        "Osc 1 On",
+        "LP Type",
+        "Device On",
+        "Osc 2 On",
+        "Noise On"
+      ],
+      "file": "mappings/ableton/Drift (Ableton stock).json",
+      "sha1": "eed9e4a3c59e39d025084ef400ec0bfade40e099",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T13:45:41.976Z",
+      "updatedAt": "2026-11-19T13:45:41.976Z",
       "worksForMe": 0,
       "problems": 0
     },
