@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-19T12:06:36.527Z",
+  "updatedAt": "2026-11-19T13:28:52.793Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -1029,6 +1029,55 @@
       "credit": null,
       "addedAt": "2026-11-18T09:41:00.108Z",
       "updatedAt": "2026-11-18T09:41:00.108Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "1f0d552538696160",
+      "plugin": "Crystallizer",
+      "maker": "Soundtoys",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "delay",
+      "knobs": [
+        "Mix",
+        "Threshold",
+        "Pitch",
+        "Splice",
+        "Delay",
+        "Recycle",
+        "Input Gain",
+        "Output Gain",
+        "Pitch Offset",
+        "Splice Ofs",
+        "Delay Offset",
+        "Smoothing",
+        "Low Cut",
+        "High Cut",
+        "Attack",
+        "Release",
+        "Gate/Duck"
+      ],
+      "buttons": [
+        "Direction",
+        "FB Mode",
+        "Sync Mode",
+        "Bypass",
+        "Analog",
+        "Bypass",
+        "Duck Mode"
+      ],
+      "file": "mappings/ableton/Crystallizer (AU).json",
+      "sha1": "bf9bb9bb5f77a2753e5993e21df9c51f2795547a",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T13:28:52.793Z",
+      "updatedAt": "2026-11-19T13:28:52.793Z",
       "worksForMe": 0,
       "problems": 0
     },
