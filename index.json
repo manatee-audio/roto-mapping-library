@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-19T15:53:58.613Z",
+  "updatedAt": "2026-11-19T18:34:46.342Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -1852,6 +1852,52 @@
       "credit": null,
       "addedAt": "2026-11-19T15:53:58.613Z",
       "updatedAt": "2026-11-19T15:53:58.613Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "2f66737e0f2b616b",
+      "plugin": "Electric",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "instrument",
+      "knobs": [
+        "Stiffness",
+        "Noise",
+        "F Tine",
+        "F Tone",
+        "Symmetry",
+        "Volume",
+        "Stiff Vel",
+        "Stiff Key",
+        "Force Amt",
+        "Force Vel",
+        "Force Key",
+        "Noise Pitch",
+        "Noise Decay",
+        "Noise Key",
+        "F Tine Color",
+        "F Tine Decay",
+        "F Tine < Key",
+        "F Release",
+        "F Tone Decay"
+      ],
+      "buttons": [
+        "Pickup Model",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Electric (Ableton stock).json",
+      "sha1": "6c53c184f7ae796ec7ee48eba32e59e827f0a1fc",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T18:34:46.342Z",
+      "updatedAt": "2026-11-19T18:34:46.342Z",
       "worksForMe": 0,
       "problems": 0
     },
