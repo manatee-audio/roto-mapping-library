@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-19T19:27:19.019Z",
+  "updatedAt": "2026-11-19T23:22:14.754Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -2718,6 +2718,44 @@
       "problems": 0
     },
     {
+      "hash": "6d2c3007180d2853",
+      "plugin": "W495",
+      "maker": "Pulsar",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "eq",
+      "knobs": [
+        "Freq",
+        "Gain",
+        "Freq",
+        "Q",
+        "Gain",
+        "Freq",
+        "Gain",
+        "Output Gain"
+      ],
+      "buttons": [
+        "Mode",
+        "Mode",
+        "Mode",
+        "Auto Gain",
+        "Bypass"
+      ],
+      "file": "mappings/ableton/W495 (AU).json",
+      "sha1": "e07a13d6209b55f8c7d5736a29a4158ee60f4cc0",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T23:22:14.754Z",
+      "updatedAt": "2026-11-19T23:22:14.754Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "2c420e35505c7378",
       "plugin": "ADPTR MetricAB",
       "maker": "Plugin Alliance",
@@ -2932,6 +2970,42 @@
       "credit": null,
       "addedAt": "2026-11-19T18:49:02.705Z",
       "updatedAt": "2026-11-19T18:49:02.705Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "3f5a170d16561a63",
+      "plugin": "FabFilter Pro-C 2",
+      "maker": "FabFilter",
+      "format": "",
+      "daw": "bitwig",
+      "logicPlugin": null,
+      "category": "compressor",
+      "knobs": [
+        "Threshold",
+        "Ratio",
+        "Attack",
+        "Release",
+        "Knee",
+        "Range",
+        "Style",
+        "Mix"
+      ],
+      "buttons": [
+        "Auto Release",
+        "Auto Gain",
+        "Bypass"
+      ],
+      "file": "mappings/bitwig/FabFilter Pro-C 2 (Bitwig).json",
+      "sha1": "082d3b69741380b7c4a94a7eef678d145c38c0bc",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "bitwig",
+        "version": "6.1.7"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T23:22:14.754Z",
+      "updatedAt": "2026-11-19T23:22:14.754Z",
       "worksForMe": 0,
       "problems": 0
     },
