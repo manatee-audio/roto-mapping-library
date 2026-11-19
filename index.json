@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-19T18:49:02.705Z",
+  "updatedAt": "2026-11-19T18:51:43.284Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -2117,6 +2117,37 @@
       "credit": null,
       "addedAt": "2026-11-19T18:47:41.257Z",
       "updatedAt": "2026-11-19T18:47:41.257Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "450c2847407e0e27",
+      "plugin": "Erosion",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "fx",
+      "knobs": [
+        "Frequency",
+        "Noise Blend",
+        "Amount",
+        "Filter Width",
+        "Stereo Width"
+      ],
+      "buttons": [
+        "Device On"
+      ],
+      "file": "mappings/ableton/Erosion (Ableton stock).json",
+      "sha1": "51b15e47b65fbe7ce2dc606e8ba99d23e29aafe1",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T18:51:43.284Z",
+      "updatedAt": "2026-11-19T18:51:43.284Z",
       "worksForMe": 0,
       "problems": 0
     },
