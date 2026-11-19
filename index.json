@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-19T18:59:17.198Z",
+  "updatedAt": "2026-11-19T19:00:38.681Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -2182,6 +2182,42 @@
       "credit": null,
       "addedAt": "2026-11-18T23:57:26.822Z",
       "updatedAt": "2026-11-18T23:57:26.822Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "2935304027000735",
+      "plugin": "FabFilter Pro-C 2",
+      "maker": "FabFilter",
+      "format": "VST",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "compressor",
+      "knobs": [
+        "Threshold",
+        "Ratio",
+        "Attack",
+        "Release",
+        "Knee",
+        "Range",
+        "Style",
+        "Mix"
+      ],
+      "buttons": [
+        "Auto Release",
+        "Auto Gain",
+        "Bypass"
+      ],
+      "file": "mappings/ableton/FabFilter Pro-C 2 (VST).json",
+      "sha1": "9437f77e181c08b3fe491191692f5cd5ec75d92f",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T19:00:38.681Z",
+      "updatedAt": "2026-11-19T19:00:38.681Z",
       "worksForMe": 0,
       "problems": 0
     },
