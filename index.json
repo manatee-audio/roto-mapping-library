@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-19T23:22:14.754Z",
+  "updatedAt": "2026-11-19T23:24:00.403Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -2718,6 +2718,44 @@
       "problems": 0
     },
     {
+      "hash": "2307337849193467",
+      "plugin": "W495",
+      "maker": "Pulsar",
+      "format": "VST",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "eq",
+      "knobs": [
+        "Freq",
+        "Gain",
+        "Freq",
+        "Q",
+        "Gain",
+        "Freq",
+        "Gain",
+        "Output Gain"
+      ],
+      "buttons": [
+        "Mode",
+        "Mode",
+        "Mode",
+        "Auto Gain",
+        "Bypass"
+      ],
+      "file": "mappings/ableton/W495 (VST).json",
+      "sha1": "e006b84a20c0d6b622e6cd0b53acd8081ca8d2a1",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T23:24:00.403Z",
+      "updatedAt": "2026-11-19T23:24:00.403Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "6d2c3007180d2853",
       "plugin": "W495",
       "maker": "Pulsar",
@@ -3081,6 +3119,44 @@
       "credit": null,
       "addedAt": "2026-11-19T00:11:59.228Z",
       "updatedAt": "2026-11-19T00:11:59.228Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "4f18011e35754f3f",
+      "plugin": "W495",
+      "maker": "Pulsar",
+      "format": "",
+      "daw": "bitwig",
+      "logicPlugin": null,
+      "category": "eq",
+      "knobs": [
+        "Freq",
+        "Gain",
+        "Freq",
+        "Q",
+        "Gain",
+        "Freq",
+        "Gain",
+        "Output Gain"
+      ],
+      "buttons": [
+        "Mode",
+        "Mode",
+        "Mode",
+        "Auto Gain",
+        "Bypass"
+      ],
+      "file": "mappings/bitwig/W495 (Bitwig).json",
+      "sha1": "69ce44d80f63e13dbfdf4c4bd718bd9dd71caebc",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "bitwig",
+        "version": "6.1.7"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T23:24:00.403Z",
+      "updatedAt": "2026-11-19T23:24:00.403Z",
       "worksForMe": 0,
       "problems": 0
     },
@@ -3706,6 +3782,90 @@
       "credit": null,
       "addedAt": "2026-11-19T00:11:59.228Z",
       "updatedAt": "2026-11-19T00:11:59.228Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "33340d5d26411c0b",
+      "plugin": "W495",
+      "maker": "Pulsar",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "W495",
+        "channels": "mono",
+        "stock": false
+      },
+      "category": "eq",
+      "knobs": [
+        "Freq",
+        "Gain",
+        "Freq",
+        "Q",
+        "Gain",
+        "Freq",
+        "Gain",
+        "Output Gain"
+      ],
+      "buttons": [
+        "Mode",
+        "Mode",
+        "Mode",
+        "Auto Gain",
+        "Bypass"
+      ],
+      "file": "mappings/logic/W495 (Logic, mono).json",
+      "sha1": "adb44e3b785875a96b4e262787a80c8069d4016c",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T23:24:00.403Z",
+      "updatedAt": "2026-11-19T23:24:00.403Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "3f01015d3e3e7b2a",
+      "plugin": "W495",
+      "maker": "Pulsar",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "W495",
+        "channels": "stereo",
+        "stock": false
+      },
+      "category": "eq",
+      "knobs": [
+        "Freq",
+        "Gain",
+        "Freq",
+        "Q",
+        "Gain",
+        "Freq",
+        "Gain",
+        "Output Gain"
+      ],
+      "buttons": [
+        "Mode",
+        "Mode",
+        "Mode",
+        "Auto Gain",
+        "Bypass"
+      ],
+      "file": "mappings/logic/W495 (Logic, stereo).json",
+      "sha1": "0fde891fbafc4bcb8c603c5553c233739f53406f",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T23:24:00.403Z",
+      "updatedAt": "2026-11-19T23:24:00.403Z",
       "worksForMe": 0,
       "problems": 0
     }
