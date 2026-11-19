@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-19T13:54:23.996Z",
+  "updatedAt": "2026-11-19T14:03:15.452Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -1395,6 +1395,74 @@
       "credit": null,
       "addedAt": "2026-11-19T13:54:23.996Z",
       "updatedAt": "2026-11-19T13:54:23.996Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "1b36695a181f721c",
+      "plugin": "DS Clang",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "instrument",
+      "knobs": [
+        "Pitch",
+        "Decay",
+        "Volume",
+        "1st Tone",
+        "2nd Tone",
+        "Filter",
+        "Noise",
+        "ClaveRepeat"
+      ],
+      "buttons": [
+        "Clave",
+        "Device On"
+      ],
+      "file": "mappings/ableton/DS Clang (Ableton stock).json",
+      "sha1": "e9543a7403eef400ca067538ded61f777cab2afa",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T14:03:15.452Z",
+      "updatedAt": "2026-11-19T14:03:15.452Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "1d394f23216c4c5b",
+      "plugin": "DS Clap",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "instrument",
+      "knobs": [
+        "Sloppy",
+        "Tail",
+        "Spread",
+        "Tone",
+        "Tune",
+        "Decay",
+        "Volume"
+      ],
+      "buttons": [
+        "Device On"
+      ],
+      "file": "mappings/ableton/DS Clap (Ableton stock).json",
+      "sha1": "70b5a0abf8068b419014f87a1dce4ccbcf863ac5",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T14:03:15.452Z",
+      "updatedAt": "2026-11-19T14:03:15.452Z",
       "worksForMe": 0,
       "problems": 0
     },
