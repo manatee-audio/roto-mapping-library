@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-19T14:59:39.420Z",
+  "updatedAt": "2026-11-19T15:08:09.799Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -1656,6 +1656,88 @@
       "credit": null,
       "addedAt": "2026-11-19T14:59:39.420Z",
       "updatedAt": "2026-11-19T14:59:39.420Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "0315502c1f721d15",
+      "plugin": "Dynamic Tube",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "saturation",
+      "knobs": [
+        "Drive",
+        "Tone",
+        "Bias",
+        "Envelope",
+        "Attack",
+        "Release",
+        "Output",
+        "Dry/Wet"
+      ],
+      "buttons": [
+        "Tube Type",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Dynamic Tube (Ableton stock).json",
+      "sha1": "761539f9b4d115d3f4b37e8d4ac7daaa36da3f3b",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T15:08:09.799Z",
+      "updatedAt": "2026-11-19T15:08:09.799Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "673847581a7b7a1a",
+      "plugin": "Echo",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "delay",
+      "knobs": [
+        "L Synced",
+        "R Synced",
+        "L Time",
+        "R Time",
+        "Input Gain",
+        "Feedback",
+        "Stereo Width",
+        "Dry Wet",
+        "HP Freq",
+        "HP Res",
+        "LP Freq",
+        "LP Res",
+        "Reverb Level",
+        "Reverb Decay",
+        "Output"
+      ],
+      "buttons": [
+        "L Sync",
+        "R Sync",
+        "Link",
+        "Mode",
+        "Device On",
+        "Filter On",
+        "Reverb Loc"
+      ],
+      "file": "mappings/ableton/Echo (Ableton stock).json",
+      "sha1": "ff6e0ca61893f7baf41905707d6d435f27acb3db",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T15:08:09.799Z",
+      "updatedAt": "2026-11-19T15:08:09.799Z",
       "worksForMe": 0,
       "problems": 0
     },
