@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-19T00:21:36.880Z",
+  "updatedAt": "2026-11-19T12:01:52.966Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -861,6 +861,90 @@
       "problems": 0
     },
     {
+      "hash": "335520483f4b7e14",
+      "plugin": "Convolution Reverb",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "reverb",
+      "knobs": [
+        "Predelay",
+        "Width",
+        "Gain",
+        "Dry/Wet",
+        "Lo Gain",
+        "Lo Freq",
+        "Mid Gain",
+        "Mid Freq",
+        "Hi Gain",
+        "Hi Freq",
+        "Dry/Wet"
+      ],
+      "buttons": [
+        "EQ On",
+        "Device On",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Convolution Reverb (Ableton stock).json",
+      "sha1": "582964b0b3d0be1f2e211996227c2723b36a6183",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T12:01:52.966Z",
+      "updatedAt": "2026-11-19T12:01:52.966Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "240b65535d5c0b1d",
+      "plugin": "Convolution Reverb Pro",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "reverb",
+      "knobs": [
+        "Predelay",
+        "Pos Pan",
+        "Mod Amount",
+        "Mod Rate",
+        "Width",
+        "Gain",
+        "Dry/Wet",
+        "Lo Freq",
+        "Lo Gain",
+        "Mid Freq",
+        "Mid Gain",
+        "Hi Freq",
+        "Hi Gain",
+        "Dry/Wet"
+      ],
+      "buttons": [
+        "EQ On",
+        "Pos On",
+        "Mod On",
+        "Device On",
+        "EQ On",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Convolution Reverb Pro (Ableton stock).json",
+      "sha1": "6ad804af3f7c118c645ff907904c9095d2d11d6e",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T12:01:52.966Z",
+      "updatedAt": "2026-11-19T12:01:52.966Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "733e5d75006c5b32",
       "plugin": "CrushStation",
       "maker": "Eventide",
@@ -1553,6 +1637,100 @@
       "credit": null,
       "addedAt": "2026-11-18T11:10:23.841Z",
       "updatedAt": "2026-11-18T11:10:23.841Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "41551530225a150f",
+      "plugin": "CrushStation",
+      "maker": "Eventide",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "CrushStation",
+        "channels": "mono",
+        "stock": false
+      },
+      "category": "saturation",
+      "knobs": [
+        "Input",
+        "MIX",
+        "DRIVE",
+        "SUSTAIN",
+        "SAG",
+        "OCTAVES",
+        "GRIT",
+        "Output",
+        "Gate Thresh",
+        "BASS",
+        "MIDS",
+        "Mids Freq",
+        "TREBLE",
+        "Ribbon"
+      ],
+      "buttons": [
+        "Attack",
+        "GATE",
+        "ACTIVE",
+        "HOTSWITCH"
+      ],
+      "file": "mappings/logic/CrushStation (Logic, mono).json",
+      "sha1": "e5ca16ac91a2ae3f8267d31ef3fff7aedff37ddc",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": ""
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T12:01:52.966Z",
+      "updatedAt": "2026-11-19T12:01:52.966Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "4d2e29303a051602",
+      "plugin": "CrushStation",
+      "maker": "Eventide",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "CrushStation",
+        "channels": "stereo",
+        "stock": false
+      },
+      "category": "saturation",
+      "knobs": [
+        "Input",
+        "MIX",
+        "DRIVE",
+        "SUSTAIN",
+        "SAG",
+        "OCTAVES",
+        "GRIT",
+        "Output",
+        "Gate Thresh",
+        "BASS",
+        "MIDS",
+        "Mids Freq",
+        "TREBLE",
+        "Ribbon"
+      ],
+      "buttons": [
+        "Attack",
+        "GATE",
+        "ACTIVE",
+        "HOTSWITCH"
+      ],
+      "file": "mappings/logic/CrushStation (Logic, stereo).json",
+      "sha1": "3384936c881d817fc2051321e0f2c0abb011c82c",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": ""
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T12:01:52.966Z",
+      "updatedAt": "2026-11-19T12:01:52.966Z",
       "worksForMe": 0,
       "problems": 0
     },
