@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-19T23:24:00.403Z",
+  "updatedAt": "2026-11-19T23:31:36.997Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -2330,6 +2330,87 @@
       "problems": 0
     },
     {
+      "hash": "025f7b385b7b5d2b",
+      "plugin": "HUM Audio Devices LAAL",
+      "maker": "Plugin Alliance",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "limiter",
+      "knobs": [
+        "Input Level ",
+        "Output Level",
+        "Input Trim 1",
+        "Output Trim ",
+        "Release Time",
+        "Stereo Width",
+        "Mono Maker F",
+        "Parallel Mix"
+      ],
+      "buttons": [
+        "Monitoring",
+        "Monitoring",
+        "Dynamic Tran",
+        "Transformer ",
+        "Detect Link ",
+        "Stereo Width",
+        "Limiter Bypa",
+        "Power"
+      ],
+      "file": "mappings/ableton/HUM Audio Devices LAAL (AU).json",
+      "sha1": "184dd125eeae7a93a4217ead40addd27c0890591",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T23:31:36.997Z",
+      "updatedAt": "2026-11-19T23:31:36.997Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "644f43781f313b0c",
+      "plugin": "HUM Audio Devices LAAL",
+      "maker": "Plugin Alliance",
+      "format": "VST",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "limiter",
+      "knobs": [
+        "Input Level",
+        "Output Level",
+        "Input Trim 1",
+        "Output Trim",
+        "Release Time",
+        "Stereo Width",
+        "Mono Maker F",
+        "Parallel Mix"
+      ],
+      "buttons": [
+        "Monitoring",
+        "Dynamic Tran",
+        "Transformer",
+        "Detect Link",
+        "Stereo Width",
+        "Limiter Bypa",
+        "Power"
+      ],
+      "file": "mappings/ableton/HUM Audio Devices LAAL (VST).json",
+      "sha1": "e57ee43fb4208d003e70d49279e922484bbe574c",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T23:31:36.997Z",
+      "updatedAt": "2026-11-19T23:31:36.997Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "18367e1a64697611",
       "plugin": "kHs Bitcrush",
       "maker": "Kilohearts",
@@ -2646,6 +2727,34 @@
       "credit": null,
       "addedAt": "2026-11-18T09:41:00.108Z",
       "updatedAt": "2026-11-18T09:41:00.108Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "5e557022101d3117",
+      "plugin": "Utility",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "utility",
+      "knobs": [
+        "Stereo Width",
+        "Output"
+      ],
+      "buttons": [
+        "Mono"
+      ],
+      "file": "mappings/ableton/Utility (Ableton stock).json",
+      "sha1": "7aa02f73e3e7639b31d9958d73bed0c6a5057089",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T23:31:36.997Z",
+      "updatedAt": "2026-11-19T23:31:36.997Z",
       "worksForMe": 0,
       "problems": 0
     },
