@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-19T13:30:26.236Z",
+  "updatedAt": "2026-11-19T13:35:29.139Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -1117,6 +1117,71 @@
       "problems": 0
     },
     {
+      "hash": "512256136210304f",
+      "plugin": "DeBoom",
+      "maker": "Eventide",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "eq",
+      "knobs": [
+        "DeBoom",
+        "Output Gain"
+      ],
+      "buttons": [
+        "Bypass"
+      ],
+      "file": "mappings/ableton/DeBoom (AU).json",
+      "sha1": "c308387a989036215426cf5dcbf15a1ba2af56f8",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T13:35:29.139Z",
+      "updatedAt": "2026-11-19T13:35:29.139Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "7d361f713f482c2e",
+      "plugin": "Decapitator",
+      "maker": "Soundtoys",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "saturation",
+      "knobs": [
+        "Style",
+        "Drive",
+        "LowCut",
+        "Tone",
+        "HighCut",
+        "OutputTrim",
+        "Mix"
+      ],
+      "buttons": [
+        "Punish",
+        "LowThump",
+        "HighSlope",
+        "AutoGain",
+        "Bypass"
+      ],
+      "file": "mappings/ableton/Decapitator (AU).json",
+      "sha1": "5ae5afccb63a1952dcfc016447f9940962b7b32c",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T13:35:29.139Z",
+      "updatedAt": "2026-11-19T13:35:29.139Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "49496b22362c2c1f",
       "plugin": "Endless Smile",
       "maker": "Dada Life",
@@ -1639,6 +1704,42 @@
       "problems": 0
     },
     {
+      "hash": "4058466b470b2b43",
+      "plugin": "Decapitator",
+      "maker": "Soundtoys",
+      "format": "",
+      "daw": "bitwig",
+      "logicPlugin": null,
+      "category": "saturation",
+      "knobs": [
+        "Style",
+        "Drive",
+        "LowCut",
+        "Tone",
+        "HighCut",
+        "OutputTrim",
+        "Mix"
+      ],
+      "buttons": [
+        "Punish",
+        "LowThump",
+        "HighSlope",
+        "AutoGain"
+      ],
+      "file": "mappings/bitwig/Decapitator (Bitwig).json",
+      "sha1": "fb438e3782e829eca175693caf040e5691161fff",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "bitwig",
+        "version": "6.1.7"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T13:35:29.139Z",
+      "updatedAt": "2026-11-19T13:35:29.139Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "222e6c6969090e32",
       "plugin": "RC-20 Retro Color",
       "maker": "XLN Audio",
@@ -1972,6 +2073,88 @@
       "credit": null,
       "addedAt": "2026-11-19T13:30:26.236Z",
       "updatedAt": "2026-11-19T13:30:26.236Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "4a426402341b4b30",
+      "plugin": "Decapitator",
+      "maker": "Soundtoys",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Decapitator",
+        "channels": "mono",
+        "stock": false
+      },
+      "category": "saturation",
+      "knobs": [
+        "Style",
+        "Drive",
+        "LowCut",
+        "Tone",
+        "HighCut",
+        "OutputTrim",
+        "Mix"
+      ],
+      "buttons": [
+        "Punish",
+        "LowThump",
+        "HighSlope",
+        "AutoGain",
+        "Bypass"
+      ],
+      "file": "mappings/logic/Decapitator (Logic, mono).json",
+      "sha1": "9d9776d2f84977f5eb6bb2495aad339b3472fb88",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": ""
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T13:35:29.139Z",
+      "updatedAt": "2026-11-19T13:35:29.139Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "562464024c4b644f",
+      "plugin": "Decapitator",
+      "maker": "Soundtoys",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Decapitator",
+        "channels": "stereo",
+        "stock": false
+      },
+      "category": "saturation",
+      "knobs": [
+        "Style",
+        "Drive",
+        "LowCut",
+        "Tone",
+        "HighCut",
+        "OutputTrim",
+        "Mix"
+      ],
+      "buttons": [
+        "Punish",
+        "LowThump",
+        "HighSlope",
+        "AutoGain",
+        "Bypass"
+      ],
+      "file": "mappings/logic/Decapitator (Logic, stereo).json",
+      "sha1": "c4a9df27bf61915e31329d7bf840b3fd05148255",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": ""
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T13:35:29.139Z",
+      "updatedAt": "2026-11-19T13:35:29.139Z",
       "worksForMe": 0,
       "problems": 0
     },
