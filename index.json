@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-19T19:00:38.681Z",
+  "updatedAt": "2026-11-19T19:27:19.019Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -2258,6 +2258,78 @@
       "problems": 0
     },
     {
+      "hash": "097b311f5c402119",
+      "plugin": "FabFilter Pro-DS",
+      "maker": "FabFilter",
+      "format": "VST",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "vocal",
+      "knobs": [
+        "Threshold",
+        "Range",
+        "HP Filter",
+        "LP Filter",
+        "Stereo Link",
+        "Lookahead"
+      ],
+      "buttons": [
+        "Audit Trig",
+        "Audit SC",
+        "Mode",
+        "Stereo M/S",
+        "Device On"
+      ],
+      "file": "mappings/ableton/FabFilter Pro-DS (VST).json",
+      "sha1": "d289515b0e5410b4656b6f9b724026a2457d0b18",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T19:27:19.019Z",
+      "updatedAt": "2026-11-19T19:27:19.019Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "3c267e7b5f28086a",
+      "plugin": "FabFilter Pro-DS",
+      "maker": "FabFilter",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "vocal",
+      "knobs": [
+        "Threshold",
+        "Range",
+        "HP Filter",
+        "LP Filter",
+        "Stereo Link",
+        "Lookahead"
+      ],
+      "buttons": [
+        "Audit Trig",
+        "Audit SC",
+        "Mode",
+        "Stereo M/S",
+        "Device On"
+      ],
+      "file": "mappings/ableton/FabFilter Pro-DS (AU).json",
+      "sha1": "57ba8a28fe9943501a3be1cf76af6501b7baaa8e",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T19:27:19.019Z",
+      "updatedAt": "2026-11-19T19:27:19.019Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "18367e1a64697611",
       "plugin": "kHs Bitcrush",
       "maker": "Kilohearts",
@@ -2864,6 +2936,41 @@
       "problems": 0
     },
     {
+      "hash": "5804483c19747a28",
+      "plugin": "FabFilter Pro-DS",
+      "maker": "FabFilter",
+      "format": "",
+      "daw": "bitwig",
+      "logicPlugin": null,
+      "category": "vocal",
+      "knobs": [
+        "Threshold",
+        "Range",
+        "HP Filter",
+        "LP Filter",
+        "Stereo Link",
+        "Lookahead"
+      ],
+      "buttons": [
+        "Audit Trig",
+        "Audit SC",
+        "Mode",
+        "Stereo M/S"
+      ],
+      "file": "mappings/bitwig/FabFilter Pro-DS (Bitwig).json",
+      "sha1": "d2e916e060678ffd02995dd6bb03d790d6c0024c",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "bitwig",
+        "version": "6.1.7"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T19:27:19.019Z",
+      "updatedAt": "2026-11-19T19:27:19.019Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "222e6c6969090e32",
       "plugin": "RC-20 Retro Color",
       "maker": "XLN Audio",
@@ -3279,6 +3386,164 @@
       "credit": null,
       "addedAt": "2026-11-19T13:35:29.139Z",
       "updatedAt": "2026-11-19T13:35:29.139Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "4d123a053a126a49",
+      "plugin": "FabFilter Pro-C 2",
+      "maker": "FabFilter",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Pro-C 2",
+        "channels": "mono",
+        "stock": false
+      },
+      "category": "compressor",
+      "knobs": [
+        "Threshold",
+        "Ratio",
+        "Attack",
+        "Release",
+        "Knee",
+        "Range",
+        "Style",
+        "Mix"
+      ],
+      "buttons": [
+        "Auto Release",
+        "Auto Gain",
+        "Bypass"
+      ],
+      "file": "mappings/logic/Pro-C 2 (Logic, mono).json",
+      "sha1": "64237feee5b403477feaec414549914347b34bd8",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T19:27:19.019Z",
+      "updatedAt": "2026-11-19T19:27:19.019Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "5918390552175911",
+      "plugin": "FabFilter Pro-C 2",
+      "maker": "FabFilter",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Pro-C 2",
+        "channels": "stereo",
+        "stock": false
+      },
+      "category": "compressor",
+      "knobs": [
+        "Threshold",
+        "Ratio",
+        "Attack",
+        "Release",
+        "Knee",
+        "Range",
+        "Style",
+        "Mix"
+      ],
+      "buttons": [
+        "Auto Release",
+        "Auto Gain",
+        "Bypass"
+      ],
+      "file": "mappings/logic/Pro-C 2 (Logic, stereo).json",
+      "sha1": "514b8e976bf10f4c8e582125a33a8a004cb55f22",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T19:27:19.019Z",
+      "updatedAt": "2026-11-19T19:27:19.019Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "4f520e7f3e166b00",
+      "plugin": "FabFilter Pro-DS",
+      "maker": "FabFilter",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Pro-DS",
+        "channels": "mono",
+        "stock": false
+      },
+      "category": "vocal",
+      "knobs": [
+        "Threshold",
+        "Range",
+        "HP Filter",
+        "LP Filter",
+        "Stereo Link",
+        "Lookahead"
+      ],
+      "buttons": [
+        "Audit Trig",
+        "Audit SC",
+        "Mode",
+        "Stereo M/S"
+      ],
+      "file": "mappings/logic/Pro-DS (Logic, mono).json",
+      "sha1": "0826dd6f92ce6908c5b262e3278b49cfc73bc6cf",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": ""
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T19:27:19.019Z",
+      "updatedAt": "2026-11-19T19:27:19.019Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "5b02027f5640215b",
+      "plugin": "FabFilter Pro-DS",
+      "maker": "FabFilter",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Pro-DS",
+        "channels": "stereo",
+        "stock": false
+      },
+      "category": "vocal",
+      "knobs": [
+        "Threshold",
+        "Range",
+        "HP Filter",
+        "LP Filter",
+        "Stereo Link",
+        "Lookahead"
+      ],
+      "buttons": [
+        "Audit Trig",
+        "Audit SC",
+        "Mode",
+        "Stereo M/S"
+      ],
+      "file": "mappings/logic/Pro-DS (Logic, stereo).json",
+      "sha1": "0f0eee91a5e2e2e465262321d000e8f06012b5b7",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": ""
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T19:27:19.019Z",
+      "updatedAt": "2026-11-19T19:27:19.019Z",
       "worksForMe": 0,
       "problems": 0
     },
