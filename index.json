@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-18T23:57:26.822Z",
+  "updatedAt": "2026-11-19T00:04:47.490Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -745,6 +745,48 @@
       "credit": null,
       "addedAt": "2026-11-18T23:57:26.822Z",
       "updatedAt": "2026-11-18T23:57:26.822Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "33290579500f0e50",
+      "plugin": "Chorus-Ensemble",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "modulation",
+      "knobs": [
+        "Mode",
+        "Rate",
+        "Amount",
+        "Feedback",
+        "Width",
+        "Output",
+        "Warmth",
+        "Dry/Wet",
+        "HP Freq",
+        "Offset",
+        "Shape",
+        "Delay Time"
+      ],
+      "buttons": [
+        "FB Invert",
+        "Device On",
+        "HP On",
+        "Delay Taps",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Chorus-Ensemble (Ableton stock).json",
+      "sha1": "625d677941701020579aa7ec7e331f52e931e421",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-19T00:04:47.490Z",
+      "updatedAt": "2026-11-19T00:04:47.490Z",
       "worksForMe": 0,
       "problems": 0
     },
