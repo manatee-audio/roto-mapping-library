@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-20T15:18:32.561Z",
+  "updatedAt": "2026-11-20T15:20:38.097Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -3450,6 +3450,66 @@
       "problems": 0
     },
     {
+      "hash": "4024247103091b19",
+      "plugin": "Little Radiator",
+      "maker": "Soundtoys",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "saturation",
+      "knobs": [
+        "Heat",
+        "Mix"
+      ],
+      "buttons": [
+        "Noise",
+        "Bias",
+        "Bypass"
+      ],
+      "file": "mappings/ableton/Little Radiator (AU).json",
+      "sha1": "811a49544b2b7db9c40a0ee39296ed9feb46c042",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T15:20:38.097Z",
+      "updatedAt": "2026-11-20T15:20:38.097Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "5579435a5a275520",
+      "plugin": "Little Radiator",
+      "maker": "Soundtoys",
+      "format": "VST",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "saturation",
+      "knobs": [
+        "Heat",
+        "Mix"
+      ],
+      "buttons": [
+        "Noise",
+        "Bias",
+        "Bypass"
+      ],
+      "file": "mappings/ableton/Little Radiator (VST).json",
+      "sha1": "3c17d51f424b6084d47c58658a33d2f5e90d45fc",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T15:20:38.097Z",
+      "updatedAt": "2026-11-20T15:20:38.097Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "25772a4d0769713b",
       "plugin": "MidBoss",
       "maker": "AnalogObsession",
@@ -5880,6 +5940,74 @@
       "credit": null,
       "addedAt": "2026-11-20T15:18:32.561Z",
       "updatedAt": "2026-11-20T15:18:32.561Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "0a2c6f2654527709",
+      "plugin": "Little Radiator",
+      "maker": "Soundtoys",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Little Radiator",
+        "channels": "stereo",
+        "stock": false
+      },
+      "category": "saturation",
+      "knobs": [
+        "Heat",
+        "Mix"
+      ],
+      "buttons": [
+        "Noise",
+        "Bias",
+        "Bypass"
+      ],
+      "file": "mappings/logic/Little Radiator (Logic, stereo).json",
+      "sha1": "e1b7b591acb19fc57c7407500da3aaec5ca5cefa",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T15:20:38.097Z",
+      "updatedAt": "2026-11-20T15:20:38.097Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "3e0b6c267c065e08",
+      "plugin": "Little Radiator",
+      "maker": "Soundtoys",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Little Radiator",
+        "channels": "mono",
+        "stock": false
+      },
+      "category": "saturation",
+      "knobs": [
+        "Heat",
+        "Mix"
+      ],
+      "buttons": [
+        "Noise",
+        "Bias",
+        "Bypass"
+      ],
+      "file": "mappings/logic/Little Radiator (Logic, mono).json",
+      "sha1": "7bf034f9f8e20e2dc8b251ff8b53ad32a9291c57",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T15:20:38.097Z",
+      "updatedAt": "2026-11-20T15:20:38.097Z",
       "worksForMe": 0,
       "problems": 0
     },
