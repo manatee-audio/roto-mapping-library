@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-19T23:31:36.997Z",
+  "updatedAt": "2026-11-20T11:25:43.559Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -2330,6 +2330,109 @@
       "problems": 0
     },
     {
+      "hash": "476c4a1f7a474069",
+      "plugin": "Filter Delay",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "delay",
+      "knobs": [
+        "2 Filter Fre",
+        "2 Filter Wid",
+        "2 Beat Delay",
+        "2 Feedback",
+        "1 Volume",
+        "3 Volume",
+        "2 Volume",
+        "Dry"
+      ],
+      "buttons": [
+        "2 Filter On",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Filter Delay (Ableton stock).json",
+      "sha1": "dadaa61e2086abbf2c2f2191e15a64d83ab77dc6",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T11:25:43.559Z",
+      "updatedAt": "2026-11-20T11:25:43.559Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "15107b2c65541e77",
+      "plugin": "Filtron",
+      "maker": "Polyverse Music",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "filter",
+      "knobs": [
+        "In",
+        "Out",
+        "Type",
+        "Cutoff",
+        "Resonance",
+        "Drive",
+        "Out"
+      ],
+      "buttons": [
+        "Drive Mode",
+        "Power"
+      ],
+      "file": "mappings/ableton/Filtron (AU).json",
+      "sha1": "18a74548938563bfc159c8c6cfd4a13cd9cfa326",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T11:25:43.559Z",
+      "updatedAt": "2026-11-20T11:25:43.559Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "580d56665b203e49",
+      "plugin": "Filtron",
+      "maker": "Polyverse Music",
+      "format": "VST",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "filter",
+      "knobs": [
+        "In",
+        "Out",
+        "Type",
+        "Cutoff",
+        "Resonance",
+        "Drive",
+        "Out"
+      ],
+      "buttons": [
+        "Drive Mode",
+        "Power"
+      ],
+      "file": "mappings/ableton/Filtron (VST).json",
+      "sha1": "c5b02c267e56909950ae5806e5d788b1a8750e98",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T11:25:43.559Z",
+      "updatedAt": "2026-11-20T11:25:43.559Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "025f7b385b7b5d2b",
       "plugin": "HUM Audio Devices LAAL",
       "maker": "Plugin Alliance",
@@ -2379,10 +2482,10 @@
       "logicPlugin": null,
       "category": "limiter",
       "knobs": [
-        "Input Level",
+        "Input Level ",
         "Output Level",
         "Input Trim 1",
-        "Output Trim",
+        "Output Trim ",
         "Release Time",
         "Stereo Width",
         "Mono Maker F",
@@ -2390,15 +2493,16 @@
       ],
       "buttons": [
         "Monitoring",
+        "Monitoring",
         "Dynamic Tran",
-        "Transformer",
-        "Detect Link",
+        "Transformer ",
+        "Detect Link ",
         "Stereo Width",
         "Limiter Bypa",
         "Power"
       ],
       "file": "mappings/ableton/HUM Audio Devices LAAL (VST).json",
-      "sha1": "e57ee43fb4208d003e70d49279e922484bbe574c",
+      "sha1": "c57fc8c198f1d0dd084a6a3ea6e430e927510381",
       "label": "approved",
       "checkedIn": {
         "daw": "ableton",
@@ -2406,7 +2510,7 @@
       },
       "credit": null,
       "addedAt": "2026-11-19T23:31:36.997Z",
-      "updatedAt": "2026-11-19T23:31:36.997Z",
+      "updatedAt": "2026-11-20T11:25:43.559Z",
       "worksForMe": 0,
       "problems": 0
     },
@@ -3192,6 +3296,81 @@
       "problems": 0
     },
     {
+      "hash": "4444474d3a706d12",
+      "plugin": "Filtron",
+      "maker": "Polyverse Music",
+      "format": "",
+      "daw": "bitwig",
+      "logicPlugin": null,
+      "category": "filter",
+      "knobs": [
+        "In",
+        "Out",
+        "Type",
+        "Cutoff",
+        "Resonance",
+        "Drive",
+        "Out"
+      ],
+      "buttons": [
+        "Drive Mode",
+        "Power"
+      ],
+      "file": "mappings/bitwig/Filtron (Bitwig).json",
+      "sha1": "b1f9ed5623c6209194a9fd220a0b7c0abc31659b",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "bitwig",
+        "version": "6.1.7"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T11:25:43.559Z",
+      "updatedAt": "2026-11-20T11:25:43.559Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "791b1e7f4b17686a",
+      "plugin": "HUM Audio Devices LAAL",
+      "maker": "Plugin Alliance",
+      "format": "",
+      "daw": "bitwig",
+      "logicPlugin": null,
+      "category": "limiter",
+      "knobs": [
+        "Input Level ",
+        "Output Level",
+        "Input Trim 1",
+        "Output Trim ",
+        "Release Time",
+        "Stereo Width",
+        "Mono Maker F",
+        "Parallel Mix"
+      ],
+      "buttons": [
+        "Monitoring",
+        "Monitoring",
+        "Dynamic Tran",
+        "Transformer ",
+        "Detect Link ",
+        "Stereo Width",
+        "Limiter Bypa",
+        "Power"
+      ],
+      "file": "mappings/bitwig/HUM Audio Devices LAAL (Bitwig).json",
+      "sha1": "f9b821d2a52c48629dfe74221e9864bed94b227d",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "bitwig",
+        "version": "6.1.7"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T11:25:43.559Z",
+      "updatedAt": "2026-11-20T11:25:43.559Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "222e6c6969090e32",
       "plugin": "RC-20 Retro Color",
       "maker": "XLN Audio",
@@ -3803,6 +3982,127 @@
       "credit": null,
       "addedAt": "2026-11-19T19:27:19.019Z",
       "updatedAt": "2026-11-19T19:27:19.019Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "182660787069486a",
+      "plugin": "Filtron",
+      "maker": "Polyverse Music",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Filtron",
+        "channels": "mono",
+        "stock": false
+      },
+      "category": "filter",
+      "knobs": [
+        "In",
+        "Out",
+        "Type",
+        "Cutoff",
+        "Resonance",
+        "Drive",
+        "Out"
+      ],
+      "buttons": [
+        "Drive Mode",
+        "Power"
+      ],
+      "file": "mappings/logic/Filtron (Logic, mono).json",
+      "sha1": "fbec8ba45cb5d444cd368b2fc0efc4a37519b910",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T11:25:43.559Z",
+      "updatedAt": "2026-11-20T11:25:43.559Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "6403657848021015",
+      "plugin": "Filtron",
+      "maker": "Polyverse Music",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Filtron",
+        "channels": "stereo",
+        "stock": false
+      },
+      "category": "filter",
+      "knobs": [
+        "In",
+        "Out",
+        "Type",
+        "Cutoff",
+        "Resonance",
+        "Drive",
+        "Out"
+      ],
+      "buttons": [
+        "Drive Mode",
+        "Power"
+      ],
+      "file": "mappings/logic/Filtron (Logic, stereo).json",
+      "sha1": "6e0a70299865bc93ab01e3d485328c24fbabf21c",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T11:25:43.559Z",
+      "updatedAt": "2026-11-20T11:25:43.559Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "5f7148547e5b586b",
+      "plugin": "HUM Audio Devices LAAL",
+      "maker": "Plugin Alliance",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "HUM Audio Devices LAAL",
+        "channels": "stereo",
+        "stock": false
+      },
+      "category": "limiter",
+      "knobs": [
+        "Input Level ",
+        "Output Level",
+        "Input Trim 1",
+        "Output Trim ",
+        "Release Time",
+        "Stereo Width",
+        "Mono Maker F",
+        "Parallel Mix"
+      ],
+      "buttons": [
+        "Monitoring",
+        "Monitoring",
+        "Dynamic Tran",
+        "Transformer ",
+        "Detect Link ",
+        "Stereo Width",
+        "Limiter Bypa",
+        "Power"
+      ],
+      "file": "mappings/logic/HUM Audio Devices LAAL (Logic, stereo).json",
+      "sha1": "d611e48058df5b757e3d18c5022860c7eb293ab0",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T11:25:43.559Z",
+      "updatedAt": "2026-11-20T11:25:43.559Z",
       "worksForMe": 0,
       "problems": 0
     },
