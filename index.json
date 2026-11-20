@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-20T13:33:32.926Z",
+  "updatedAt": "2026-11-20T13:59:22.697Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -3032,6 +3032,62 @@
       "credit": null,
       "addedAt": "2026-11-19T23:31:36.997Z",
       "updatedAt": "2026-11-20T11:25:43.559Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "0e01763c7715512b",
+      "plugin": "Hybrid Reverb",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "reverb",
+      "knobs": [
+        "Predelay",
+        "Blend",
+        "Algo Type",
+        "Decay",
+        "Size",
+        "Damping",
+        "Stereo",
+        "Dry/Wet",
+        "DH Shape",
+        "DH BassMult",
+        "DH Bass X",
+        "Modulation",
+        "Diffusion",
+        "EQ Lo Gain",
+        "EQ Lo Freq",
+        "EQ Peak 1 Ga",
+        "EQ Peak 1 Fr",
+        "EQ Peak 1 Q",
+        "EQ Hi Gain",
+        "EQ Hi Freq"
+      ],
+      "buttons": [
+        "Predelay Syn",
+        "Routing",
+        "Freeze In",
+        "Freeze",
+        "Vintage",
+        "Bass Mono",
+        "Device On",
+        "EQ On",
+        "EQ Lo Type",
+        "EQ Hi Type",
+        "EQ Hi Slope"
+      ],
+      "file": "mappings/ableton/Hybrid Reverb (Ableton stock).json",
+      "sha1": "016bf4c7cec9e756970a1d959d05cfaebea6acf2",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T13:59:22.697Z",
+      "updatedAt": "2026-11-20T13:59:22.697Z",
       "worksForMe": 0,
       "problems": 0
     },
