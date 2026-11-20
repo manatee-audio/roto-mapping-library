@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-20T15:20:38.097Z",
+  "updatedAt": "2026-11-20T15:24:19.891Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -3506,6 +3506,40 @@
       "credit": null,
       "addedAt": "2026-11-20T15:20:38.097Z",
       "updatedAt": "2026-11-20T15:20:38.097Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "0d3d203e7a184800",
+      "plugin": "Looper",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "delay",
+      "knobs": [
+        "State",
+        "Speed",
+        "Quantization",
+        "Monitor",
+        "Song Control",
+        "Tempo Contro",
+        "Feedback"
+      ],
+      "buttons": [
+        "Reverse",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Looper (Ableton stock).json",
+      "sha1": "defb66143a0fbd58314a685e82250ee7d11cf33b",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T15:24:19.891Z",
+      "updatedAt": "2026-11-20T15:24:19.891Z",
       "worksForMe": 0,
       "problems": 0
     },
