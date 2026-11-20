@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-20T11:29:02.141Z",
+  "updatedAt": "2026-11-20T12:16:31.914Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -2330,6 +2330,72 @@
       "problems": 0
     },
     {
+      "hash": "617a4133534d1d0a",
+      "plugin": "FabFilter Pro-L 2",
+      "maker": "FabFilter",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "limiter",
+      "knobs": [
+        "Gain",
+        "Lookahead",
+        "Attack",
+        "Release",
+        "Chan Trans",
+        "Chan Release",
+        "Output Level"
+      ],
+      "buttons": [
+        "Bypass"
+      ],
+      "file": "mappings/ableton/FabFilter Pro-L 2 (AU).json",
+      "sha1": "e85426b228957d1573522c94cd9840c174758935",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T12:16:31.914Z",
+      "updatedAt": "2026-11-20T12:16:31.914Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "6776377c6b016e5a",
+      "plugin": "FabFilter Pro-L 2",
+      "maker": "FabFilter",
+      "format": "VST",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "limiter",
+      "knobs": [
+        "Gain",
+        "Lookahead",
+        "Attack",
+        "Release",
+        "Chan Trans",
+        "Chan Release",
+        "Output Level"
+      ],
+      "buttons": [
+        "Bypass"
+      ],
+      "file": "mappings/ableton/FabFilter Pro-L 2 (VST).json",
+      "sha1": "7529e8c0361e4b5575774276b1547e91fc29f589",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T12:16:31.914Z",
+      "updatedAt": "2026-11-20T12:16:31.914Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "476c4a1f7a474069",
       "plugin": "Filter Delay",
       "maker": "Ableton",
@@ -2487,6 +2553,68 @@
       "credit": null,
       "addedAt": "2026-11-20T11:29:02.141Z",
       "updatedAt": "2026-11-20T11:29:02.141Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "54090c4b27705b65",
+      "plugin": "Frontier",
+      "maker": "D16 Group Audio Software",
+      "format": "VST",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "compressor",
+      "knobs": [
+        "Cont Input",
+        "Release",
+        "Threshold",
+        "Output"
+      ],
+      "buttons": [
+        "Soft Clip",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Frontier (VST).json",
+      "sha1": "b5326d4fb6599274c887e107d0cef1535c45d495",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T12:16:31.914Z",
+      "updatedAt": "2026-11-20T12:16:31.914Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "6e0003241555437c",
+      "plugin": "Frontier",
+      "maker": "D16 Group Audio Software",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "compressor",
+      "knobs": [
+        "Cont Input",
+        "Release",
+        "Threshold",
+        "Output"
+      ],
+      "buttons": [
+        "Soft Clip",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Frontier (AU).json",
+      "sha1": "864f50872a6e54a4cac301db9c68586398b0cb64",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T12:16:31.914Z",
+      "updatedAt": "2026-11-20T12:16:31.914Z",
       "worksForMe": 0,
       "problems": 0
     },
@@ -3417,6 +3545,36 @@
       "problems": 0
     },
     {
+      "hash": "2a2b00582878381d",
+      "plugin": "Frontier",
+      "maker": "D16 Group Audio Software",
+      "format": "",
+      "daw": "bitwig",
+      "logicPlugin": null,
+      "category": "compressor",
+      "knobs": [
+        "Cont Input",
+        "Release",
+        "Threshold",
+        "Output"
+      ],
+      "buttons": [
+        "Soft Clip"
+      ],
+      "file": "mappings/bitwig/Frontier (Bitwig).json",
+      "sha1": "3befb444366005115b1e01b6ee7ba3f224a8b694",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "bitwig",
+        "version": "6.1.7"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T12:16:31.914Z",
+      "updatedAt": "2026-11-20T12:16:31.914Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "791b1e7f4b17686a",
       "plugin": "HUM Audio Devices LAAL",
       "maker": "Plugin Alliance",
@@ -3454,6 +3612,39 @@
       "credit": null,
       "addedAt": "2026-11-20T11:25:43.559Z",
       "updatedAt": "2026-11-20T11:25:43.559Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "54183a69482e2f03",
+      "plugin": "Pro-L 2",
+      "maker": "FabFilter",
+      "format": "",
+      "daw": "bitwig",
+      "logicPlugin": null,
+      "category": "limiter",
+      "knobs": [
+        "Gain",
+        "Lookahead",
+        "Attack",
+        "Release",
+        "Chan Trans",
+        "Chan Release",
+        "Output Level"
+      ],
+      "buttons": [
+        "Bypass"
+      ],
+      "file": "mappings/bitwig/Pro-L 2 (Bitwig).json",
+      "sha1": "3b65b1a2b12eae397689098d3ddd12bc6e650161",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "bitwig",
+        "version": "6.1.7"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T12:16:31.914Z",
+      "updatedAt": "2026-11-20T12:16:31.914Z",
       "worksForMe": 0,
       "problems": 0
     },
@@ -4073,6 +4264,80 @@
       "problems": 0
     },
     {
+      "hash": "16206e060c2b4811",
+      "plugin": "FabFilter Pro-L 2",
+      "maker": "FabFilter",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Pro-L 2",
+        "channels": "mono",
+        "stock": false
+      },
+      "category": "limiter",
+      "knobs": [
+        "Gain",
+        "Lookahead",
+        "Attack",
+        "Release",
+        "Chan Trans",
+        "Chan Release",
+        "Output Level"
+      ],
+      "buttons": [
+        "Bypass"
+      ],
+      "file": "mappings/logic/Pro-L 2 (Logic, mono).json",
+      "sha1": "78a4d47674238f5808b7067dae01981dbcd2b0c5",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T12:16:31.914Z",
+      "updatedAt": "2026-11-20T12:16:31.914Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "62596d06642f0651",
+      "plugin": "FabFilter Pro-L 2",
+      "maker": "FabFilter",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Pro-L 2",
+        "channels": "stereo",
+        "stock": false
+      },
+      "category": "limiter",
+      "knobs": [
+        "Gain",
+        "Lookahead",
+        "Attack",
+        "Release",
+        "Chan Trans",
+        "Chan Release",
+        "Output Level"
+      ],
+      "buttons": [
+        "Bypass"
+      ],
+      "file": "mappings/logic/Pro-L 2 (Logic, stereo).json",
+      "sha1": "880c9334de35bbd74e3ed5a29ac4a112fa788e7f",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T12:16:31.914Z",
+      "updatedAt": "2026-11-20T12:16:31.914Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "182660787069486a",
       "plugin": "Filtron",
       "maker": "Polyverse Music",
@@ -4211,6 +4476,74 @@
       "credit": null,
       "addedAt": "2026-11-20T11:29:02.141Z",
       "updatedAt": "2026-11-20T11:29:02.141Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "0324015b461f0f46",
+      "plugin": "Frontier",
+      "maker": "D16 Group Audio Software",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Frontier",
+        "channels": "mono",
+        "stock": false
+      },
+      "category": "compressor",
+      "knobs": [
+        "Cont Input",
+        "Release",
+        "Threshold",
+        "Output"
+      ],
+      "buttons": [
+        "Soft Clip"
+      ],
+      "file": "mappings/logic/Frontier (Logic, mono).json",
+      "sha1": "a79be623e03563f9fe1d1ee018b61ff28ca987be",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T12:16:31.914Z",
+      "updatedAt": "2026-11-20T12:16:31.914Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "0f4f7d5b5e0e0b2e",
+      "plugin": "Frontier",
+      "maker": "D16 Group Audio Software",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Frontier",
+        "channels": "stereo",
+        "stock": false
+      },
+      "category": "compressor",
+      "knobs": [
+        "Cont Input",
+        "Release",
+        "Threshold",
+        "Output"
+      ],
+      "buttons": [
+        "Soft Clip"
+      ],
+      "file": "mappings/logic/Frontier (Logic, stereo).json",
+      "sha1": "0af5ef8e802535b7c6e7b63f93c6e1282f191f22",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T12:16:31.914Z",
+      "updatedAt": "2026-11-20T12:16:31.914Z",
       "worksForMe": 0,
       "problems": 0
     },
