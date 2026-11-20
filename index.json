@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-20T12:16:31.914Z",
+  "updatedAt": "2026-11-20T12:25:42.258Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -2615,6 +2615,42 @@
       "credit": null,
       "addedAt": "2026-11-20T12:16:31.914Z",
       "updatedAt": "2026-11-20T12:16:31.914Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "48200663534b0d45",
+      "plugin": "Gated Delay",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "delay",
+      "knobs": [
+        "Steps",
+        "Rate",
+        "Delay",
+        "Random",
+        "Feedback",
+        "Smooth",
+        "Delay Vol",
+        "Dry / Wet"
+      ],
+      "buttons": [
+        "Mode",
+        "Duck",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Gated Delay (Ableton stock).json",
+      "sha1": "8b587252f300d07fc2e588c291aa0effa6e2cb53",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T12:25:42.258Z",
+      "updatedAt": "2026-11-20T12:25:42.258Z",
       "worksForMe": 0,
       "problems": 0
     },
