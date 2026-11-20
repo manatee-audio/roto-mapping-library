@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-20T13:24:06.399Z",
+  "updatedAt": "2026-11-20T13:29:31.470Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -2791,6 +2791,109 @@
       "problems": 0
     },
     {
+      "hash": "280c0b7b5e383d43",
+      "plugin": "Gullfoss",
+      "maker": "Soundtheory",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "mastering",
+      "knobs": [
+        "Recover",
+        "Tame",
+        "Bias",
+        "Brighten",
+        "Boost",
+        "Below",
+        "Above",
+        "Gain",
+        "Sidechain"
+      ],
+      "buttons": [
+        "Bypass"
+      ],
+      "file": "mappings/ableton/Gullfoss (AU).json",
+      "sha1": "863f241a8fc3d9c7af12ab80fa2254ddfe220448",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T13:29:31.470Z",
+      "updatedAt": "2026-11-20T13:29:31.470Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "3e4e1e0100447d37",
+      "plugin": "Gullfoss Master",
+      "maker": "Soundtheory",
+      "format": "VST",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "mastering",
+      "knobs": [
+        "Recover",
+        "Tame",
+        "Bias",
+        "Brighten",
+        "Boost",
+        "Above",
+        "Below",
+        "Gain"
+      ],
+      "buttons": [
+        "Bypass"
+      ],
+      "file": "mappings/ableton/Gullfoss Master (VST).json",
+      "sha1": "80ce3d2db49d90a689e37ab3eedd040cea49453a",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T13:29:31.470Z",
+      "updatedAt": "2026-11-20T13:29:31.470Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "596d29730c215f75",
+      "plugin": "Gullfoss Master",
+      "maker": "Soundtheory",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "mastering",
+      "knobs": [
+        "Recover",
+        "Tame",
+        "Bias",
+        "Brighten",
+        "Boost",
+        "Above",
+        "Below",
+        "Gain"
+      ],
+      "buttons": [
+        "Bypass"
+      ],
+      "file": "mappings/ableton/Gullfoss Master (AU).json",
+      "sha1": "9bce29d632bacc5ca0c67eb3317f4e39f0d2e883",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T13:29:31.470Z",
+      "updatedAt": "2026-11-20T13:29:31.470Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "025f7b385b7b5d2b",
       "plugin": "HUM Audio Devices LAAL",
       "maker": "Plugin Alliance",
@@ -3774,6 +3877,40 @@
       "credit": null,
       "addedAt": "2026-11-20T13:24:06.399Z",
       "updatedAt": "2026-11-20T13:24:06.399Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "65157f5b297f282d",
+      "plugin": "Gullfoss Master",
+      "maker": "Soundtheory",
+      "format": "",
+      "daw": "bitwig",
+      "logicPlugin": null,
+      "category": "mastering",
+      "knobs": [
+        "Recover",
+        "Tame",
+        "Bias",
+        "Brighten",
+        "Boost",
+        "Above",
+        "Below",
+        "Gain"
+      ],
+      "buttons": [
+        "Bypass"
+      ],
+      "file": "mappings/bitwig/Gullfoss Master (Bitwig).json",
+      "sha1": "101b9d2f75ab148920b2e42a60103cbf674d5481",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "bitwig",
+        "version": "6.1.7"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T13:29:31.470Z",
+      "updatedAt": "2026-11-20T13:29:31.470Z",
       "worksForMe": 0,
       "problems": 0
     },
@@ -4819,6 +4956,44 @@
       "credit": null,
       "addedAt": "2026-11-20T13:24:06.399Z",
       "updatedAt": "2026-11-20T13:24:06.399Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "61341a5b420a2751",
+      "plugin": "Gullfoss Master",
+      "maker": "Soundtheory",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Gullfoss Master",
+        "channels": "stereo",
+        "stock": false
+      },
+      "category": "mastering",
+      "knobs": [
+        "Recover",
+        "Tame",
+        "Bias",
+        "Brighten",
+        "Boost",
+        "Above",
+        "Below",
+        "Gain"
+      ],
+      "buttons": [
+        "Bypass"
+      ],
+      "file": "mappings/logic/Gullfoss Master (Logic, stereo).json",
+      "sha1": "81f5ec3c8b39ef72977384ba6761c6b6f736d81c",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T13:29:31.470Z",
+      "updatedAt": "2026-11-20T13:29:31.470Z",
       "worksForMe": 0,
       "problems": 0
     },
