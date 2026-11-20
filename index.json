@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-20T21:04:01.787Z",
+  "updatedAt": "2026-11-20T21:38:15.073Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -4004,6 +4004,92 @@
       "paramsSha1": "89e063f4977beb9c31dde41fd4b8760c4a16cf11",
       "addedAt": "2026-11-16T23:48:57.637Z",
       "updatedAt": "2026-11-16T23:48:57.637Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "2b4c4c1b1a1b2f71",
+      "plugin": "MPE Control",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "midi-fx",
+      "knobs": [
+        "Press Def",
+        "Press Min",
+        "Press Max",
+        "Slide Def",
+        "Slide Min",
+        "Slide Max",
+        "Pitch Min",
+        "Pitch Max"
+      ],
+      "buttons": [
+        "Press On",
+        "Press Curve",
+        "Slide On",
+        "Slide Curve",
+        "Device On",
+        "Note PB On",
+        "Pitch Curve"
+      ],
+      "file": "mappings/ableton/MPE Control (Ableton stock).json",
+      "sha1": "ffe9b61f8b0b899da971241d6feca6b95494f052",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T21:38:15.073Z",
+      "updatedAt": "2026-11-20T21:38:15.073Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "06362b7e1c681902",
+      "plugin": "Multiband Dynamics",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "compressor",
+      "knobs": [
+        "Above Thresh",
+        "Above Ratio",
+        "Above Thresh",
+        "Above Ratio",
+        "Above Thresh",
+        "Above Ratio",
+        "Output",
+        "Amount",
+        "Below Thresh",
+        "Below Ratio",
+        "Below Thresh",
+        "Below Ratio",
+        "Below Thresh",
+        "Below Ratio",
+        "Time Scaling",
+        "Amount"
+      ],
+      "buttons": [
+        "Low Activate",
+        "Mid Activate",
+        "Hi Activate",
+        "Device On",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Multiband Dynamics (Ableton stock).json",
+      "sha1": "bdc14c6c4c246a3bf7f5203de4008954891ad0d3",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T21:38:15.073Z",
+      "updatedAt": "2026-11-20T21:38:15.073Z",
       "worksForMe": 0,
       "problems": 0
     },
