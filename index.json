@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-20T12:25:42.258Z",
+  "updatedAt": "2026-11-20T13:24:06.399Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -2655,6 +2655,142 @@
       "problems": 0
     },
     {
+      "hash": "0c3138197f4d586d",
+      "plugin": "Glue Compressor",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "compressor",
+      "knobs": [
+        "Attack",
+        "Release",
+        "Ratio",
+        "Threshold",
+        "Makeup",
+        "Range",
+        "Dry/Wet"
+      ],
+      "buttons": [
+        "Clip",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Glue Compressor (Ableton stock).json",
+      "sha1": "66d73ea93fefa680ddd9d8ead8510ecc4b66243a",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T13:24:06.399Z",
+      "updatedAt": "2026-11-20T13:24:06.399Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "0f4a587e6370780c",
+      "plugin": "Gorilla Drive",
+      "maker": "Safari Pedals",
+      "format": "VST",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "saturation",
+      "knobs": [
+        "INPUT",
+        "OUTPUT",
+        "TONE",
+        "BLEND"
+      ],
+      "buttons": [
+        "Bypass",
+        "Phase",
+        "AutoGain",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Gorilla Drive (VST).json",
+      "sha1": "4268cad1283b0cbd562b4a6e45a3533842c316e2",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T13:24:06.399Z",
+      "updatedAt": "2026-11-20T13:24:06.399Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "636b2f655a3f233c",
+      "plugin": "Gorilla Drive",
+      "maker": "Safari Pedals",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "saturation",
+      "knobs": [
+        "INPUT",
+        "OUTPUT",
+        "TONE",
+        "BLEND"
+      ],
+      "buttons": [
+        "Bypass",
+        "Phase",
+        "AutoGain",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Gorilla Drive (AU).json",
+      "sha1": "1bb3a7b912e305733b2ce87b356a34104b36e5da",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T13:24:06.399Z",
+      "updatedAt": "2026-11-20T13:24:06.399Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "5f4647576e014968",
+      "plugin": "Grain Delay",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "delay",
+      "knobs": [
+        "Spray",
+        "Frequency",
+        "Pitch",
+        "Random",
+        "Feedback",
+        "Time Delay",
+        "Beat Swing",
+        "DryWet"
+      ],
+      "buttons": [
+        "Delay Mode",
+        "Beat Delay",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Grain Delay (Ableton stock).json",
+      "sha1": "8e334b3444298399ef01fe9ff24cf8b708ce25c4",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T13:24:06.399Z",
+      "updatedAt": "2026-11-20T13:24:06.399Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "025f7b385b7b5d2b",
       "plugin": "HUM Audio Devices LAAL",
       "maker": "Plugin Alliance",
@@ -3607,6 +3743,37 @@
       "credit": null,
       "addedAt": "2026-11-20T12:16:31.914Z",
       "updatedAt": "2026-11-20T12:16:31.914Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "5544537e7c58572c",
+      "plugin": "Gorilla Drive",
+      "maker": "Safari Pedals",
+      "format": "",
+      "daw": "bitwig",
+      "logicPlugin": null,
+      "category": "saturation",
+      "knobs": [
+        "INPUT",
+        "OUTPUT",
+        "TONE",
+        "BLEND"
+      ],
+      "buttons": [
+        "Bypass",
+        "Phase"
+      ],
+      "file": "mappings/bitwig/Gorilla Drive (Bitwig).json",
+      "sha1": "74cff412b163e101b5b90f3ca8cd9645171052f9",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "bitwig",
+        "version": "6.1.7"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T13:24:06.399Z",
+      "updatedAt": "2026-11-20T13:24:06.399Z",
       "worksForMe": 0,
       "problems": 0
     },
@@ -4580,6 +4747,78 @@
       "credit": null,
       "addedAt": "2026-11-20T12:16:31.914Z",
       "updatedAt": "2026-11-20T12:16:31.914Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "1e443f767c762652",
+      "plugin": "Gorilla Drive",
+      "maker": "Safari Pedals",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Gorilla Drive",
+        "channels": "mono",
+        "stock": false
+      },
+      "category": "saturation",
+      "knobs": [
+        "INPUT",
+        "OUTPUT",
+        "TONE",
+        "BLEND"
+      ],
+      "buttons": [
+        "Bypass",
+        "Phase",
+        "AutoGain"
+      ],
+      "file": "mappings/logic/Gorilla Drive (Logic, mono).json",
+      "sha1": "224d8bb13a9c00153693a841a60d4ded1f28ecdb",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T13:24:06.399Z",
+      "updatedAt": "2026-11-20T13:24:06.399Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "6a7b3c7654055f4b",
+      "plugin": "Gorilla Drive",
+      "maker": "Safari Pedals",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Gorilla Drive",
+        "channels": "stereo",
+        "stock": false
+      },
+      "category": "saturation",
+      "knobs": [
+        "INPUT",
+        "OUTPUT",
+        "TONE",
+        "BLEND"
+      ],
+      "buttons": [
+        "Bypass",
+        "Phase",
+        "AutoGain"
+      ],
+      "file": "mappings/logic/Gorilla Drive (Logic, stereo).json",
+      "sha1": "764a15f296997b3497bd7a6f6b6dd9c8d74232f8",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T13:24:06.399Z",
+      "updatedAt": "2026-11-20T13:24:06.399Z",
       "worksForMe": 0,
       "problems": 0
     },
