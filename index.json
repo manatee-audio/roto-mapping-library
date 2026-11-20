@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-20T14:57:41.281Z",
+  "updatedAt": "2026-11-20T15:15:17.074Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -3192,6 +3192,66 @@
       "problems": 0
     },
     {
+      "hash": "134a517a66344b79",
+      "plugin": "Kickstart 2",
+      "maker": "Nicky Romero",
+      "format": "VST",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "tool",
+      "knobs": [
+        "Band Frequen",
+        "Used Wave",
+        "Mix"
+      ],
+      "buttons": [
+        "Band On",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Kickstart 2 (VST).json",
+      "sha1": "1b0e21e3eb72c574b9f0f86e6fd54beb5ef3d32d",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T15:15:17.074Z",
+      "updatedAt": "2026-11-20T15:15:17.074Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "1b67475a6d2c3303",
+      "plugin": "Kickstart 2",
+      "maker": "Nicky Romero",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "tool",
+      "knobs": [
+        "Band Frequen",
+        "Used Wave",
+        "Mix"
+      ],
+      "buttons": [
+        "Band On",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Kickstart 2 (AU).json",
+      "sha1": "d57fc3209cbb15eebb5ba7288c3ac57bde60a684",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T15:15:17.074Z",
+      "updatedAt": "2026-11-20T15:15:17.074Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "532919477f353830",
       "plugin": "LFO",
       "maker": "Ableton",
@@ -3200,10 +3260,10 @@
       "logicPlugin": null,
       "category": "tool",
       "knobs": [
-        "Depth",
+        "Shape",
         "Rate Hz",
         "Rate Sync",
-        "Shape",
+        "Depth",
         "Offset",
         "Phase",
         "Jitter",
@@ -3211,11 +3271,13 @@
       ],
       "buttons": [
         "Time Mode",
+        "Steps",
         "Hold",
+        "Re-Trigger",
         "Device On"
       ],
       "file": "mappings/ableton/LFO (Ableton stock).json",
-      "sha1": "2d3f18dc8bd54817ef56744a489a4e46cee65e84",
+      "sha1": "562ca4fa10d54ab122a26066fd774e1c1178599b",
       "label": "approved",
       "checkedIn": {
         "daw": "ableton",
@@ -3223,7 +3285,7 @@
       },
       "credit": null,
       "addedAt": "2026-11-18T16:15:15.814Z",
-      "updatedAt": "2026-11-18T16:15:15.814Z",
+      "updatedAt": "2026-11-20T15:15:17.074Z",
       "worksForMe": 0,
       "problems": 0
     },
@@ -3260,6 +3322,70 @@
       "credit": null,
       "addedAt": "2026-11-18T16:49:17.243Z",
       "updatedAt": "2026-11-18T16:49:17.243Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "1c721526675f5f5b",
+      "plugin": "Little AlterBoy",
+      "maker": "Soundtoys",
+      "format": "VST",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "pitch",
+      "knobs": [
+        "Pitch",
+        "Formant",
+        "Drive",
+        "Mix"
+      ],
+      "buttons": [
+        "Link",
+        "Mode",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Little AlterBoy (VST).json",
+      "sha1": "ce25a010c3a41dd2dde4d2d9474f4888af14e635",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T15:15:17.074Z",
+      "updatedAt": "2026-11-20T15:15:17.074Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "6b0a0d16705f364e",
+      "plugin": "Little AlterBoy",
+      "maker": "Soundtoys",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "pitch",
+      "knobs": [
+        "Pitch",
+        "Formant",
+        "Drive",
+        "Mix"
+      ],
+      "buttons": [
+        "Link",
+        "Mode",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Little AlterBoy (AU).json",
+      "sha1": "0845afd0b18088ab495da8f809b2c9e008f526ca",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T15:15:17.074Z",
+      "updatedAt": "2026-11-20T15:15:17.074Z",
       "worksForMe": 0,
       "problems": 0
     },
@@ -4198,6 +4324,35 @@
       "credit": null,
       "addedAt": "2026-11-20T14:57:41.281Z",
       "updatedAt": "2026-11-20T14:57:41.281Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "65792c6d43647c02",
+      "plugin": "Kickstart 2",
+      "maker": "Nicky Romero",
+      "format": "",
+      "daw": "bitwig",
+      "logicPlugin": null,
+      "category": "tool",
+      "knobs": [
+        "Band Frequen",
+        "Used Wave",
+        "Mix"
+      ],
+      "buttons": [
+        "Band On"
+      ],
+      "file": "mappings/bitwig/Kickstart 2 (Bitwig).json",
+      "sha1": "ee4df29d6d6151ac742e060870ca6abcf35352b5",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "bitwig",
+        "version": "6.1.7"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T15:15:17.074Z",
+      "updatedAt": "2026-11-20T15:15:17.074Z",
       "worksForMe": 0,
       "problems": 0
     },
@@ -5427,6 +5582,142 @@
       "credit": null,
       "addedAt": "2026-11-20T14:57:41.281Z",
       "updatedAt": "2026-11-20T14:57:41.281Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "48193d1550230c3b",
+      "plugin": "Kickstart 2",
+      "maker": "Nicky Romero",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Kickstart 2",
+        "channels": "stereo",
+        "stock": false
+      },
+      "category": "tool",
+      "knobs": [
+        "Band Frequen",
+        "Used Wave",
+        "Mix"
+      ],
+      "buttons": [
+        "Band On"
+      ],
+      "file": "mappings/logic/Kickstart 2 (Logic, stereo).json",
+      "sha1": "0f2d13f9c8402f303721a6d2a68adf660e88d9ad",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T15:15:17.074Z",
+      "updatedAt": "2026-11-20T15:15:17.074Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "7c23381578000b74",
+      "plugin": "Kickstart 2",
+      "maker": "Nicky Romero",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Kickstart 2",
+        "channels": "mono",
+        "stock": false
+      },
+      "category": "tool",
+      "knobs": [
+        "Band Frequen",
+        "Used Wave",
+        "Mix"
+      ],
+      "buttons": [
+        "Band On"
+      ],
+      "file": "mappings/logic/Kickstart 2 (Logic, mono).json",
+      "sha1": "25e38d6586e9eaf458c053f397ae937f6cbc4834",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T15:15:17.074Z",
+      "updatedAt": "2026-11-20T15:15:17.074Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "6a050d3514053104",
+      "plugin": "Little AlterBoy",
+      "maker": "Soundtoys",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Little AlterBoy",
+        "channels": "mono",
+        "stock": false
+      },
+      "category": "pitch",
+      "knobs": [
+        "Pitch",
+        "Formant",
+        "Drive",
+        "Mix"
+      ],
+      "buttons": [
+        "Link",
+        "Mode"
+      ],
+      "file": "mappings/logic/Little AlterBoy (Logic, mono).json",
+      "sha1": "9d42e66768c628fbdc80694c1e05c094c7bc679f",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T15:15:17.074Z",
+      "updatedAt": "2026-11-20T15:15:17.074Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "761d0a352c78582e",
+      "plugin": "Little AlterBoy",
+      "maker": "Soundtoys",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Little AlterBoy",
+        "channels": "stereo",
+        "stock": false
+      },
+      "category": "pitch",
+      "knobs": [
+        "Pitch",
+        "Formant",
+        "Drive",
+        "Mix"
+      ],
+      "buttons": [
+        "Link",
+        "Mode"
+      ],
+      "file": "mappings/logic/Little AlterBoy (Logic, stereo).json",
+      "sha1": "9a5c941b494c1f0258c063e28e1a6cf190c98a8b",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T15:15:17.074Z",
+      "updatedAt": "2026-11-20T15:15:17.074Z",
       "worksForMe": 0,
       "problems": 0
     },
