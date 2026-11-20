@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-20T15:24:19.891Z",
+  "updatedAt": "2026-11-20T17:12:49.402Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -3544,6 +3544,100 @@
       "problems": 0
     },
     {
+      "hash": "0e2b4a364d311b37",
+      "plugin": "LTL SILVER BULLET mk2",
+      "maker": "Plugin Alliance",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "saturation",
+      "knobs": [
+        "Mojo A-N",
+        "Gain A",
+        "Gain N",
+        "C-DRV",
+        "C-MIX",
+        "Mojo C Selec",
+        "Headroom",
+        "Out Trim",
+        "LF",
+        "LF Selector",
+        "HF",
+        "HF Selector",
+        "AIR"
+      ],
+      "buttons": [
+        "Mojo A-N Act",
+        "Mojo C",
+        "Power",
+        "Tight",
+        "Tight Freq",
+        "Tone",
+        "Vintage",
+        "Aspect Ratio",
+        "Power"
+      ],
+      "file": "mappings/ableton/LTL SILVER BULLET mk2 (AU).json",
+      "sha1": "bb2e826a556e41e7c9036fe7de782aac60a2599e",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T17:12:49.402Z",
+      "updatedAt": "2026-11-20T17:12:49.402Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "5a7e535675773f38",
+      "plugin": "LTL SILVER BULLET mk2",
+      "maker": "Plugin Alliance",
+      "format": "VST",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "saturation",
+      "knobs": [
+        "Mojo A-N",
+        "Gain A",
+        "Gain N",
+        "C-DRV",
+        "C-MIX",
+        "Mojo C Selec",
+        "Headroom",
+        "Out Trim",
+        "LF",
+        "LF Selector",
+        "HF",
+        "HF Selector",
+        "AIR"
+      ],
+      "buttons": [
+        "Mojo A-N Act",
+        "Mojo C",
+        "Power",
+        "Tight",
+        "Tight Freq",
+        "Tone",
+        "Vintage",
+        "Aspect Ratio",
+        "Power"
+      ],
+      "file": "mappings/ableton/LTL SILVER BULLET mk2 (VST).json",
+      "sha1": "76248011374cb7108ec3cf83995ca5ec3c006d94",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T17:12:49.402Z",
+      "updatedAt": "2026-11-20T17:12:49.402Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "25772a4d0769713b",
       "plugin": "MidBoss",
       "maker": "AnalogObsession",
@@ -6042,6 +6136,108 @@
       "credit": null,
       "addedAt": "2026-11-20T15:20:38.097Z",
       "updatedAt": "2026-11-20T15:20:38.097Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "4d7706683a35655e",
+      "plugin": "LTL SILVER BULLET mk2",
+      "maker": "Plugin Alliance",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "LTL SILVER BULLET mk2",
+        "channels": "mono",
+        "stock": false
+      },
+      "category": "saturation",
+      "knobs": [
+        "Mojo A-N",
+        "Gain A",
+        "Gain N",
+        "C-DRV",
+        "C-MIX",
+        "Mojo C Selec",
+        "Headroom",
+        "Out Trim",
+        "LF",
+        "LF Selector",
+        "HF",
+        "HF Selector",
+        "AIR"
+      ],
+      "buttons": [
+        "Mojo A-N Act",
+        "Mojo C",
+        "Power",
+        "Tight",
+        "Tight Freq",
+        "Tone",
+        "Vintage",
+        "Aspect Ratio",
+        "Power"
+      ],
+      "file": "mappings/logic/LTL SILVER BULLET mk2 (Logic, mono).json",
+      "sha1": "e3f9a74d88a046145cd32a3675a08041b3d36701",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T17:12:49.402Z",
+      "updatedAt": "2026-11-20T17:12:49.402Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "597d056852781773",
+      "plugin": "LTL SILVER BULLET mk2",
+      "maker": "Plugin Alliance",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "LTL SILVER BULLET mk2",
+        "channels": "stereo",
+        "stock": false
+      },
+      "category": "saturation",
+      "knobs": [
+        "Mojo A-N",
+        "Gain A",
+        "Gain N",
+        "C-DRV",
+        "C-MIX",
+        "Mojo C Selec",
+        "Headroom",
+        "Out Trim",
+        "LF",
+        "LF Selector",
+        "HF",
+        "HF Selector",
+        "AIR"
+      ],
+      "buttons": [
+        "Mojo A-N Act",
+        "Mojo C",
+        "Power",
+        "Tight",
+        "Tight Freq",
+        "Tone",
+        "Vintage",
+        "Aspect Ratio",
+        "Power"
+      ],
+      "file": "mappings/logic/LTL SILVER BULLET mk2 (Logic, stereo).json",
+      "sha1": "e20e84b02a6e5f8418fa4827d7de886b32d8a224",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T17:12:49.402Z",
+      "updatedAt": "2026-11-20T17:12:49.402Z",
       "worksForMe": 0,
       "problems": 0
     },
