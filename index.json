@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-20T13:59:22.697Z",
+  "updatedAt": "2026-11-20T14:57:41.281Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -3092,13 +3092,47 @@
       "problems": 0
     },
     {
+      "hash": "5f251d79663a7d19",
+      "plugin": "Impulse",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "instrument",
+      "knobs": [
+        "Global Time",
+        "Global Trans",
+        "1 Transpose",
+        "2 Transpose",
+        "3 Transpose",
+        "4 Transpose",
+        "5 Transpose",
+        "6 Transpose"
+      ],
+      "buttons": [
+        "Device On"
+      ],
+      "file": "mappings/ableton/Impulse (Ableton stock).json",
+      "sha1": "eb8d616c5cc58ad89d5ccf18834f6725e4e83148",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T14:57:41.281Z",
+      "updatedAt": "2026-11-20T14:57:41.281Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "18367e1a64697611",
       "plugin": "kHs Bitcrush",
       "maker": "Kilohearts",
       "format": "AU",
       "daw": "ableton",
       "logicPlugin": null,
-      "category": "other",
+      "category": "bitcrush",
       "knobs": [
         "Quantize",
         "Bits",
@@ -3112,7 +3146,7 @@
         "Enabled"
       ],
       "file": "mappings/ableton/kHs Bitcrush (AU).json",
-      "sha1": "db296cfca0421b59a3990ee4dc5bb62206605c1d",
+      "sha1": "d4fcf0002c31bc2b15482394134590c15fd61a24",
       "label": "approved",
       "checkedIn": {
         "daw": "ableton",
@@ -3120,7 +3154,40 @@
       },
       "credit": null,
       "addedAt": "2026-11-18T09:41:00.108Z",
-      "updatedAt": "2026-11-18T09:41:00.108Z",
+      "updatedAt": "2026-11-20T14:57:41.281Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "2173491647417e3d",
+      "plugin": "kHs Bitcrush",
+      "maker": "Kilohearts",
+      "format": "VST",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "bitcrush",
+      "knobs": [
+        "Quantize",
+        "Bits",
+        "Dither",
+        "Rate",
+        "ADC Quality",
+        "DAC Quality",
+        "Mix"
+      ],
+      "buttons": [
+        "Enabled"
+      ],
+      "file": "mappings/ableton/kHs Bitcrush (VST).json",
+      "sha1": "e4be62864a0debf73efc86cd7e02c8f838313810",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T14:57:41.281Z",
+      "updatedAt": "2026-11-20T14:57:41.281Z",
       "worksForMe": 0,
       "problems": 0
     },
@@ -4098,6 +4165,39 @@
       "credit": null,
       "addedAt": "2026-11-20T11:25:43.559Z",
       "updatedAt": "2026-11-20T11:25:43.559Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "477e55735555016d",
+      "plugin": "kHs Bitcrush",
+      "maker": "Kilohearts",
+      "format": "",
+      "daw": "bitwig",
+      "logicPlugin": null,
+      "category": "bitcrush",
+      "knobs": [
+        "Quantize",
+        "Bits",
+        "Dither",
+        "Rate",
+        "ADC Quality",
+        "DAC Quality",
+        "Mix"
+      ],
+      "buttons": [
+        "Enabled"
+      ],
+      "file": "mappings/bitwig/kHs Bitcrush (Bitwig).json",
+      "sha1": "7a91747fa71d863bec2856f349746f2b1f796b3c",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "bitwig",
+        "version": "6.1.7"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T14:57:41.281Z",
+      "updatedAt": "2026-11-20T14:57:41.281Z",
       "worksForMe": 0,
       "problems": 0
     },
@@ -5253,6 +5353,80 @@
       "credit": null,
       "addedAt": "2026-11-20T11:25:43.559Z",
       "updatedAt": "2026-11-20T11:25:43.559Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "24660f4a284f5103",
+      "plugin": "kHs Bitcrush",
+      "maker": "Kilohearts",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "kHs Bitcrush",
+        "channels": "mono",
+        "stock": false
+      },
+      "category": "bitcrush",
+      "knobs": [
+        "Quantize",
+        "Bits",
+        "Dither",
+        "Rate",
+        "ADC Quality",
+        "DAC Quality",
+        "Mix"
+      ],
+      "buttons": [
+        "Enabled"
+      ],
+      "file": "mappings/logic/kHs Bitcrush (Logic, mono).json",
+      "sha1": "ab6532f3bb14e1d628e81083a2d95eed784c68b4",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T14:57:41.281Z",
+      "updatedAt": "2026-11-20T14:57:41.281Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "3043134a40605c75",
+      "plugin": "kHs Bitcrush",
+      "maker": "Kilohearts",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "kHs Bitcrush",
+        "channels": "stereo",
+        "stock": false
+      },
+      "category": "bitcrush",
+      "knobs": [
+        "Quantize",
+        "Bits",
+        "Dither",
+        "Rate",
+        "ADC Quality",
+        "DAC Quality",
+        "Mix"
+      ],
+      "buttons": [
+        "Enabled"
+      ],
+      "file": "mappings/logic/kHs Bitcrush (Logic, stereo).json",
+      "sha1": "61fb790fb1ca4af5023adfa27fb1af9c4de11083",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T14:57:41.281Z",
+      "updatedAt": "2026-11-20T14:57:41.281Z",
       "worksForMe": 0,
       "problems": 0
     },
