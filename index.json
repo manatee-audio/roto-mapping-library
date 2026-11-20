@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-20T21:00:12.914Z",
+  "updatedAt": "2026-11-20T21:04:01.787Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -1847,19 +1847,21 @@
       ],
       "buttons": [
         "PrimeNumbers",
-        "Bypass",
+        "Device On",
         "PrimeNumbers"
       ],
       "file": "mappings/ableton/EchoBoy (VST).json",
-      "sha1": "5e0de094d9ab754d4958266ac0f9cc16957b4e8e",
+      "sha1": "aa1bfccc891f11053ac4feb71594034131249a70",
       "label": "approved",
       "checkedIn": {
         "daw": "ableton",
         "version": "12.4.16"
       },
       "credit": null,
+      "params": "mappings/params/3c140b5213040763.json",
+      "paramsSha1": "e98ffd1115094a1dfe30ec9a4c77217e4ea76d9e",
       "addedAt": "2026-11-19T15:53:58.613Z",
-      "updatedAt": "2026-11-19T15:53:58.613Z",
+      "updatedAt": "2026-11-20T21:04:01.787Z",
       "worksForMe": 0,
       "problems": 0
     },
@@ -3478,10 +3480,10 @@
       ],
       "buttons": [
         "Mod Enable",
-        "Bypass"
+        "Device On"
       ],
       "file": "mappings/ableton/Little Plate (VST).json",
-      "sha1": "4d9d34cfc78563cdfe3931bf780e07d49c6c52f8",
+      "sha1": "1ef979568d7ab434ca4046f9dfeb86866412a196",
       "label": "approved",
       "checkedIn": {
         "daw": "ableton",
@@ -3489,7 +3491,7 @@
       },
       "credit": null,
       "addedAt": "2026-11-20T15:18:32.561Z",
-      "updatedAt": "2026-11-20T15:18:32.561Z",
+      "updatedAt": "2026-11-20T21:04:01.787Z",
       "worksForMe": 0,
       "problems": 0
     },
@@ -3540,18 +3542,20 @@
       "buttons": [
         "Noise",
         "Bias",
-        "Bypass"
+        "Device On"
       ],
       "file": "mappings/ableton/Little Radiator (VST).json",
-      "sha1": "3c17d51f424b6084d47c58658a33d2f5e90d45fc",
+      "sha1": "5abf9cbd69e41b264dda63d2f258a40c31a17c12",
       "label": "approved",
       "checkedIn": {
         "daw": "ableton",
         "version": "12.4.16"
       },
       "credit": null,
+      "params": "mappings/params/5579435a5a275520.json",
+      "paramsSha1": "aff54c657720b0a2d685aab3e6e69aec817674af",
       "addedAt": "2026-11-20T15:20:38.097Z",
-      "updatedAt": "2026-11-20T15:20:38.097Z",
+      "updatedAt": "2026-11-20T21:04:01.787Z",
       "worksForMe": 0,
       "problems": 0
     },
@@ -4277,10 +4281,10 @@
         "Output"
       ],
       "buttons": [
-        "Bypassed"
+        "Device On"
       ],
       "file": "mappings/ableton/VEQ-MG4+ (VST).json",
-      "sha1": "d2a243c24261a1e8c6826662bc575c0ab0cd8a58",
+      "sha1": "c1e231b0f50453ddb41b2d090d27ebef4a31e9c5",
       "label": "approved",
       "checkedIn": {
         "daw": "ableton",
@@ -4288,7 +4292,7 @@
       },
       "credit": null,
       "addedAt": "2026-11-18T09:41:00.108Z",
-      "updatedAt": "2026-11-18T09:41:00.108Z",
+      "updatedAt": "2026-11-20T21:04:01.787Z",
       "worksForMe": 0,
       "problems": 0
     },

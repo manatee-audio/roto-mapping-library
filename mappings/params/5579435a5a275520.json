@@ -1,0 +1,55 @@
+{
+ "format": "VST",
+ "name": "Little Radiator",
+ "shown": [
+  "Bass",
+  "Treble",
+  "Input",
+  "Output",
+  "Mix",
+  "MicLine",
+  "Noise"
+ ],
+ "parameters": [
+  {
+   "title": "Bypass",
+   "stepCount": 1,
+   "bypass": true
+  },
+  {
+   "title": "Bass",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Treble",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Input",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Output",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Mix",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MicLine",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "Noise",
+   "stepCount": 1,
+   "bypass": false
+  }
+ ]
+}

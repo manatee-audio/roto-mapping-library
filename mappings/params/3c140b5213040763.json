@@ -1,0 +1,157 @@
+{
+ "format": "VST",
+ "name": "EchoBoy",
+ "shown": [
+  "InputGain",
+  "OutputGain",
+  "Mix",
+  "Mode",
+  "Echo1Mode",
+  "Echo1Note",
+  "Echo1Time",
+  "Echo2Mode",
+  "Echo2Note",
+  "Echo2Time",
+  "Feedback",
+  "PrimeNumbers",
+  "Groove",
+  "Feel",
+  "Saturation",
+  "LowCut",
+  "HighCut",
+  "RhythmMode",
+  "RhythmNote",
+  "RhythmTime",
+  "RhythmRepeats",
+  "RhythmDecay",
+  "Style",
+  "Tempo"
+ ],
+ "parameters": [
+  {
+   "title": "Bypass",
+   "stepCount": 1,
+   "bypass": true
+  },
+  {
+   "title": "InputGain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "OutputGain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Mix",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Mode",
+   "stepCount": 3,
+   "bypass": false
+  },
+  {
+   "title": "Echo1Mode",
+   "stepCount": 4,
+   "bypass": false
+  },
+  {
+   "title": "Echo1Note",
+   "stepCount": 20,
+   "bypass": false
+  },
+  {
+   "title": "Echo1Time",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Echo2Mode",
+   "stepCount": 4,
+   "bypass": false
+  },
+  {
+   "title": "Echo2Note",
+   "stepCount": 20,
+   "bypass": false
+  },
+  {
+   "title": "Echo2Time",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Feedback",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "PrimeNumbers",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "Groove",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Feel",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Saturation",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "LowCut",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "HighCut",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "RhythmMode",
+   "stepCount": 6,
+   "bypass": false
+  },
+  {
+   "title": "RhythmNote",
+   "stepCount": 17,
+   "bypass": false
+  },
+  {
+   "title": "RhythmTime",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "RhythmRepeats",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "RhythmDecay",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Style",
+   "stepCount": 31,
+   "bypass": false
+  },
+  {
+   "title": "Tempo",
+   "stepCount": 0,
+   "bypass": false
+  }
+ ]
+}
