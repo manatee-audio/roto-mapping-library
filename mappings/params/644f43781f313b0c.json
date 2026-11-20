@@ -1,0 +1,211 @@
+{
+ "format": "VST",
+ "name": "HUM Audio Devices LAAL",
+ "shown": [
+  "Power",
+  "Bank",
+  "Monitoring",
+  "Stereo Width On",
+  "Stereo Width Amount",
+  "Hardware Power",
+  "Detect Link On",
+  "Detect Link Amount",
+  "Emphasis Filter",
+  "Ambience",
+  "Channel Link",
+  "Mid / Side",
+  "True Peak",
+  "Mono Maker Frequency",
+  "Parallel Mix",
+  "Limiter Bypass 1",
+  "Input Level 1",
+  "Input Trim 1",
+  "Release Time 1",
+  "Output Level 1",
+  "Output Trim 1",
+  "Dynamic Transient 1",
+  "Transformer On 1",
+  "TX-Drive 1",
+  "Limiter Bypass 2",
+  "Input Level 2",
+  "Input Trim 2",
+  "Release Time 2",
+  "Output Level 2",
+  "Output Trim 2",
+  "Dynamic Transient 2",
+  "Transformer On 2",
+  "TX-Drive 2"
+ ],
+ "parameters": [
+  {
+   "title": "Power",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "Bank",
+   "stepCount": 3,
+   "bypass": false
+  },
+  {
+   "title": "Monitoring",
+   "stepCount": 2,
+   "bypass": false
+  },
+  {
+   "title": "Stereo Width On",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "Stereo Width Amount",
+   "stepCount": 5,
+   "bypass": false
+  },
+  {
+   "title": "Hardware Power",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "Detect Link On",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "Detect Link Amount",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Emphasis Filter",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Ambience",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "Channel Link",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "Mid / Side",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "True Peak",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "Mono Maker Frequency",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Parallel Mix",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Limiter Bypass 1",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "Input Level 1",
+   "stepCount": 11,
+   "bypass": false
+  },
+  {
+   "title": "Input Trim 1",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Release Time 1",
+   "stepCount": 5,
+   "bypass": false
+  },
+  {
+   "title": "Output Level 1",
+   "stepCount": 11,
+   "bypass": false
+  },
+  {
+   "title": "Output Trim 1",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Dynamic Transient 1",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "Transformer On 1",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "TX-Drive 1",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Limiter Bypass 2",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "Input Level 2",
+   "stepCount": 11,
+   "bypass": false
+  },
+  {
+   "title": "Input Trim 2",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Release Time 2",
+   "stepCount": 5,
+   "bypass": false
+  },
+  {
+   "title": "Output Level 2",
+   "stepCount": 11,
+   "bypass": false
+  },
+  {
+   "title": "Output Trim 2",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Dynamic Transient 2",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "Transformer On 2",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "TX-Drive 2",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Bypass",
+   "stepCount": 1,
+   "bypass": true
+  }
+ ]
+}

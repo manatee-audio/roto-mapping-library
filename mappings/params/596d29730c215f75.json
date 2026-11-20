@@ -1,0 +1,68 @@
+{
+ "format": "AU",
+ "name": "Gullfoss Master",
+ "shown": [
+  "Recover",
+  "Tame",
+  "Bias",
+  "Brighten",
+  "Boost",
+  "Above",
+  "Below",
+  "Gain",
+  "Bypass",
+  "Sidechain"
+ ],
+ "parameters": [
+  {
+   "title": "Recover",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Tame",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Bias",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Brighten",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Boost",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Above",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Below",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Gain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Bypass",
+   "stepCount": 0,
+   "bypass": true
+  },
+  {
+   "title": "Sidechain",
+   "stepCount": 0,
+   "bypass": false
+  }
+ ]
+}

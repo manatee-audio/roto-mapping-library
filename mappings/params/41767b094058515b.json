@@ -1,0 +1,32 @@
+{
+ "format": "AU",
+ "name": "Fresh Air",
+ "shown": [
+  "Mid Air",
+  "High Air",
+  "Bypass",
+  "Trim"
+ ],
+ "parameters": [
+  {
+   "title": "Mid Air",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "High Air",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Bypass",
+   "stepCount": 0,
+   "bypass": true
+  },
+  {
+   "title": "Trim",
+   "stepCount": 0,
+   "bypass": false
+  }
+ ]
+}

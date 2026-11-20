@@ -1,0 +1,62 @@
+{
+ "format": "AU",
+ "name": "VEQ-MG4+",
+ "shown": [
+  "B40",
+  "Sub",
+  "B160",
+  "B650",
+  "S2p5k",
+  "Bypassed",
+  "Sky Band",
+  "Sky Gain",
+  "Output Gain"
+ ],
+ "parameters": [
+  {
+   "title": "B40",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Sub",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "B160",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "B650",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "S2p5k",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Bypassed",
+   "stepCount": 0,
+   "bypass": true
+  },
+  {
+   "title": "Sky Band",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Sky Gain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Output Gain",
+   "stepCount": 0,
+   "bypass": false
+  }
+ ]
+}

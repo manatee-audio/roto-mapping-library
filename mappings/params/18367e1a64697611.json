@@ -1,0 +1,56 @@
+{
+ "format": "AU",
+ "name": "kHs Bitcrush",
+ "shown": [
+  "Enabled",
+  "Rate",
+  "Bits",
+  "ADC Quality",
+  "DAC Quality",
+  "Dither",
+  "Quantize",
+  "Mix"
+ ],
+ "parameters": [
+  {
+   "title": "Enabled",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Rate",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Bits",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "ADC Quality",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "DAC Quality",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Dither",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Quantize",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Mix",
+   "stepCount": 0,
+   "bypass": false
+  }
+ ]
+}

@@ -1,0 +1,230 @@
+{
+ "format": "AU",
+ "name": "Lustrous Plates",
+ "shown": [
+  "Master Gain",
+  "Dry/Wet",
+  "Plate Model",
+  "Decay",
+  "Dispersion",
+  "Disp. Bias",
+  "Pre-delay Time",
+  "Pre-delay Tempo",
+  "Pre-delay Sync",
+  "Width",
+  "Modulation Depth",
+  "Modulation Rate",
+  "Master EQ",
+  "Low Cut",
+  "Low Band Mode",
+  "Low Band Freq",
+  "Low Band Gain",
+  "High Band Mode",
+  "High Band Freq",
+  "High Band Gain",
+  "High Cut Slope",
+  "High Cut",
+  "Low Cut Slope",
+  "Dyn. Enable",
+  "Dyn. Mode",
+  "Cmp. Threshold",
+  "Cmp. Ratio",
+  "Cmp. Knee Width",
+  "Cmp. Attack",
+  "Cmp. Release",
+  "Cmp. Gain Trim",
+  "Gate Threshold",
+  "Gate Re-open Hysteresis",
+  "Gate Reduction",
+  "Gate Hold Time",
+  "Gate Close Time",
+  "Gate Recovery Time"
+ ],
+ "parameters": [
+  {
+   "title": "Master Gain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Dry/Wet",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Plate Model",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Decay",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Dispersion",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Disp. Bias",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Pre-delay Time",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Pre-delay Tempo",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Pre-delay Sync",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Width",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Modulation Depth",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Modulation Rate",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Master EQ",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Low Cut",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Low Band Mode",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Low Band Freq",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Low Band Gain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "High Band Mode",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "High Band Freq",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "High Band Gain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "High Cut Slope",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "High Cut",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Low Cut Slope",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Dyn. Enable",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Dyn. Mode",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Cmp. Threshold",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Cmp. Ratio",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Cmp. Knee Width",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Cmp. Attack",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Cmp. Release",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Cmp. Gain Trim",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Gate Threshold",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Gate Re-open Hysteresis",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Gate Reduction",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Gate Hold Time",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Gate Close Time",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Gate Recovery Time",
+   "stepCount": 0,
+   "bypass": false
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "format": "VST",
+ "name": "Gorilla Drive",
+ "shown": [
+  "Bypass",
+  "Phase",
+  "InGain",
+  "OutGain",
+  "Tone",
+  "BlendAmount"
+ ],
+ "parameters": [
+  {
+   "title": "Bypass",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "Phase",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "AutoGain",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "InGain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "OutGain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Tone",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "BlendAmount",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Bypass",
+   "stepCount": 1,
+   "bypass": true
+  }
+ ]
+}

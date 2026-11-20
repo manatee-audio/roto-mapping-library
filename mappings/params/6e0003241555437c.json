@@ -1,0 +1,38 @@
+{
+ "format": "AU",
+ "name": "Frontier",
+ "shown": [
+  "Control Input",
+  "Release",
+  "Threshold",
+  "Soft Clip",
+  "Output Volume"
+ ],
+ "parameters": [
+  {
+   "title": "Control Input",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Release",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Threshold",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Soft Clip",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Output Volume",
+   "stepCount": 0,
+   "bypass": false
+  }
+ ]
+}

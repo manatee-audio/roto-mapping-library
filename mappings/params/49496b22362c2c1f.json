@@ -1,0 +1,14 @@
+{
+ "format": "AU",
+ "name": "Endless Smile",
+ "shown": [
+  "Intensity"
+ ],
+ "parameters": [
+  {
+   "title": "Intensity",
+   "stepCount": 0,
+   "bypass": false
+  }
+ ]
+}

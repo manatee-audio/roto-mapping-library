@@ -1,0 +1,38 @@
+{
+ "format": "AU",
+ "name": null,
+ "shown": [
+  "DRIVE",
+  "MIX",
+  "TYPE",
+  "OUTPUT",
+  "BYPASS"
+ ],
+ "parameters": [
+  {
+   "title": "DRIVE",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MIX",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "TYPE",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "OUTPUT",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "BYPASS",
+   "stepCount": 0,
+   "bypass": true
+  }
+ ]
+}

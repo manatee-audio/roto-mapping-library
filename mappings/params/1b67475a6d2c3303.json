@@ -1,0 +1,73 @@
+{
+ "format": "AU",
+ "name": "Kickstart 2",
+ "shown": [
+  "Loop Length",
+  "Used Wave",
+  "Band On",
+  "Band Frequency",
+  "Mix"
+ ],
+ "parameters": [
+  {
+   "title": "X (Reserved)",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Loop Length",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "X (Reserved)",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Used Wave",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "X (Reserved)",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "X (Reserved)",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "X (Reserved)",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "X (Reserved)",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Band On",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Band Frequency",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "X (Reserved)",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Mix",
+   "stepCount": 0,
+   "bypass": false
+  }
+ ]
+}

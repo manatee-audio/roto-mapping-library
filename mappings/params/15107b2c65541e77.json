@@ -1,0 +1,272 @@
+{
+ "format": "AU",
+ "name": "Filtron",
+ "shown": [
+  "In",
+  "Out",
+  "Type",
+  "Resonance",
+  "Drive",
+  "Drive Mode",
+  "Cutoff",
+  "Power",
+  "Type CV 1 Stereo",
+  "Cutoff CV 2 Stereo",
+  "Out CV 2 Stereo",
+  "Drive CV 1 Stereo",
+  "Cutoff CV 1 Stereo",
+  "Out CV 1 Stereo",
+  "Resonance CV 2 Stereo",
+  "Resonance CV 1 Stereo",
+  "In CV 2 Stereo",
+  "Type CV 2 Stereo",
+  "Drive CV 2 Stereo",
+  "In CV 1 Stereo",
+  "In CV 1 Right",
+  "Type CV 2 Right",
+  "Resonance CV 1 Left",
+  "Resonance CV 2 Left",
+  "Out CV 2 Right",
+  "Resonance CV 1 Right",
+  "Type CV 1 Left",
+  "Type CV 2 Left",
+  "Cutoff CV 1 Right",
+  "In CV 2 Right",
+  "Drive CV 1 Right",
+  "Drive CV 1 Left",
+  "Drive CV 2 Left",
+  "Out CV 1 Left",
+  "Out CV 2 Left",
+  "Resonance CV 2 Right",
+  "Type CV 1 Right",
+  "Cutoff CV 2 Right",
+  "In CV 1 Left",
+  "In CV 2 Left",
+  "Out CV 1 Right",
+  "Cutoff CV 1 Left",
+  "Cutoff CV 2 Left",
+  "Drive CV 2 Right"
+ ],
+ "parameters": [
+  {
+   "title": "In",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Out",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Type",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Resonance",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Drive",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Drive Mode",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Cutoff",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Power",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Type CV 1 Stereo",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Cutoff CV 2 Stereo",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Out CV 2 Stereo",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Drive CV 1 Stereo",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Cutoff CV 1 Stereo",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Out CV 1 Stereo",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Resonance CV 2 Stereo",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Resonance CV 1 Stereo",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "In CV 2 Stereo",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Type CV 2 Stereo",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Drive CV 2 Stereo",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "In CV 1 Stereo",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "In CV 1 Right",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Type CV 2 Right",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Resonance CV 1 Left",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Resonance CV 2 Left",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Out CV 2 Right",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Resonance CV 1 Right",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Type CV 1 Left",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Type CV 2 Left",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Cutoff CV 1 Right",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "In CV 2 Right",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Drive CV 1 Right",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Drive CV 1 Left",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Drive CV 2 Left",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Out CV 1 Left",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Out CV 2 Left",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Resonance CV 2 Right",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Type CV 1 Right",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Cutoff CV 2 Right",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "In CV 1 Left",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "In CV 2 Left",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Out CV 1 Right",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Cutoff CV 1 Left",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Cutoff CV 2 Left",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Drive CV 2 Right",
+   "stepCount": 0,
+   "bypass": false
+  }
+ ]
+}

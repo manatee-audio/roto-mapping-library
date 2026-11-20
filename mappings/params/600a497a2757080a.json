@@ -1,0 +1,50 @@
+{
+ "format": "AU",
+ "name": null,
+ "shown": [
+  "Life",
+  "Input",
+  "Output",
+  "Shape",
+  "Mix",
+  "Oversampling",
+  "Bypass"
+ ],
+ "parameters": [
+  {
+   "title": "Life",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Input",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Output",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Shape",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Mix",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Oversampling",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Bypass",
+   "stepCount": 0,
+   "bypass": true
+  }
+ ]
+}

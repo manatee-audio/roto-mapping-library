@@ -1,0 +1,212 @@
+{
+ "format": "AU",
+ "name": "LTL SILVER BULLET mk2",
+ "shown": [
+  "AIR",
+  "C-MIX",
+  "Out A",
+  "Out N",
+  "Tone",
+  "C-Dry Post",
+  "Flux Rate",
+  "Gain A",
+  "Gain N",
+  "Mojo C",
+  "Power",
+  "Tight",
+  "Mojo Intensity",
+  "Dyna Realism",
+  "Vintage",
+  "Polarity",
+  "Circuit Bend",
+  "LF",
+  "C-DRV",
+  "EQ Fail",
+  "HF Selector",
+  "Headroom",
+  "Out Trim",
+  "LF Selector",
+  "Mix Mode",
+  "Mojo A-N",
+  "Aspect Ratio",
+  "Air Freq 30kHz",
+  "Tight Freq",
+  "Flux Depth",
+  "HF",
+  "Gain Link",
+  "Mojo C Select",
+  "Mojo A-N Active"
+ ],
+ "parameters": [
+  {
+   "title": "AIR",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "C-MIX",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Out A",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Out N",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Tone",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "C-Dry Post",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Flux Rate",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Gain A",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Gain N",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Mojo C",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Power",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Tight",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Mojo Intensity",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Dyna Realism",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Vintage",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Polarity",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Circuit Bend",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "LF",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "C-DRV",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "EQ Fail",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "HF Selector",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Headroom",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Out Trim",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "LF Selector",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Mix Mode",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Mojo A-N",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Aspect Ratio",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Air Freq 30kHz",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Tight Freq",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Flux Depth",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "HF",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Gain Link",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Mojo C Select",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Mojo A-N Active",
+   "stepCount": 0,
+   "bypass": false
+  }
+ ]
+}

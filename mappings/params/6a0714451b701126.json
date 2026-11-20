@@ -1,0 +1,38 @@
+{
+ "format": "AU",
+ "name": "Heatwave",
+ "shown": [
+  "Input Trim",
+  "Drive",
+  "Clip",
+  "Output Trim",
+  "Enabled"
+ ],
+ "parameters": [
+  {
+   "title": "Input Trim",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Drive",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Clip",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Output Trim",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Enabled",
+   "stepCount": 0,
+   "bypass": false
+  }
+ ]
+}

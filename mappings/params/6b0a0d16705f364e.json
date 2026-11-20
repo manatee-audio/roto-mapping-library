@@ -1,0 +1,50 @@
+{
+ "format": "AU",
+ "name": "Little AlterBoy",
+ "shown": [
+  "Bypass",
+  "Pitch",
+  "Formant",
+  "Drive",
+  "Mix",
+  "ShiftMode",
+  "FormantLink"
+ ],
+ "parameters": [
+  {
+   "title": "Bypass",
+   "stepCount": 0,
+   "bypass": true
+  },
+  {
+   "title": "Pitch",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Formant",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Drive",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Mix",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "ShiftMode",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "FormantLink",
+   "stepCount": 0,
+   "bypass": false
+  }
+ ]
+}

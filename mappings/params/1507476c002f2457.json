@@ -1,0 +1,157 @@
+{
+ "format": "VST",
+ "name": "ADPTR MetricAB",
+ "shown": [
+  "AB Switch",
+  "A Stream Fader",
+  "B Stream Fader",
+  "Selected Tab",
+  "Selected Track",
+  "Selected Cue",
+  "Track Gain",
+  "Stereo Mode",
+  "Stereo In Place",
+  "Meter Zoom",
+  "Meter Mode",
+  "Mini Mode",
+  "Loudness Match",
+  "Loudness Match All",
+  "UI Scale",
+  "Filter Preset",
+  "Filter Zoom Lock",
+  "Filter Switch",
+  "Filter Mode",
+  "Filter Slope",
+  "Filter Low Freq",
+  "Filter High Freq",
+  "PDC Switch",
+  "PDC Value"
+ ],
+ "parameters": [
+  {
+   "title": "AB Switch",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "A Stream Fader",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "B Stream Fader",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Selected Tab",
+   "stepCount": 5,
+   "bypass": false
+  },
+  {
+   "title": "Selected Track",
+   "stepCount": 15,
+   "bypass": false
+  },
+  {
+   "title": "Selected Cue",
+   "stepCount": 3,
+   "bypass": false
+  },
+  {
+   "title": "Track Gain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Stereo Mode",
+   "stepCount": 4,
+   "bypass": false
+  },
+  {
+   "title": "Stereo In Place",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Meter Zoom",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Meter Mode",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "Mini Mode",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Loudness Match",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Loudness Match All",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "UI Scale",
+   "stepCount": 3,
+   "bypass": false
+  },
+  {
+   "title": "Filter Preset",
+   "stepCount": 5,
+   "bypass": false
+  },
+  {
+   "title": "Filter Zoom Lock",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Filter Switch",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Filter Mode",
+   "stepCount": 2,
+   "bypass": false
+  },
+  {
+   "title": "Filter Slope",
+   "stepCount": 3,
+   "bypass": false
+  },
+  {
+   "title": "Filter Low Freq",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Filter High Freq",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "PDC Switch",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "PDC Value",
+   "stepCount": 100000,
+   "bypass": false
+  },
+  {
+   "title": "Bypass",
+   "stepCount": 1,
+   "bypass": true
+  }
+ ]
+}

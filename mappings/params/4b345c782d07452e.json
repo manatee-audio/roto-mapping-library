@@ -1,0 +1,356 @@
+{
+ "format": "AU",
+ "name": "RC-20 Retro Color",
+ "shown": [
+  "Magnitude",
+  "NOIS Amount",
+  "WOBB Amount",
+  "DIST Amount",
+  "DIGI Amount",
+  "SPAC Amount",
+  "MAGN Amount",
+  "NOIS Enable",
+  "NOIS Type",
+  "NOIS Tone",
+  "NOIS Follow",
+  "NOIS Routing",
+  "NOIS Duck",
+  "NOIS Flux",
+  "WOBB Enable",
+  "WOBB W<>F Balance",
+  "WOBB Wow Rate",
+  "WOBB Wow Stereo Mode",
+  "WOBB Flutter Rate",
+  "WOBB Mix",
+  "WOBB Flux",
+  "DIST Enable",
+  "DIST Type",
+  "DIST Filter Lo",
+  "DIST Filter Hi",
+  "DIST Mix",
+  "DIST Flux",
+  "DIGI Enable",
+  "DIGI R<>B Balance",
+  "DIGI Filter Lo",
+  "DIGI Filter Hi",
+  "DIGI Filter Mode",
+  "DIGI Smooth",
+  "DIGI Mix",
+  "DIGI Flux",
+  "SPAC Enable",
+  "SPAC Decay",
+  "SPAC Filter Lo",
+  "SPAC Filter Hi",
+  "SPAC PreDelay",
+  "SPAC Stereo Mode",
+  "SPAC Flux",
+  "MAGN Enable",
+  "MAGN W<>F Balance",
+  "MAGN Wear Stereo Mode",
+  "MAGN Flutter Rate",
+  "MAGN Dropouts",
+  "MAGN Flux",
+  "MAST In Gain",
+  "MAST EQ Enable",
+  "MAST EQ Cut Lo",
+  "MAST EQ Cut Hi",
+  "MAST EQ Cut Lo Mode",
+  "MAST EQ Cut Hi Mode",
+  "MAST EQ Tone",
+  "MAST EQ Tone Mode",
+  "MAST Out Width",
+  "MAST Out Gain"
+ ],
+ "parameters": [
+  {
+   "title": "Magnitude",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "NOIS Amount",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "WOBB Amount",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "DIST Amount",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "DIGI Amount",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SPAC Amount",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MAGN Amount",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "NOIS Enable",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "NOIS Type",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "NOIS Tone",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "NOIS Follow",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "NOIS Routing",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "NOIS Duck",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "NOIS Flux",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "WOBB Enable",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "WOBB W<>F Balance",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "WOBB Wow Rate",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "WOBB Wow Stereo Mode",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "WOBB Flutter Rate",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "WOBB Mix",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "WOBB Flux",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "DIST Enable",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "DIST Type",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "DIST Filter Lo",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "DIST Filter Hi",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "DIST Mix",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "DIST Flux",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "DIGI Enable",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "DIGI R<>B Balance",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "DIGI Filter Lo",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "DIGI Filter Hi",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "DIGI Filter Mode",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "DIGI Smooth",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "DIGI Mix",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "DIGI Flux",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SPAC Enable",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SPAC Decay",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SPAC Filter Lo",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SPAC Filter Hi",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SPAC PreDelay",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SPAC Stereo Mode",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SPAC Flux",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MAGN Enable",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MAGN W<>F Balance",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MAGN Wear Stereo Mode",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MAGN Flutter Rate",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MAGN Dropouts",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MAGN Flux",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MAST In Gain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MAST EQ Enable",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MAST EQ Cut Lo",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MAST EQ Cut Hi",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MAST EQ Cut Lo Mode",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MAST EQ Cut Hi Mode",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MAST EQ Tone",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MAST EQ Tone Mode",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MAST Out Width",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MAST Out Gain",
+   "stepCount": 0,
+   "bypass": false
+  }
+ ]
+}

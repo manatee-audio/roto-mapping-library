@@ -1,0 +1,86 @@
+{
+ "format": "AU",
+ "name": "W495",
+ "shown": [
+  "Bypass",
+  "Auto Gain",
+  "Output Gain",
+  "Band1 Gain",
+  "Band1 Frequency",
+  "Band1 Mode",
+  "Band2 Gain",
+  "Band2 Width",
+  "Band2 Frequency",
+  "Band2 Mode",
+  "Band3 Gain",
+  "Band3 Frequency",
+  "Band3 Mode"
+ ],
+ "parameters": [
+  {
+   "title": "Bypass",
+   "stepCount": 0,
+   "bypass": true
+  },
+  {
+   "title": "Auto Gain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Output Gain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Band1 Gain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Band1 Frequency",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Band1 Mode",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Band2 Gain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Band2 Width",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Band2 Frequency",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Band2 Mode",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Band3 Gain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Band3 Frequency",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Band3 Mode",
+   "stepCount": 0,
+   "bypass": false
+  }
+ ]
+}

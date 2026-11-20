@@ -1,0 +1,80 @@
+{
+ "format": "AU",
+ "name": "SSL Digicrush",
+ "shown": [
+  "Mix",
+  "Bit Reduction Mode",
+  "Overload",
+  "Anti-Aliasing Frequency",
+  "Output Gain",
+  "Anti-Images Frequency",
+  "Downsample",
+  "Anti-Images",
+  "Jitter",
+  "Bits",
+  "Anti-Aliasing",
+  "Bypass"
+ ],
+ "parameters": [
+  {
+   "title": "Mix",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Bit Reduction Mode",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Overload",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Anti-Aliasing Frequency",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Output Gain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Anti-Images Frequency",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Downsample",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Anti-Images",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Jitter",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Bits",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Anti-Aliasing",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Bypass",
+   "stepCount": 0,
+   "bypass": true
+  }
+ ]
+}

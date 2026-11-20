@@ -1,0 +1,26 @@
+{
+ "format": "AU",
+ "name": null,
+ "shown": [
+  "Bypass",
+  "Output Gain",
+  "DeBoom"
+ ],
+ "parameters": [
+  {
+   "title": "Bypass",
+   "stepCount": 0,
+   "bypass": true
+  },
+  {
+   "title": "Output Gain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "DeBoom",
+   "stepCount": 0,
+   "bypass": false
+  }
+ ]
+}

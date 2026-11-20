@@ -1,0 +1,49 @@
+{
+ "format": "AU",
+ "name": "Gorilla Drive",
+ "shown": [
+  "Tone",
+  "InGain",
+  "Phase",
+  "OutGain",
+  "BlendAmount",
+  "Bypass"
+ ],
+ "parameters": [
+  {
+   "title": "Tone",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "InGain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Phase",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "OutGain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "BlendAmount",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "AutoGain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Bypass",
+   "stepCount": 0,
+   "bypass": true
+  }
+ ]
+}

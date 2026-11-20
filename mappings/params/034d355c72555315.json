@@ -1,0 +1,278 @@
+{
+ "format": "AU",
+ "name": "Bettermaker EQ232D",
+ "shown": [
+  "ENGAGE 1",
+  "HPF IN 1",
+  "HPF FREQ 1",
+  "EQ1 IN 1",
+  "EQ1 GAIN 1",
+  "EQ1 Q 1",
+  "EQ1 FREQ 1",
+  "EQ2 IN 1",
+  "EQ2 GAIN 1",
+  "EQ2 Q 1",
+  "EQ2 FREQ 1",
+  "PEQ IN 1",
+  "LO BOOST 1",
+  "LO ATTEN 1",
+  "LO CPS 1",
+  "HI BOOST 1",
+  "HI ATTEN 1",
+  "HI BW 1",
+  "KCS BST 1",
+  "KCS ATT 1",
+  "LVL OUT 1",
+  "ENGAGE 2",
+  "HPF IN 2",
+  "HPF FREQ 2",
+  "EQ1 IN 2",
+  "EQ1 GAIN 2",
+  "EQ1 Q 2",
+  "EQ1 FREQ 2",
+  "EQ2 IN 2",
+  "EQ2 GAIN 2",
+  "EQ2 Q 2",
+  "EQ2 FREQ 2",
+  "PEQ IN 2",
+  "LO BOOST 2",
+  "LO ATTEN 2",
+  "LO CPS 2",
+  "HI BOOST 2",
+  "HI ATTEN 2",
+  "HI BW 2",
+  "KCS BST 2",
+  "KCS ATT 2",
+  "LVL OUT 2",
+  "CHANNEL",
+  "MS MATRIX",
+  "SNAPSHOT"
+ ],
+ "parameters": [
+  {
+   "title": "ENGAGE 1",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "HPF IN 1",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "HPF FREQ 1",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "EQ1 IN 1",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "EQ1 GAIN 1",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "EQ1 Q 1",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "EQ1 FREQ 1",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "EQ2 IN 1",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "EQ2 GAIN 1",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "EQ2 Q 1",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "EQ2 FREQ 1",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "PEQ IN 1",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "LO BOOST 1",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "LO ATTEN 1",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "LO CPS 1",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "HI BOOST 1",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "HI ATTEN 1",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "HI BW 1",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "KCS BST 1",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "KCS ATT 1",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "LVL OUT 1",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "ENGAGE 2",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "HPF IN 2",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "HPF FREQ 2",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "EQ1 IN 2",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "EQ1 GAIN 2",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "EQ1 Q 2",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "EQ1 FREQ 2",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "EQ2 IN 2",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "EQ2 GAIN 2",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "EQ2 Q 2",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "EQ2 FREQ 2",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "PEQ IN 2",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "LO BOOST 2",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "LO ATTEN 2",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "LO CPS 2",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "HI BOOST 2",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "HI ATTEN 2",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "HI BW 2",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "KCS BST 2",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "KCS ATT 2",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "LVL OUT 2",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "CHANNEL",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MS MATRIX",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SNAPSHOT",
+   "stepCount": 0,
+   "bypass": false
+  }
+ ]
+}

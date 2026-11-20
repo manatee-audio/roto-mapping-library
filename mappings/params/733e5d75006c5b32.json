@@ -1,0 +1,121 @@
+{
+ "format": "AU",
+ "name": "CrushStation",
+ "shown": [
+  "MIX",
+  "DRIVE",
+  "SUSTAIN",
+  "SAG",
+  "OCTAVES",
+  "GRIT",
+  "GATE ATTACK",
+  "THRESHOLD",
+  "BASS",
+  "MIDS",
+  "MIDS FREQUENCY",
+  "TREBLE",
+  "INPUT LEVEL",
+  "OUTPUT LEVEL",
+  "ACTIVE",
+  "RIBBON CONTROLLER",
+  "HOTSWITCH",
+  "GATE"
+ ],
+ "parameters": [
+  {
+   "title": "MIX",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "DRIVE",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SUSTAIN",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SAG",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "OCTAVES",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "GRIT",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "GATE ATTACK",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "THRESHOLD",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "BASS",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MIDS",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MIDS FREQUENCY",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "TREBLE",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MIX LOCK ENABLE",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "INPUT LEVEL",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "OUTPUT LEVEL",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "ACTIVE",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "RIBBON CONTROLLER",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "HOTSWITCH",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "GATE",
+   "stepCount": 0,
+   "bypass": false
+  }
+ ]
+}

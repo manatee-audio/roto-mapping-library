@@ -1,0 +1,38 @@
+{
+ "format": "AU",
+ "name": "Little Radiator",
+ "shown": [
+  "Bypass",
+  "Heat",
+  "Mix",
+  "Bias",
+  "Noise"
+ ],
+ "parameters": [
+  {
+   "title": "Bypass",
+   "stepCount": 0,
+   "bypass": true
+  },
+  {
+   "title": "Heat",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Mix",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Bias",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Noise",
+   "stepCount": 0,
+   "bypass": false
+  }
+ ]
+}

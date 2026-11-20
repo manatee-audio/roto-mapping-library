@@ -1,0 +1,206 @@
+{
+ "format": "AU",
+ "name": "Master Plan v1.5",
+ "shown": [
+  "Calm",
+  "BYPASS",
+  "Wide",
+  "Calm x2",
+  "Clean",
+  "Low EQ",
+  "Thick",
+  "UNITY",
+  "Loud",
+  "Calm Amount",
+  "Tape Character",
+  "Clean Mix",
+  "Output Gain",
+  "High EQ",
+  "MultiBand H",
+  "Saturation",
+  "Thick Mix",
+  "MultiBand L",
+  "MultiBand M",
+  "Smooth",
+  "Tape",
+  "Multiband Compressor",
+  "Input Gain",
+  "complexity",
+  "Low On",
+  "Mid EQ",
+  "Mid On",
+  "High On",
+  "Loud On",
+  "Wide On",
+  "check",
+  "TRUE PEAK",
+  "Mid EQ Select"
+ ],
+ "parameters": [
+  {
+   "title": "Calm",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "BYPASS",
+   "stepCount": 0,
+   "bypass": true
+  },
+  {
+   "title": "Wide",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Calm x2",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Clean",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Low EQ",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Thick",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "UNITY",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Loud",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Calm Amount",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Tape Character",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Clean Mix",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Output Gain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "High EQ",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MultiBand H",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Saturation",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Thick Mix",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MultiBand L",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MultiBand M",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Smooth",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Tape",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Multiband Compressor",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Input Gain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "complexity",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Low On",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Mid EQ",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Mid On",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "High On",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Loud On",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Wide On",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "check",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "TRUE PEAK",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Mid EQ Select",
+   "stepCount": 0,
+   "bypass": false
+  }
+ ]
+}

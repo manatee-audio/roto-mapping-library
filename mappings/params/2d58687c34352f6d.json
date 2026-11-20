@@ -1,0 +1,152 @@
+{
+ "format": "AU",
+ "name": "ADPTR MetricAB",
+ "shown": [
+  "PDC Value",
+  "A Stream Fader",
+  "Filter High Freq",
+  "PDC Switch",
+  "Filter Zoom Lock",
+  "AB Switch",
+  "Selected Cue",
+  "Selected Tab",
+  "Mini Mode",
+  "Loudness Match All",
+  "Filter Mode",
+  "Meter Mode",
+  "Meter Zoom",
+  "Filter Slope",
+  "Track Gain",
+  "Loudness Match",
+  "Stereo In Place",
+  "Filter Preset",
+  "UI Scale",
+  "Filter Switch",
+  "Stereo Mode",
+  "Selected Track",
+  "B Stream Fader",
+  "Filter Low Freq"
+ ],
+ "parameters": [
+  {
+   "title": "PDC Value",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "A Stream Fader",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Filter High Freq",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "PDC Switch",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Filter Zoom Lock",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "AB Switch",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Selected Cue",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Selected Tab",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Mini Mode",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Loudness Match All",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Filter Mode",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Meter Mode",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Meter Zoom",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Filter Slope",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Track Gain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Loudness Match",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Stereo In Place",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Filter Preset",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "UI Scale",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Filter Switch",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Stereo Mode",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Selected Track",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "B Stream Fader",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Filter Low Freq",
+   "stepCount": 0,
+   "bypass": false
+  }
+ ]
+}

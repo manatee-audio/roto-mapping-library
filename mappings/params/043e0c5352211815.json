@@ -1,0 +1,38 @@
+{
+ "format": "AU",
+ "name": "Little Plate",
+ "shown": [
+  "Bypass",
+  "Mix",
+  "Decay",
+  "Low Cut",
+  "Mod Enable"
+ ],
+ "parameters": [
+  {
+   "title": "Bypass",
+   "stepCount": 0,
+   "bypass": true
+  },
+  {
+   "title": "Mix",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Decay",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Low Cut",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Mod Enable",
+   "stepCount": 0,
+   "bypass": false
+  }
+ ]
+}
