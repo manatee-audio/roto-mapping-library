@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-20T13:29:31.470Z",
+  "updatedAt": "2026-11-20T13:33:32.926Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -2894,6 +2894,66 @@
       "problems": 0
     },
     {
+      "hash": "3b201d4d6e166132",
+      "plugin": "Heatwave",
+      "maker": "Slate Digital",
+      "format": "VST",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "saturation",
+      "knobs": [
+        "IN",
+        "DRIVE",
+        "OUT"
+      ],
+      "buttons": [
+        "Clip",
+        "Enabled"
+      ],
+      "file": "mappings/ableton/Heatwave (VST).json",
+      "sha1": "1ba35ea6295a520f765e7b41dc1b1ae9feb16864",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T13:33:32.926Z",
+      "updatedAt": "2026-11-20T13:33:32.926Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "6a0714451b701126",
+      "plugin": "Heatwave",
+      "maker": "Slate Digital",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "saturation",
+      "knobs": [
+        "IN",
+        "DRIVE",
+        "OUT"
+      ],
+      "buttons": [
+        "Clip",
+        "Enabled"
+      ],
+      "file": "mappings/ableton/Heatwave (AU).json",
+      "sha1": "357903d0b52e44e62714408c81ea49340e849c93",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T13:33:32.926Z",
+      "updatedAt": "2026-11-20T13:33:32.926Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "025f7b385b7b5d2b",
       "plugin": "HUM Audio Devices LAAL",
       "maker": "Plugin Alliance",
@@ -3911,6 +3971,36 @@
       "credit": null,
       "addedAt": "2026-11-20T13:29:31.470Z",
       "updatedAt": "2026-11-20T13:29:31.470Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "17213437624f2346",
+      "plugin": "Heatwave",
+      "maker": "Slate Digital",
+      "format": "",
+      "daw": "bitwig",
+      "logicPlugin": null,
+      "category": "saturation",
+      "knobs": [
+        "IN",
+        "DRIVE",
+        "OUT"
+      ],
+      "buttons": [
+        "Clip",
+        "Enabled"
+      ],
+      "file": "mappings/bitwig/Heatwave (Bitwig).json",
+      "sha1": "9e1b094e85bd0c6d26b285744ccfa6c258bae4ab",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "bitwig",
+        "version": "6.1.7"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T13:33:32.926Z",
+      "updatedAt": "2026-11-20T13:33:32.926Z",
       "worksForMe": 0,
       "problems": 0
     },
@@ -4994,6 +5084,74 @@
       "credit": null,
       "addedAt": "2026-11-20T13:29:31.470Z",
       "updatedAt": "2026-11-20T13:29:31.470Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "6f480e181e362d7e",
+      "plugin": "Heatwave",
+      "maker": "Slate Digital",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Heatwave",
+        "channels": "mono",
+        "stock": false
+      },
+      "category": "saturation",
+      "knobs": [
+        "IN",
+        "DRIVE",
+        "OUT"
+      ],
+      "buttons": [
+        "Clip",
+        "Enabled"
+      ],
+      "file": "mappings/logic/Heatwave (Logic, mono).json",
+      "sha1": "3c309d53b3b44311bfc7c93df20360fc9999114f",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T13:33:32.926Z",
+      "updatedAt": "2026-11-20T13:33:32.926Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "7b51031836272869",
+      "plugin": "Heatwave",
+      "maker": "Slate Digital",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Heatwave",
+        "channels": "stereo",
+        "stock": false
+      },
+      "category": "saturation",
+      "knobs": [
+        "IN",
+        "DRIVE",
+        "OUT"
+      ],
+      "buttons": [
+        "Clip",
+        "Enabled"
+      ],
+      "file": "mappings/logic/Heatwave (Logic, stereo).json",
+      "sha1": "7c42686ba9c7be13811fc588aa468a827e33fe05",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T13:33:32.926Z",
+      "updatedAt": "2026-11-20T13:33:32.926Z",
       "worksForMe": 0,
       "problems": 0
     },
