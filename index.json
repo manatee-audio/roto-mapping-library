@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-20T15:15:17.074Z",
+  "updatedAt": "2026-11-20T15:18:32.561Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -3390,6 +3390,66 @@
       "problems": 0
     },
     {
+      "hash": "043e0c5352211815",
+      "plugin": "Little Plate",
+      "maker": "Soundtoys",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "reverb",
+      "knobs": [
+        "Decay",
+        "Mix",
+        "Low Cut"
+      ],
+      "buttons": [
+        "Mod Enable",
+        "Bypass"
+      ],
+      "file": "mappings/ableton/Little Plate (AU).json",
+      "sha1": "3435609ed419c922594055ebeae3cf5cbceb3477",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T15:18:32.561Z",
+      "updatedAt": "2026-11-20T15:18:32.561Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "66336e18504a157a",
+      "plugin": "Little Plate",
+      "maker": "Soundtoys",
+      "format": "VST",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "reverb",
+      "knobs": [
+        "Decay",
+        "Mix",
+        "Low Cut"
+      ],
+      "buttons": [
+        "Mod Enable",
+        "Bypass"
+      ],
+      "file": "mappings/ableton/Little Plate (VST).json",
+      "sha1": "4d9d34cfc78563cdfe3931bf780e07d49c6c52f8",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T15:18:32.561Z",
+      "updatedAt": "2026-11-20T15:18:32.561Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "25772a4d0769713b",
       "plugin": "MidBoss",
       "maker": "AnalogObsession",
@@ -5718,6 +5778,108 @@
       "credit": null,
       "addedAt": "2026-11-20T15:15:17.074Z",
       "updatedAt": "2026-11-20T15:15:17.074Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "043662040819262b",
+      "plugin": "Little Plate",
+      "maker": "Soundtoys",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Little Plate",
+        "channels": "mono-stereo",
+        "stock": false
+      },
+      "category": "reverb",
+      "knobs": [
+        "Decay",
+        "Mix",
+        "Low Cut"
+      ],
+      "buttons": [
+        "Mod Enable",
+        "Bypass"
+      ],
+      "file": "mappings/logic/Little Plate (Logic, mono to stereo).json",
+      "sha1": "d5652422459ec36c0c66c803039dd5f1fdf47012",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T15:18:32.561Z",
+      "updatedAt": "2026-11-20T15:18:32.561Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "4a00610454027739",
+      "plugin": "Little Plate",
+      "maker": "Soundtoys",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Little Plate",
+        "channels": "stereo",
+        "stock": false
+      },
+      "category": "reverb",
+      "knobs": [
+        "Decay",
+        "Mix",
+        "Low Cut"
+      ],
+      "buttons": [
+        "Mod Enable",
+        "Bypass"
+      ],
+      "file": "mappings/logic/Little Plate (Logic, stereo).json",
+      "sha1": "fee39795cf73e0a916af9b35707dd341394b1165",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T15:18:32.561Z",
+      "updatedAt": "2026-11-20T15:18:32.561Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "7e3762047c725a6e",
+      "plugin": "Little Plate",
+      "maker": "Soundtoys",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Little Plate",
+        "channels": "mono",
+        "stock": false
+      },
+      "category": "reverb",
+      "knobs": [
+        "Decay",
+        "Mix",
+        "Low Cut"
+      ],
+      "buttons": [
+        "Mod Enable",
+        "Bypass"
+      ],
+      "file": "mappings/logic/Little Plate (Logic, mono).json",
+      "sha1": "389793db51cece4f25034f820c2adc111ca5cd05",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T15:18:32.561Z",
+      "updatedAt": "2026-11-20T15:18:32.561Z",
       "worksForMe": 0,
       "problems": 0
     },
