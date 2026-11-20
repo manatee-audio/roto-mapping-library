@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-20T11:25:43.559Z",
+  "updatedAt": "2026-11-20T11:29:02.141Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -2433,6 +2433,64 @@
       "problems": 0
     },
     {
+      "hash": "41767b094058515b",
+      "plugin": "Fresh Air",
+      "maker": "Slate Digital",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "other",
+      "knobs": [
+        "Mid Air",
+        "High Air",
+        "Trim"
+      ],
+      "buttons": [
+        "Bypass"
+      ],
+      "file": "mappings/ableton/Fresh Air (AU).json",
+      "sha1": "ac8721e421acc851fe6a08ea07af233e575737a3",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T11:29:02.141Z",
+      "updatedAt": "2026-11-20T11:29:02.141Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "764a45323f746c01",
+      "plugin": "Fresh Air",
+      "maker": "Slate Digital",
+      "format": "VST",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "other",
+      "knobs": [
+        "Mid Air",
+        "High Air",
+        "Trim"
+      ],
+      "buttons": [
+        "Bypass"
+      ],
+      "file": "mappings/ableton/Fresh Air (VST).json",
+      "sha1": "30d5799fb9136a7b32741d8980d60b2176b2b0ce",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T11:29:02.141Z",
+      "updatedAt": "2026-11-20T11:29:02.141Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "025f7b385b7b5d2b",
       "plugin": "HUM Audio Devices LAAL",
       "maker": "Plugin Alliance",
@@ -3330,6 +3388,35 @@
       "problems": 0
     },
     {
+      "hash": "2a393960132e5e2d",
+      "plugin": "Fresh Air",
+      "maker": "Slate Digital",
+      "format": "",
+      "daw": "bitwig",
+      "logicPlugin": null,
+      "category": "other",
+      "knobs": [
+        "Mid Air",
+        "High Air",
+        "Trim"
+      ],
+      "buttons": [
+        "Bypass"
+      ],
+      "file": "mappings/bitwig/Fresh Air (Bitwig).json",
+      "sha1": "94641a13bc0bb44f244b4fcbfc54234835101e27",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "bitwig",
+        "version": "6.1.7"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T11:29:02.141Z",
+      "updatedAt": "2026-11-20T11:29:02.141Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "791b1e7f4b17686a",
       "plugin": "HUM Audio Devices LAAL",
       "maker": "Plugin Alliance",
@@ -4058,6 +4145,72 @@
       "credit": null,
       "addedAt": "2026-11-20T11:25:43.559Z",
       "updatedAt": "2026-11-20T11:25:43.559Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "6e5467561c6a2130",
+      "plugin": "Fresh Air",
+      "maker": "Slate Digital",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Fresh Air",
+        "channels": "mono",
+        "stock": false
+      },
+      "category": "other",
+      "knobs": [
+        "Mid Air",
+        "High Air",
+        "Trim"
+      ],
+      "buttons": [
+        "Bypass"
+      ],
+      "file": "mappings/logic/Fresh Air (Logic, mono).json",
+      "sha1": "667b946dacf189d93dd3483a10038b8b5c9a520e",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T11:29:02.141Z",
+      "updatedAt": "2026-11-20T11:29:02.141Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "7a6f645634543e0d",
+      "plugin": "Fresh Air",
+      "maker": "Slate Digital",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Fresh Air",
+        "channels": "stereo",
+        "stock": false
+      },
+      "category": "other",
+      "knobs": [
+        "Mid Air",
+        "High Air",
+        "Trim"
+      ],
+      "buttons": [
+        "Bypass"
+      ],
+      "file": "mappings/logic/Fresh Air (Logic, stereo).json",
+      "sha1": "f21a1fc2407f1fe23994b2dd017dfefb3b16d874",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T11:29:02.141Z",
+      "updatedAt": "2026-11-20T11:29:02.141Z",
       "worksForMe": 0,
       "problems": 0
     },
