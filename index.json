@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-20T17:12:49.402Z",
+  "updatedAt": "2026-11-20T17:39:51.735Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -3638,6 +3638,100 @@
       "problems": 0
     },
     {
+      "hash": "075713604001152e",
+      "plugin": "Lustrous Plates",
+      "maker": "LiquidSonics",
+      "format": "VST",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "reverb",
+      "knobs": [
+        "Plate Model",
+        "Decay",
+        "Dispersion",
+        "Pre-delay",
+        "Width",
+        "Mod Depth",
+        "Mod Rate",
+        "Dry/Wet",
+        "Master EQ",
+        "Low Cut",
+        "Low Freq",
+        "Low Gain",
+        "High Freq",
+        "High Gain",
+        "High Cut",
+        "Master Gain"
+      ],
+      "buttons": [
+        "Pre-delay Sy",
+        "Device On",
+        "Low Cut Slop",
+        "Low Band Mod",
+        "High Band Mo",
+        "High Cut Slo"
+      ],
+      "file": "mappings/ableton/Lustrous Plates (VST).json",
+      "sha1": "8a34d90b653101e1ba269ee073f4d1878a2cc8fc",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T17:39:51.735Z",
+      "updatedAt": "2026-11-20T17:39:51.735Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "0c0b246f2e746969",
+      "plugin": "Lustrous Plates",
+      "maker": "LiquidSonics",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "reverb",
+      "knobs": [
+        "Plate Model",
+        "Decay",
+        "Dispersion",
+        "Pre-delay",
+        "Width",
+        "Mod Depth",
+        "Mod Rate",
+        "Dry/Wet",
+        "Master EQ",
+        "Low Cut",
+        "Low Freq",
+        "Low Gain",
+        "High Freq",
+        "High Gain",
+        "High Cut",
+        "Master Gain"
+      ],
+      "buttons": [
+        "Pre-delay Sy",
+        "Device On",
+        "Low Cut Slop",
+        "Low Band Mod",
+        "High Band Mo",
+        "High Cut Slo"
+      ],
+      "file": "mappings/ableton/Lustrous Plates (AU).json",
+      "sha1": "c45de990fe352edf758fad2603ff95319b6db644",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T17:39:51.735Z",
+      "updatedAt": "2026-11-20T17:39:51.735Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "25772a4d0769713b",
       "plugin": "MidBoss",
       "maker": "AnalogObsession",
@@ -4601,6 +4695,52 @@
       "credit": null,
       "addedAt": "2026-11-20T15:15:17.074Z",
       "updatedAt": "2026-11-20T15:15:17.074Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "2d0426214c76715d",
+      "plugin": "Lustrous Plates",
+      "maker": "LiquidSonics",
+      "format": "",
+      "daw": "bitwig",
+      "logicPlugin": null,
+      "category": "reverb",
+      "knobs": [
+        "Plate Model",
+        "Decay",
+        "Dispersion",
+        "Pre-delay",
+        "Width",
+        "Mod Depth",
+        "Mod Rate",
+        "Dry/Wet",
+        "Master EQ",
+        "Low Cut",
+        "Low Freq",
+        "Low Gain",
+        "High Freq",
+        "High Gain",
+        "High Cut",
+        "Master Gain"
+      ],
+      "buttons": [
+        "Pre-delay Sy",
+        "Low Cut Slop",
+        "Low Band Mod",
+        "High Band Mo",
+        "High Cut Slo"
+      ],
+      "file": "mappings/bitwig/Lustrous Plates (Bitwig).json",
+      "sha1": "fe93c2ecc010a9f97f65f05aa2d93b3dfcd7cb3a",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "bitwig",
+        "version": "6.1.7"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T17:39:51.735Z",
+      "updatedAt": "2026-11-20T17:39:51.735Z",
       "worksForMe": 0,
       "problems": 0
     },
@@ -6238,6 +6378,156 @@
       "credit": null,
       "addedAt": "2026-11-20T17:12:49.402Z",
       "updatedAt": "2026-11-20T17:12:49.402Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "1a28170114671255",
+      "plugin": "Lustrous Plates",
+      "maker": "LiquidSonics",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Lustrous Plates",
+        "channels": "mono-stereo",
+        "stock": false
+      },
+      "category": "reverb",
+      "knobs": [
+        "Plate Model",
+        "Decay",
+        "Dispersion",
+        "Pre-delay",
+        "Width",
+        "Mod Depth",
+        "Mod Rate",
+        "Dry/Wet",
+        "Master EQ",
+        "Low Cut",
+        "Low Freq",
+        "Low Gain",
+        "High Freq",
+        "High Gain",
+        "High Cut",
+        "Master Gain"
+      ],
+      "buttons": [
+        "Pre-delay Sy",
+        "Low Cut Slop",
+        "Low Band Mod",
+        "High Band Mo",
+        "High Cut Slo"
+      ],
+      "file": "mappings/logic/Lustrous Plates (Logic, mono to stereo).json",
+      "sha1": "cbd935e5f8dcf350119aea873c762a4feaa30634",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T17:39:51.735Z",
+      "updatedAt": "2026-11-20T17:39:51.735Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "542b170148577047",
+      "plugin": "Lustrous Plates",
+      "maker": "LiquidSonics",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Lustrous Plates",
+        "channels": "mono",
+        "stock": false
+      },
+      "category": "reverb",
+      "knobs": [
+        "Plate Model",
+        "Decay",
+        "Dispersion",
+        "Pre-delay",
+        "Width",
+        "Mod Depth",
+        "Mod Rate",
+        "Dry/Wet",
+        "Master EQ",
+        "Low Cut",
+        "Low Freq",
+        "Low Gain",
+        "High Freq",
+        "High Gain",
+        "High Cut",
+        "Master Gain"
+      ],
+      "buttons": [
+        "Pre-delay Sy",
+        "Low Cut Slop",
+        "Low Band Mod",
+        "High Band Mo",
+        "High Cut Slo"
+      ],
+      "file": "mappings/logic/Lustrous Plates (Logic, mono).json",
+      "sha1": "8a572363e3f41886905ef381cfc29568d360d1fd",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T17:39:51.735Z",
+      "updatedAt": "2026-11-20T17:39:51.735Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "60031b0160734631",
+      "plugin": "Lustrous Plates",
+      "maker": "LiquidSonics",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Lustrous Plates",
+        "channels": "stereo",
+        "stock": false
+      },
+      "category": "reverb",
+      "knobs": [
+        "Plate Model",
+        "Decay",
+        "Dispersion",
+        "Pre-delay",
+        "Width",
+        "Mod Depth",
+        "Mod Rate",
+        "Dry/Wet",
+        "Master EQ",
+        "Low Cut",
+        "Low Freq",
+        "Low Gain",
+        "High Freq",
+        "High Gain",
+        "High Cut",
+        "Master Gain"
+      ],
+      "buttons": [
+        "Pre-delay Sy",
+        "Low Cut Slop",
+        "Low Band Mod",
+        "High Band Mo",
+        "High Cut Slo"
+      ],
+      "file": "mappings/logic/Lustrous Plates (Logic, stereo).json",
+      "sha1": "ef3dc0d126883f0dffd6ca604b8566013ce943c5",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-20T17:39:51.735Z",
+      "updatedAt": "2026-11-20T17:39:51.735Z",
       "worksForMe": 0,
       "problems": 0
     },
