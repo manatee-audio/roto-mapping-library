@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-21T15:17:38.880Z",
+  "updatedAt": "2026-11-21T15:27:05.138Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -5103,6 +5103,62 @@
       "paramsSha1": "d2b7c88288d4304684858b3c1408135cbb9b15be",
       "addedAt": "2026-11-16T23:50:39.110Z",
       "updatedAt": "2026-11-16T23:50:39.110Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "412b4b693a7e6014",
+      "plugin": "Resonators",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "fx",
+      "knobs": [
+        "Frequency",
+        "Decay",
+        "I Note",
+        "II Pitch",
+        "III Pitch",
+        "IV Pitch",
+        "V Pitch",
+        "Dry/Wet",
+        "Filter Type",
+        "I Tune",
+        "II Tune",
+        "III Tune",
+        "IV Tune",
+        "V Tune",
+        "Output",
+        "Color",
+        "I Gain",
+        "II Gain",
+        "III Gain",
+        "IV Gain",
+        "V Gain",
+        "Width"
+      ],
+      "buttons": [
+        "Filter On",
+        "Mode",
+        "I On",
+        "II On",
+        "III On",
+        "IV On",
+        "V On",
+        "Device On",
+        "Const"
+      ],
+      "file": "mappings/ableton/Resonators (Ableton stock).json",
+      "sha1": "5975cd9191a791c31947ae77687aa652f111ba3b",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-21T15:27:05.138Z",
+      "updatedAt": "2026-11-21T15:27:05.138Z",
       "worksForMe": 0,
       "problems": 0
     },
