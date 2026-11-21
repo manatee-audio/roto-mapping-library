@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-21T15:10:04.023Z",
+  "updatedAt": "2026-11-21T15:14:16.422Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -4991,6 +4991,50 @@
       "credit": null,
       "addedAt": "2026-11-19T00:11:59.228Z",
       "updatedAt": "2026-11-19T00:11:59.228Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "6b77087364671a6d",
+      "plugin": "Re-Enveloper",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "fx",
+      "knobs": [
+        "A Vol",
+        "Attack",
+        "Release",
+        "A C/E Fact",
+        "Split 1",
+        "Split 2",
+        "DryWet",
+        "B Vol",
+        "Attack",
+        "Release",
+        "B C/E Fact",
+        "C Vol",
+        "Attack",
+        "Release",
+        "C C/E Fact"
+      ],
+      "buttons": [
+        "Band A",
+        "Device On",
+        "Band B",
+        "Band C"
+      ],
+      "file": "mappings/ableton/Re-Enveloper (Ableton stock).json",
+      "sha1": "e5e0140b874bd908a1277e69d6630669aa592968",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-21T15:14:16.422Z",
+      "updatedAt": "2026-11-21T15:14:16.422Z",
       "worksForMe": 0,
       "problems": 0
     },
