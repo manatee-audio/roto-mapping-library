@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-21T21:45:45.087Z",
+  "updatedAt": "2026-11-21T21:49:38.201Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -151,6 +151,24 @@
         "version": "12.4.16"
       },
       "credit": null,
+      "live11": {
+        "file": "mappings/ableton-live11/Amp (Ableton stock).json",
+        "sha1": "081cc7549206453da0c612ef76077b236235b3e4",
+        "knobs": [
+          "Amp Type",
+          "Gain",
+          "Bass",
+          "Middle",
+          "Treble",
+          "Presence",
+          "Volume",
+          "Dry/Wet"
+        ],
+        "buttons": [
+          "Dual Mono",
+          "Device On"
+        ]
+      },
       "addedAt": "2026-11-18T14:26:01.444Z",
       "updatedAt": "2026-11-18T14:26:01.444Z",
       "worksForMe": 0,
@@ -764,6 +782,21 @@
         "version": "12.4.16"
       },
       "credit": null,
+      "live11": {
+        "file": "mappings/ableton-live11/Channel EQ (Ableton stock).json",
+        "sha1": "99455811a1e6db5cd87a37d0e9e66915500ef2fc",
+        "knobs": [
+          "Low Gain",
+          "Mid Gain",
+          "Mid Freq",
+          "High Gain",
+          "Gain"
+        ],
+        "buttons": [
+          "Highpass On",
+          "Device On"
+        ]
+      },
       "addedAt": "2026-11-18T18:44:37.521Z",
       "updatedAt": "2026-11-18T18:44:37.521Z",
       "worksForMe": 0,
@@ -800,6 +833,27 @@
         "version": "12.4.16"
       },
       "credit": null,
+      "live11": {
+        "file": "mappings/ableton-live11/Chord (Ableton stock).json",
+        "sha1": "aeb4c525d9ce80332e3880cab28f3ca00233dfec",
+        "knobs": [
+          "Shift1",
+          "Shift2",
+          "Shift3",
+          "Shift4",
+          "Shift5",
+          "Shift5",
+          "Shift 6"
+        ],
+        "buttons": [
+          "Device On"
+        ],
+        "leftOut": [
+          "Strum",
+          "Strum Tensio",
+          "Strum Cresce"
+        ]
+      },
       "addedAt": "2026-11-18T23:57:26.822Z",
       "updatedAt": "2026-11-18T23:57:26.822Z",
       "worksForMe": 0,
@@ -842,6 +896,33 @@
         "version": "12.4.16"
       },
       "credit": null,
+      "live11": {
+        "file": "mappings/ableton-live11/Chorus-Ensemble (Ableton stock).json",
+        "sha1": "9fcb9fecccee23b48e5e39d3a8c8630a49b0952a",
+        "knobs": [
+          "Mode",
+          "Rate",
+          "Amount",
+          "Feedback",
+          "Width",
+          "Gain",
+          "Warmth",
+          "Dry/Wet",
+          "HPF Freq",
+          "Offset",
+          "Shape"
+        ],
+        "buttons": [
+          "FB Inv",
+          "Device On",
+          "HPF Enabled",
+          "Device On"
+        ],
+        "leftOut": [
+          "Delay Time",
+          "Delay Taps"
+        ]
+      },
       "addedAt": "2026-11-19T00:04:47.490Z",
       "updatedAt": "2026-11-19T00:04:47.490Z",
       "worksForMe": 0,
@@ -912,6 +993,27 @@
         "version": "12.4.16"
       },
       "credit": null,
+      "live11": {
+        "file": "mappings/ableton-live11/Compressor (Ableton stock).json",
+        "sha1": "8fff2566f21b19a104f7ec603fac58438562f770",
+        "knobs": [
+          "Threshold",
+          "Ratio",
+          "Attack",
+          "Release",
+          "Knee",
+          "Model",
+          "Dry/Wet",
+          "Output Gain"
+        ],
+        "buttons": [
+          "Makeup",
+          "Auto Release",
+          "Look Ahead",
+          "Env Mode",
+          "Device On"
+        ]
+      },
       "addedAt": "2026-11-19T00:21:36.880Z",
       "updatedAt": "2026-11-19T00:21:36.880Z",
       "worksForMe": 0,
@@ -951,6 +1053,28 @@
         "version": "12.4.16"
       },
       "credit": null,
+      "live11": {
+        "file": "mappings/ableton-live11/Convolution Reverb (Ableton stock).json",
+        "sha1": "97f858746360ecd2af1824d8260c7775ea9f6395",
+        "knobs": [
+          "Predelay",
+          "Width",
+          "Gain",
+          "Dry/Wet",
+          "Lo Gain",
+          "Lo Freq",
+          "Mid Gain",
+          "Mid Freq",
+          "Hi Gain",
+          "Hi Freq",
+          "Dry/Wet"
+        ],
+        "buttons": [
+          "EQ On",
+          "Device On",
+          "Device On"
+        ]
+      },
       "addedAt": "2026-11-19T12:01:52.966Z",
       "updatedAt": "2026-11-19T12:01:52.966Z",
       "worksForMe": 0,
@@ -996,6 +1120,34 @@
         "version": "12.4.16"
       },
       "credit": null,
+      "live11": {
+        "file": "mappings/ableton-live11/Convolution Reverb Pro (Ableton stock).json",
+        "sha1": "57157f72d0d1ccc6d3095cfbb4aeaaaea613243d",
+        "knobs": [
+          "Predelay",
+          "Pan",
+          "Mod Amount",
+          "Rate",
+          "Width",
+          "Gain",
+          "Dry/Wet",
+          "Lo Freq",
+          "Lo Gain",
+          "Mid Freq",
+          "Mid Gain",
+          "Hi Freq",
+          "Hi Gain",
+          "Dry/Wet"
+        ],
+        "buttons": [
+          "EQ On",
+          "Pos On",
+          "Mod On",
+          "Device On",
+          "EQ On",
+          "Device On"
+        ]
+      },
       "addedAt": "2026-11-19T12:01:52.966Z",
       "updatedAt": "2026-11-19T12:01:52.966Z",
       "worksForMe": 0,
@@ -1337,6 +1489,32 @@
         "version": "12.4.16"
       },
       "credit": null,
+      "live11": {
+        "file": "mappings/ableton-live11/Delay (Ableton stock).json",
+        "sha1": "cf80d2b034502dce8a8b086627948b69fd6a0d32",
+        "knobs": [
+          "L 16 th",
+          "R 16 th",
+          "L Time",
+          "R Time",
+          "Feedback",
+          "Filter Freq",
+          "Filter Width",
+          "Dry/Wet",
+          "L Offset",
+          "R Offset",
+          "Delay Mode"
+        ],
+        "buttons": [
+          "Link",
+          "L Sync",
+          "R Sync",
+          "Freeze",
+          "Filter On",
+          "Ping Pong",
+          "Device On"
+        ]
+      },
       "addedAt": "2026-11-19T13:45:41.976Z",
       "updatedAt": "2026-11-19T13:45:41.976Z",
       "worksForMe": 0,
@@ -1388,6 +1566,40 @@
         "version": "12.4.16"
       },
       "credit": null,
+      "live11": {
+        "file": "mappings/ableton-live11/Drift (Ableton stock).json",
+        "sha1": "f1eefc2b15c388e6e417a4664328247cd34474d0",
+        "knobs": [
+          "Osc 1 Wave",
+          "Osc 1 Oct",
+          "Osc 1 Shape",
+          "Osc 1 Gain",
+          "LP Freq",
+          "LP Reso",
+          "HP Freq",
+          "Volume",
+          "Osc 2 Wave",
+          "Osc 2 Oct",
+          "Osc 2 Detune",
+          "Osc 2 Gain",
+          "Noise Gain",
+          "Env 1 Attack",
+          "Env 1 Decay",
+          "Env 1 Sustai",
+          "Env 1 Releas",
+          "Env 2 Attack",
+          "Env 2 Decay",
+          "Env 2 Sustai",
+          "Env 2 Releas"
+        ],
+        "buttons": [
+          "Osc 1 On",
+          "LP Type",
+          "Device On",
+          "Osc 2 On",
+          "Noise On"
+        ]
+      },
       "addedAt": "2026-11-19T13:45:41.976Z",
       "updatedAt": "2026-11-19T13:45:41.976Z",
       "worksForMe": 0,
@@ -1430,6 +1642,31 @@
         "version": "12.4.16"
       },
       "credit": null,
+      "live11": {
+        "file": "mappings/ableton-live11/Drum Buss (Ableton stock).json",
+        "sha1": "72b3119f565dfde1901d5d8e0edcbe2804bb77a5",
+        "knobs": [
+          "Drive",
+          "Drive Type",
+          "Trim",
+          "Crunch",
+          "Damping Freq",
+          "Transients",
+          "Output Gain",
+          "Dry/Wet",
+          "Boom",
+          "Freq",
+          "Decay",
+          "Output Gain",
+          "Dry/Wet"
+        ],
+        "buttons": [
+          "Compressor",
+          "Device On",
+          "Boom Auditio",
+          "Device On"
+        ]
+      },
       "addedAt": "2026-11-19T13:46:58.575Z",
       "updatedAt": "2026-11-19T13:46:58.575Z",
       "worksForMe": 0,
@@ -1817,6 +2054,36 @@
         "version": "12.4.16"
       },
       "credit": null,
+      "live11": {
+        "file": "mappings/ableton-live11/Echo (Ableton stock).json",
+        "sha1": "a16c4b55cbe91ee27a5b362eda60642377f4764c",
+        "knobs": [
+          "L Division",
+          "R Division",
+          "L Time",
+          "R Time",
+          "Input Gain",
+          "Feedback",
+          "Stereo Width",
+          "Dry Wet",
+          "HP Freq",
+          "HP Res",
+          "LP Freq",
+          "LP Res",
+          "Reverb Level",
+          "Reverb Decay",
+          "Output Gain"
+        ],
+        "buttons": [
+          "L Sync",
+          "R Sync",
+          "Link",
+          "Mode",
+          "Device On",
+          "Filter On",
+          "Reverb Loc"
+        ]
+      },
       "addedAt": "2026-11-19T15:08:09.799Z",
       "updatedAt": "2026-11-19T15:08:09.799Z",
       "worksForMe": 0,
@@ -2043,6 +2310,22 @@
         "version": "12.4.16"
       },
       "credit": null,
+      "live11": {
+        "file": "mappings/ableton-live11/Envelope Follower (Ableton stock).json",
+        "sha1": "238bab3fcc312363d83d17748541aadcfb184b36",
+        "knobs": [
+          "Gain",
+          "Rise",
+          "Fall",
+          "Delay Time",
+          "Delay Sync",
+          "Max"
+        ],
+        "buttons": [
+          "Delay Mode",
+          "Device On"
+        ]
+      },
       "addedAt": "2026-11-19T18:47:41.257Z",
       "updatedAt": "2026-11-19T18:47:41.257Z",
       "worksForMe": 0,
@@ -2079,6 +2362,25 @@
         "version": "12.4.16"
       },
       "credit": null,
+      "live11": {
+        "file": "mappings/ableton-live11/Envelope MIDI (Ableton stock).json",
+        "sha1": "d66aecbd90869103b903dea7770ccff8970ff896",
+        "knobs": [
+          "Amount",
+          "Attack",
+          "Decay",
+          "Sustain",
+          "Release",
+          "Atk Slope",
+          "Dec Slope",
+          "Rel Slope"
+        ],
+        "buttons": [
+          "Velocity",
+          "SustainMode",
+          "Device On"
+        ]
+      },
       "addedAt": "2026-11-19T18:47:41.257Z",
       "updatedAt": "2026-11-19T18:47:41.257Z",
       "worksForMe": 0,
@@ -2116,6 +2418,26 @@
         "version": "12.4.16"
       },
       "credit": null,
+      "live11": {
+        "file": "mappings/ableton-live11/EQ Eight (Ableton stock).json",
+        "sha1": "da9119b3c5daa6d6594f5260ac4ae2ec94beb57c",
+        "knobs": [
+          "1 Frequency ",
+          "1 Resonance",
+          "1 Filter Typ",
+          "4 Frequency ",
+          "4 Gain A",
+          "4 Resonance",
+          "8 Resonance",
+          "8 Frequency "
+        ],
+        "buttons": [
+          "1 Filter On ",
+          "4 Filter On ",
+          "8 Filter On ",
+          "Device On"
+        ]
+      },
       "addedAt": "2026-11-19T18:47:41.257Z",
       "updatedAt": "2026-11-19T18:47:41.257Z",
       "worksForMe": 0,
@@ -2725,6 +3047,23 @@
         "version": "12.4.16"
       },
       "credit": null,
+      "live11": {
+        "file": "mappings/ableton-live11/Glue Compressor (Ableton stock).json",
+        "sha1": "b1fe84ce9bc7af716e99ea0729873129b5593c80",
+        "knobs": [
+          "Attack",
+          "Release",
+          "Ratio",
+          "Threshold",
+          "Makeup",
+          "Range",
+          "Dry/Wet"
+        ],
+        "buttons": [
+          "Clip",
+          "Device On"
+        ]
+      },
       "addedAt": "2026-11-20T13:24:06.399Z",
       "updatedAt": "2026-11-20T13:24:06.399Z",
       "worksForMe": 0,
@@ -3378,6 +3717,27 @@
         "version": "12.4.16"
       },
       "credit": null,
+      "live11": {
+        "file": "mappings/ableton-live11/Limiter (Ableton stock).json",
+        "sha1": "bc21668c743ccdd9b5da84033b4e483c7dee94ad",
+        "knobs": [
+          "Gain",
+          "Release time",
+          "Ceiling",
+          "Link Channel",
+          "Lookahead"
+        ],
+        "buttons": [
+          "Auto",
+          "Device On"
+        ],
+        "leftOut": [
+          "M/S Link",
+          "Mode",
+          "Maximize On",
+          "Routing"
+        ]
+      },
       "addedAt": "2026-11-18T16:49:17.243Z",
       "updatedAt": "2026-11-18T16:49:17.243Z",
       "worksForMe": 0,
@@ -4575,6 +4935,35 @@
         "version": "12.4.16"
       },
       "credit": null,
+      "live11": {
+        "file": "mappings/ableton-live11/Multiband Dynamics (Ableton stock).json",
+        "sha1": "cb66c64abf62b54564f6b29350603850b1155d10",
+        "knobs": [
+          "Above Thresh",
+          "Above Ratio",
+          "Above Thresh",
+          "Above Ratio",
+          "Above Thresh",
+          "Above Ratio",
+          "Master Outpu",
+          "Amount",
+          "Below Thresh",
+          "Below Ratio",
+          "Below Thresh",
+          "Below Ratio",
+          "Below Thresh",
+          "Below Ratio",
+          "Time Scaling",
+          "Amount"
+        ],
+        "buttons": [
+          "Low Activate",
+          "Mid Activate",
+          "Hi Activate",
+          "Device On",
+          "Device On"
+        ]
+      },
       "addedAt": "2026-11-20T21:38:15.073Z",
       "updatedAt": "2026-11-20T21:38:15.073Z",
       "worksForMe": 0,
@@ -4647,6 +5036,25 @@
         "version": "12.4.16"
       },
       "credit": null,
+      "live11": {
+        "file": "mappings/ableton-live11/Note Length (Ableton stock).json",
+        "sha1": "7cf3938243a9402da519ea0c1710f33c71b3fbc1",
+        "knobs": [
+          "Gate",
+          "Time Length",
+          "Synced Lengt",
+          "Rel Velocity",
+          "Decay Time",
+          "Key Scale"
+        ],
+        "buttons": [
+          "Sync On",
+          "Device On"
+        ],
+        "leftOut": [
+          "Latch"
+        ]
+      },
       "addedAt": "2026-11-21T14:46:09.509Z",
       "updatedAt": "2026-11-21T14:46:09.509Z",
       "worksForMe": 0,
@@ -4735,6 +5143,24 @@
         "version": "12.4.16"
       },
       "credit": null,
+      "live11": {
+        "file": "mappings/ableton-live11/Pedal (Ableton stock).json",
+        "sha1": "6f7f4325f8160b09251fb83b69efdbd4d45718fe",
+        "knobs": [
+          "Type",
+          "Gain",
+          "Output",
+          "Bass",
+          "Mid",
+          "Treble",
+          "Dry/Wet"
+        ],
+        "buttons": [
+          "Sub",
+          "Mid Freq",
+          "Device On"
+        ]
+      },
       "addedAt": "2026-11-21T14:55:57.563Z",
       "updatedAt": "2026-11-21T14:55:57.563Z",
       "worksForMe": 0,
@@ -4776,6 +5202,30 @@
         "version": "12.4.16"
       },
       "credit": null,
+      "live11": {
+        "file": "mappings/ableton-live11/Phaser-Flanger (Ableton stock).json",
+        "sha1": "b2245518e207278376c8761c89a9294685f6f348",
+        "knobs": [
+          "time",
+          "Mod Freq",
+          "Mod Rate",
+          "Amount",
+          "Feedback",
+          "Output Gain",
+          "Warmth",
+          "Dry/Wet",
+          "Center Freq",
+          "Spread",
+          "Mod Blend",
+          "Flange Time",
+          "Doubler Time"
+        ],
+        "buttons": [
+          "Mod Sync",
+          "FB Inv",
+          "Device On"
+        ]
+      },
       "addedAt": "2026-11-21T14:55:28.693Z",
       "updatedAt": "2026-11-21T14:55:28.693Z",
       "worksForMe": 0,
@@ -4921,6 +5371,23 @@
         "version": "12.4.16"
       },
       "credit": null,
+      "live11": {
+        "file": "mappings/ableton-live11/Random (Ableton stock).json",
+        "sha1": "550a91f5e77a4b6580e501011eaeb91d4ac93e79",
+        "knobs": [
+          "Chance",
+          "Choices",
+          "Scale",
+          "Sign"
+        ],
+        "buttons": [
+          "Mode",
+          "Device On"
+        ],
+        "leftOut": [
+          "Global Key"
+        ]
+      },
       "addedAt": "2026-11-21T15:10:04.023Z",
       "updatedAt": "2026-11-21T15:10:04.023Z",
       "worksForMe": 0,
@@ -5173,6 +5640,45 @@
         "version": "12.4.16"
       },
       "credit": null,
+      "live11": {
+        "file": "mappings/ableton-live11/Resonators (Ableton stock).json",
+        "sha1": "a2f4e23c3a5803c312eeeb412749d27f043c135d",
+        "knobs": [
+          "Frequency",
+          "Decay",
+          "I Note",
+          "II Pitch",
+          "III Pitch",
+          "IV Pitch",
+          "V Pitch",
+          "Dry/Wet",
+          "Filter Type",
+          "I Tune",
+          "II Tune",
+          "III Tune",
+          "IV Tune",
+          "V Tune",
+          "Global Gain",
+          "Color",
+          "I Gain",
+          "II Gain",
+          "III Gain",
+          "IV Gain",
+          "V Gain",
+          "Width"
+        ],
+        "buttons": [
+          "Filter On",
+          "Mode",
+          "I On",
+          "II On",
+          "III On",
+          "IV On",
+          "V On",
+          "Device On",
+          "Const"
+        ]
+      },
       "addedAt": "2026-11-21T15:27:05.138Z",
       "updatedAt": "2026-11-21T15:27:05.138Z",
       "worksForMe": 0,
@@ -5230,6 +5736,46 @@
         "version": "12.4.16"
       },
       "credit": null,
+      "live11": {
+        "file": "mappings/ableton-live11/Reverb (Ableton stock).json",
+        "sha1": "53b6b7c54f1d1439540d7735252c5cb6f787fc9a",
+        "knobs": [
+          "Predelay",
+          "Size",
+          "Decay",
+          "Stereo Image",
+          "Reflect",
+          "Diffuse",
+          "Dry/Wet",
+          "In Filter Fr",
+          "In Filter Wi",
+          "ER Amount",
+          "ER Rate",
+          "ER Shape",
+          "LowShelf Fre",
+          "Low Shelf Ga",
+          "HiFilter Fre",
+          "Hi Shelf Gai",
+          "Diffusion",
+          "Scale",
+          "Amount",
+          "Rate"
+        ],
+        "buttons": [
+          "Size Smoothi",
+          "Freeze On",
+          "Density",
+          "Chorus On",
+          "Device On",
+          "In LowCut On",
+          "In HighCut",
+          "Spin",
+          "Lo On",
+          "HiFilter Typ",
+          "HiFilter On",
+          "Chorus On"
+        ]
+      },
       "addedAt": "2026-11-21T15:41:55.267Z",
       "updatedAt": "2026-11-21T15:41:55.267Z",
       "worksForMe": 0,
@@ -5332,6 +5878,17 @@
         "version": "12.4.16"
       },
       "credit": null,
+      "live11": {
+        "file": "mappings/ableton-live11/Utility (Ableton stock).json",
+        "sha1": "d5ff0a158f670b5f85040e6cd5ea13504ee5ea0d",
+        "knobs": [
+          "Stereo Width",
+          "Gain"
+        ],
+        "buttons": [
+          "Mono"
+        ]
+      },
       "addedAt": "2026-11-19T23:31:36.997Z",
       "updatedAt": "2026-11-19T23:31:36.997Z",
       "worksForMe": 0,
