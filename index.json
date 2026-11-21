@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-21T15:27:05.138Z",
+  "updatedAt": "2026-11-21T15:41:55.267Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -5159,6 +5159,63 @@
       "credit": null,
       "addedAt": "2026-11-21T15:27:05.138Z",
       "updatedAt": "2026-11-21T15:27:05.138Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "052b28601c515573",
+      "plugin": "Reverb",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "reverb",
+      "knobs": [
+        "Predelay",
+        "Size",
+        "Decay",
+        "Stereo Image",
+        "Reflect",
+        "Diffuse",
+        "Dry/Wet",
+        "Input Freq",
+        "Input Width",
+        "ER Amount",
+        "ER Rate",
+        "ER Shape",
+        "Diff. Lo Fre",
+        "Low Shelf Ga",
+        "Diff. Hi Fre",
+        "Hi Shelf Gai",
+        "Diffusion",
+        "Scale",
+        "Amount",
+        "Rate"
+      ],
+      "buttons": [
+        "Size Smoothi",
+        "Freeze On",
+        "Density",
+        "Chorus On",
+        "Device On",
+        "In Lo Cut On",
+        "In Hi Cut On",
+        "Spin",
+        "Lo On",
+        "Diff. Hi Typ",
+        "Diff. Hi On",
+        "Chorus On"
+      ],
+      "file": "mappings/ableton/Reverb (Ableton stock).json",
+      "sha1": "5487a88480a44bad3aff120b85f53b5a0251fc63",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-21T15:41:55.267Z",
+      "updatedAt": "2026-11-21T15:41:55.267Z",
       "worksForMe": 0,
       "problems": 0
     },
