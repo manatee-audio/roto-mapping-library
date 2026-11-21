@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-21T14:55:57.563Z",
+  "updatedAt": "2026-11-21T15:10:04.023Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -4762,6 +4762,151 @@
       "credit": null,
       "addedAt": "2026-11-21T14:55:28.693Z",
       "updatedAt": "2026-11-21T14:55:28.693Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "5a7b3f7b10556400",
+      "plugin": "Pitch",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "midi-fx",
+      "knobs": [
+        "Pitch",
+        "Range",
+        "Lowest",
+        "Pitch Scale"
+      ],
+      "buttons": [
+        "Global Key",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Pitch (Ableton stock).json",
+      "sha1": "104d0af6cc17ae0b4041d80eb2b9a12671f66e7b",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-21T15:10:04.023Z",
+      "updatedAt": "2026-11-21T15:10:04.023Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "2217107b5523270c",
+      "plugin": "Pitch Hack",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "pitch",
+      "knobs": [
+        "Coarse",
+        "Fine",
+        "Var",
+        "Rate",
+        "Reverse",
+        "Recycle",
+        "Level",
+        "Dry / Wet"
+      ],
+      "buttons": [
+        "Device On"
+      ],
+      "file": "mappings/ableton/Pitch Hack (Ableton stock).json",
+      "sha1": "e330224e4f4c01aa2d19d337df19cce0ee6f91ba",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-21T15:10:04.023Z",
+      "updatedAt": "2026-11-21T15:10:04.023Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "6e5a120b45536f2c",
+      "plugin": "Poli",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "instrument",
+      "knobs": [
+        "Saw",
+        "Pulse",
+        "Sub",
+        "Noise",
+        "Ring",
+        "Freq",
+        "Volume",
+        "HPF",
+        "Res",
+        "LPF",
+        "Attack",
+        "Decay",
+        "Sustain",
+        "Release",
+        "Attack",
+        "Decay",
+        "Sustain",
+        "Release"
+      ],
+      "buttons": [
+        "Glide",
+        "Sub Wave",
+        "RM Source",
+        "Device On",
+        "Sub -> Filte"
+      ],
+      "file": "mappings/ableton/Poli (Ableton stock).json",
+      "sha1": "f83e5857ae7cc9a69d5879e2ef6c99cd9b14cf59",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-21T15:10:04.023Z",
+      "updatedAt": "2026-11-21T15:10:04.023Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "255d7860567d6c49",
+      "plugin": "Random",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "midi-fx",
+      "knobs": [
+        "Chance",
+        "Choices",
+        "Interval",
+        "Sign"
+      ],
+      "buttons": [
+        "Mode",
+        "Global Key",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Random (Ableton stock).json",
+      "sha1": "75f1a707a175a026542aaa2d93a2d6df302d695d",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-21T15:10:04.023Z",
+      "updatedAt": "2026-11-21T15:10:04.023Z",
       "worksForMe": 0,
       "problems": 0
     },
