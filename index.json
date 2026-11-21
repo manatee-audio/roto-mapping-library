@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-21T14:29:43.562Z",
+  "updatedAt": "2026-11-21T14:46:09.509Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -4599,6 +4599,93 @@
       "credit": null,
       "addedAt": "2026-11-21T14:29:43.562Z",
       "updatedAt": "2026-11-21T14:29:43.562Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "6d27775d64327155",
+      "plugin": "Note Length",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "midi-fx",
+      "knobs": [
+        "Gate",
+        "Time Length",
+        "Synced Lengt",
+        "Rel Velocity",
+        "Decay Time",
+        "Key Scale"
+      ],
+      "buttons": [
+        "Latch",
+        "Sync On",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Note Length (Ableton stock).json",
+      "sha1": "bedc5dddba1f8201cbd13740175d8ce510cd253f",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-21T14:46:09.509Z",
+      "updatedAt": "2026-11-21T14:46:09.509Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "50660730797b7072",
+      "plugin": "Operator",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "synth",
+      "knobs": [
+        "A Coarse",
+        "A Fine",
+        "Osc-A Level",
+        "Osc-A Wave",
+        "Filter Freq",
+        "Filter Res",
+        "Filter Type",
+        "Volume",
+        "B Coarse",
+        "B Fine",
+        "Osc-B Level",
+        "Osc-B Wave",
+        "C Coarse",
+        "C Fine",
+        "Osc-C Level",
+        "Osc-C Wave",
+        "D Coarse",
+        "D Fine",
+        "Osc-D Level",
+        "Osc-D Wave"
+      ],
+      "buttons": [
+        "Osc-A On",
+        "Filter On",
+        "Filter Circu",
+        "Glide On",
+        "Device On",
+        "Osc-B On",
+        "Osc-C On",
+        "Osc-D On"
+      ],
+      "file": "mappings/ableton/Operator (Ableton stock).json",
+      "sha1": "4d20350d2f431ee734d788d285913b4bf908a210",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-21T14:46:09.509Z",
+      "updatedAt": "2026-11-21T14:46:09.509Z",
       "worksForMe": 0,
       "problems": 0
     },
