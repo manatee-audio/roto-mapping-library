@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-21T14:55:28.693Z",
+  "updatedAt": "2026-11-21T14:55:57.563Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -4686,6 +4686,41 @@
       "credit": null,
       "addedAt": "2026-11-21T14:46:09.509Z",
       "updatedAt": "2026-11-21T14:46:09.509Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "40744d63220a1c50",
+      "plugin": "Pedal",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "other",
+      "knobs": [
+        "Type",
+        "Drive",
+        "Output",
+        "Bass",
+        "Mid",
+        "Treble",
+        "Dry/Wet"
+      ],
+      "buttons": [
+        "Sub",
+        "Mid Freq",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Pedal (Ableton stock).json",
+      "sha1": "888fc343d87998cddc0ccdaf5943e0283bc9c914",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-21T14:55:57.563Z",
+      "updatedAt": "2026-11-21T14:55:57.563Z",
       "worksForMe": 0,
       "problems": 0
     },
