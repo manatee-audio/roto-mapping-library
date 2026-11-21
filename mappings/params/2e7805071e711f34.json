@@ -1,0 +1,79 @@
+{
+ "format": "VST",
+ "name": "Decapitator",
+ "shown": [
+  "Style",
+  "Drive",
+  "Punish",
+  "LowCut",
+  "Tone",
+  "HighCut",
+  "Mix",
+  "AutoGain",
+  "LowThump",
+  "HighSlope",
+  "OutputTrim"
+ ],
+ "parameters": [
+  {
+   "title": "Bypass",
+   "stepCount": 1,
+   "bypass": true
+  },
+  {
+   "title": "Style",
+   "stepCount": 4,
+   "bypass": false
+  },
+  {
+   "title": "Drive",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Punish",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "LowCut",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Tone",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "HighCut",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Mix",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "AutoGain",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "LowThump",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "HighSlope",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "OutputTrim",
+   "stepCount": 0,
+   "bypass": false
+  }
+ ]
+}

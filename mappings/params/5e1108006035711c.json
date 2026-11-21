@@ -1,0 +1,372 @@
+{
+ "format": "AU",
+ "name": "DB-30 Drum Butter",
+ "shown": null,
+ "parameters": [
+  {
+   "title": "Bypass",
+   "stepCount": 0,
+   "bypass": true
+  },
+  {
+   "title": "Magnitude",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "BOOM Amount",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SHACK Amount",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SHIFT Amount",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SPACE Amount",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "COMP Amount",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SAT Amount",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MORE Amount",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "BOOM Threshold",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "BOOM Detect Lo",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "BOOM Detect Hi",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "BOOM Solo",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "BOOM Post",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "BOOM Pitch",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "BOOM Decay",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "BOOM Duck",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "BOOM Stereo",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "BOOM Color",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "BOOM Acid",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SHACK Threshold",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SHACK Detect Lo",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SHACK Detect Hi",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SHACK Solo",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SHACK Post",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SHACK Pitch",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SHACK Decay",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SHACK Duck",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SHACK Tone",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SHACK Env>Filter",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SHACK Filter Res",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SHIFT Frequency<>Formant",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SHIFT Frequency Invert",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SHIFT Frequency Stereo",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SHIFT Formant Stretch",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SHIFT Formant Mix",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SHIFT Transient<>Sustain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SHIFT Focus Lo",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SHIFT Focus Hi",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SPACE Pan",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SPACE Width",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SPACE Predelay",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SPACE Duck",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SPACE Focus Lo",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SPACE Focus Hi",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "COMP Mode",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "COMP Down<>Up",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "COMP Mix",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "COMP Single<>Multi",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SAT Mode",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SAT Flavor",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SAT Mix",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SAT Transient<>Sustain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SAT Focus Lo",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "SAT Focus Hi",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MORE Multiplier",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MORE Tone",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MORE Mix",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MORE Transient<>Sustain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MORE Focus Lo",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MORE Focus Hi",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MASTER Input Gain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MASTER EQ Enable",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MASTER EQ Cut Lo",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MASTER EQ Cut Hi",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MASTER EQ Cut Lo Mode",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MASTER EQ Cut Hi Mode",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MASTER EQ Tone",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MASTER EQ Tone Mode",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MASTER Air",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MASTER Attack",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MASTER Sustain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "MASTER Output Gain",
+   "stepCount": 0,
+   "bypass": false
+  }
+ ]
+}
