@@ -1,0 +1,377 @@
+{
+ "format": "VST",
+ "name": "Master Plan 2",
+ "shown": [],
+ "parameters": [
+  {
+   "title": "Legacy",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "mp1_Width",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "mp1_Loud",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "mp1_Tape",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "mp1_Tape Character",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "mp1_Output Gain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "mp1_Input Gain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "mp1_Calm",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "mp1_Calm x2",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "mp1_Calm Amount",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "mp1_Clean",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "mp1_Clean Mix",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "mp1_Monitor",
+   "stepCount": 5,
+   "bypass": false
+  },
+  {
+   "title": "mp1_Thick",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "mp1_Thick Mix",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "mp1_High EQ",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "mp1_Mid EQ",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "mp1_Low EQ",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "mp1_Smooth",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "mp1_Smooth Amount",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "mp1_Multi",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "mp1_Multi Low",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "mp1_Multi Mid",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "mp1_Multi High",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "mp1_Low",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "mp1_Mid",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "mp1_High",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "mp1_Loud Enable",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "mp1_Width Enable",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "mp1_Mid EQ Select",
+   "stepCount": 2,
+   "bypass": false
+  },
+  {
+   "title": "Bypass",
+   "stepCount": 1,
+   "bypass": true
+  },
+  {
+   "title": "Stereo Link",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "DC Filter",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "In",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Out",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Loud",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Body Enable",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "Body",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Presence",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Wide",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Silk",
+   "stepCount": 3,
+   "bypass": false
+  },
+  {
+   "title": "Low",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Mid",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "High",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Low Enable",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "Mid Enable",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "High Enable",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "Wide Enable",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "Loud Enable",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "Mid Frequency",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Monitor",
+   "stepCount": 5,
+   "bypass": false
+  },
+  {
+   "title": "Aura Enable",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "Aura",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Clean Enable",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "Clean",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Calm Enable",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "Calm",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Low Compression",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Mid Compression",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "High Compression",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Smooth",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "Smooth Amount",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Tape Enable",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "Tape Character",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Tape",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Thick Enable",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "Color",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Thick",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Thick Tone",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Glow Enable",
+   "stepCount": 1,
+   "bypass": false
+  },
+  {
+   "title": "Glow",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Snapshot",
+   "stepCount": 2,
+   "bypass": false
+  },
+  {
+   "title": "Reference Gain",
+   "stepCount": 0,
+   "bypass": false
+  },
+  {
+   "title": "Unity",
+   "stepCount": 1,
+   "bypass": false
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-20T21:38:15.073Z",
+  "updatedAt": "2026-11-21T14:29:43.562Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -3786,6 +3786,434 @@
       "problems": 0
     },
     {
+      "hash": "367b183b03391e18",
+      "plugin": "Master Plan 2",
+      "maker": "Musik Hack",
+      "format": "VST",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "mastering",
+      "knobs": [
+        "Low",
+        "Low Compress",
+        "Mid",
+        "Mid Frequenc",
+        "Mid Compress",
+        "High",
+        "High Compres",
+        "Loud",
+        "Calm",
+        "Clean",
+        "Aura",
+        "Presence",
+        "Body",
+        "Smooth",
+        "Wide",
+        "Loud",
+        "Thick",
+        "Thick Tone",
+        "Color",
+        "Tape",
+        "Tape Charact",
+        "Glow",
+        "Wide",
+        "Loud"
+      ],
+      "buttons": [
+        "Low Enable",
+        "Mid Enable",
+        "Snapshot",
+        "High Enable",
+        "Silk",
+        "Device On",
+        "Calm Enable",
+        "Clean Enable",
+        "Aura Enable",
+        "Body Enable",
+        "Smooth",
+        "Unity",
+        "Device On",
+        "Thick Enable",
+        "Color",
+        "Tape Enable",
+        "Glow Enable",
+        "Unity",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Master Plan 2 (VST).json",
+      "sha1": "2a9fcc6844d491f49ad8e99e511bf6484aaa3fdb",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "abletonPanel": {
+        "configure": [
+          {
+            "control": "Low",
+            "paramHash": "2124147c3d2d"
+          },
+          {
+            "control": "Low Compress",
+            "paramHash": "553c3d79525d"
+          },
+          {
+            "control": "Mid",
+            "paramHash": "1a6a774d1637"
+          },
+          {
+            "control": "Mid Frequenc",
+            "paramHash": "7e641a306c49"
+          },
+          {
+            "control": "Mid Compress",
+            "paramHash": "080876306538"
+          },
+          {
+            "control": "High",
+            "paramHash": "3125154a483f"
+          },
+          {
+            "control": "High Compres",
+            "paramHash": "2f4b563f1c33"
+          },
+          {
+            "control": "Loud",
+            "paramHash": "452213171c62"
+          },
+          {
+            "control": "Calm",
+            "paramHash": "79303f1f420b"
+          },
+          {
+            "control": "Clean",
+            "paramHash": "7a093d07617a"
+          },
+          {
+            "control": "Aura",
+            "paramHash": "2f08545e675e"
+          },
+          {
+            "control": "Presence",
+            "paramHash": "092823352746"
+          },
+          {
+            "control": "Body",
+            "paramHash": "710a7e0a582e"
+          },
+          {
+            "control": "Smooth",
+            "paramHash": "31353a24582e"
+          },
+          {
+            "control": "Wide",
+            "paramHash": "1e44586f6b45"
+          },
+          {
+            "control": "Thick",
+            "paramHash": "4318726f232f"
+          },
+          {
+            "control": "Thick Tone",
+            "paramHash": "765a4b1a0503"
+          },
+          {
+            "control": "Color",
+            "paramHash": "1d0c03043a6d"
+          },
+          {
+            "control": "Tape",
+            "paramHash": "451c55371945"
+          },
+          {
+            "control": "Tape Charact",
+            "paramHash": "7a7931607f5a"
+          },
+          {
+            "control": "Glow",
+            "paramHash": "55545d6a1666"
+          },
+          {
+            "control": "Low Enable",
+            "paramHash": "6c4e27475f62"
+          },
+          {
+            "control": "Mid Enable",
+            "paramHash": "54364e125725"
+          },
+          {
+            "control": "Snapshot",
+            "paramHash": "300a637e5021"
+          },
+          {
+            "control": "High Enable",
+            "paramHash": "447e64694d78"
+          },
+          {
+            "control": "Silk",
+            "paramHash": "394c3c45714b"
+          },
+          {
+            "control": "Calm Enable",
+            "paramHash": "703472444910"
+          },
+          {
+            "control": "Clean Enable",
+            "paramHash": "252f715b730f"
+          },
+          {
+            "control": "Aura Enable",
+            "paramHash": "3253355b7f30"
+          },
+          {
+            "control": "Body Enable",
+            "paramHash": "670364424207"
+          },
+          {
+            "control": "Smooth",
+            "paramHash": "7f134a7e7665"
+          },
+          {
+            "control": "Unity",
+            "paramHash": "50066d1b4b12"
+          },
+          {
+            "control": "Thick Enable",
+            "paramHash": "3f5e7f636f0a"
+          },
+          {
+            "control": "Tape Enable",
+            "paramHash": "6b0a5b556b7d"
+          },
+          {
+            "control": "Glow Enable",
+            "paramHash": "383f49632769"
+          }
+        ]
+      },
+      "params": "mappings/params/367b183b03391e18.json",
+      "paramsSha1": "233c47735f906c7be1f4ed16c2a8b864d3c2a421",
+      "addedAt": "2026-11-21T14:29:43.562Z",
+      "updatedAt": "2026-11-21T14:29:43.562Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "401a235f6a40723e",
+      "plugin": "Master Plan 2",
+      "maker": "Musik Hack",
+      "format": "AU",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "mastering",
+      "knobs": [
+        "Low",
+        "Low Compress",
+        "Mid",
+        "Mid Frequenc",
+        "Mid Compress",
+        "High",
+        "High Compres",
+        "Loud",
+        "Calm",
+        "Clean",
+        "Aura",
+        "Presence",
+        "Body",
+        "Smooth",
+        "Wide",
+        "Loud",
+        "Thick",
+        "Thick Tone",
+        "Color",
+        "Tape",
+        "Tape Charact",
+        "Glow",
+        "Wide",
+        "Loud"
+      ],
+      "buttons": [
+        "Low Enable",
+        "Mid Enable",
+        "Snapshot",
+        "High Enable",
+        "Silk",
+        "Bypass",
+        "Calm Enable",
+        "Clean Enable",
+        "Aura Enable",
+        "Body Enable",
+        "Smooth",
+        "Unity",
+        "Bypass",
+        "Thick Enable",
+        "Color",
+        "Tape Enable",
+        "Glow Enable",
+        "Unity",
+        "Bypass"
+      ],
+      "file": "mappings/ableton/Master Plan 2 (AU).json",
+      "sha1": "651878081427648e00fe806b62484565ea8b1a86",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "abletonPanel": {
+        "configure": [
+          {
+            "control": "Low",
+            "paramHash": "2124147c3d2d"
+          },
+          {
+            "control": "Low Compress",
+            "paramHash": "553c3d79525d"
+          },
+          {
+            "control": "Mid",
+            "paramHash": "1a6a774d1637"
+          },
+          {
+            "control": "Mid Frequenc",
+            "paramHash": "7e641a306c49"
+          },
+          {
+            "control": "Mid Compress",
+            "paramHash": "080876306538"
+          },
+          {
+            "control": "High",
+            "paramHash": "3125154a483f"
+          },
+          {
+            "control": "High Compres",
+            "paramHash": "2f4b563f1c33"
+          },
+          {
+            "control": "Loud",
+            "paramHash": "452213171c62"
+          },
+          {
+            "control": "Calm",
+            "paramHash": "79303f1f420b"
+          },
+          {
+            "control": "Clean",
+            "paramHash": "7a093d07617a"
+          },
+          {
+            "control": "Aura",
+            "paramHash": "2f08545e675e"
+          },
+          {
+            "control": "Presence",
+            "paramHash": "092823352746"
+          },
+          {
+            "control": "Body",
+            "paramHash": "710a7e0a582e"
+          },
+          {
+            "control": "Smooth",
+            "paramHash": "31353a24582e"
+          },
+          {
+            "control": "Wide",
+            "paramHash": "1e44586f6b45"
+          },
+          {
+            "control": "Thick",
+            "paramHash": "4318726f232f"
+          },
+          {
+            "control": "Thick Tone",
+            "paramHash": "765a4b1a0503"
+          },
+          {
+            "control": "Color",
+            "paramHash": "1d0c03043a6d"
+          },
+          {
+            "control": "Tape",
+            "paramHash": "451c55371945"
+          },
+          {
+            "control": "Tape Charact",
+            "paramHash": "7a7931607f5a"
+          },
+          {
+            "control": "Glow",
+            "paramHash": "55545d6a1666"
+          },
+          {
+            "control": "Low Enable",
+            "paramHash": "6c4e27475f62"
+          },
+          {
+            "control": "Mid Enable",
+            "paramHash": "54364e125725"
+          },
+          {
+            "control": "Snapshot",
+            "paramHash": "300a637e5021"
+          },
+          {
+            "control": "High Enable",
+            "paramHash": "447e64694d78"
+          },
+          {
+            "control": "Silk",
+            "paramHash": "394c3c45714b"
+          },
+          {
+            "control": "Calm Enable",
+            "paramHash": "703472444910"
+          },
+          {
+            "control": "Clean Enable",
+            "paramHash": "252f715b730f"
+          },
+          {
+            "control": "Aura Enable",
+            "paramHash": "3253355b7f30"
+          },
+          {
+            "control": "Body Enable",
+            "paramHash": "670364424207"
+          },
+          {
+            "control": "Smooth",
+            "paramHash": "7f134a7e7665"
+          },
+          {
+            "control": "Unity",
+            "paramHash": "50066d1b4b12"
+          },
+          {
+            "control": "Thick Enable",
+            "paramHash": "3f5e7f636f0a"
+          },
+          {
+            "control": "Tape Enable",
+            "paramHash": "6b0a5b556b7d"
+          },
+          {
+            "control": "Glow Enable",
+            "paramHash": "383f49632769"
+          }
+        ]
+      },
+      "params": "mappings/params/401a235f6a40723e.json",
+      "paramsSha1": "7f486ffb2c3f61ad0d72adc7c3ab239d72768624",
+      "addedAt": "2026-11-21T14:29:43.562Z",
+      "updatedAt": "2026-11-21T14:29:43.562Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
       "hash": "050a3448595b6329",
       "plugin": "Master Plan v1.5",
       "maker": "Musik Hack",
@@ -3916,23 +4344,66 @@
       "logicPlugin": null,
       "category": "synth",
       "knobs": [
+        "A Osc Motion",
+        "A Osc Spacin",
         "A Osc Type",
-        "A Osc Shape",
-        "A Osc Tone",
-        "A Filter Fre",
-        "B Osc Type",
+        "A Detune",
+        "A Amp Attack",
+        "A Amp Decay",
+        "A Amp Sus",
+        "A Amp Rel",
+        "A Filt Freq",
+        "A Filter Q",
+        "A Filter L-B",
+        "A Filt Type",
+        "A Mod Attack",
+        "A Mod Decay",
+        "A Mod Sus",
+        "A Mod Rel",
         "B Osc Shape",
         "B Osc Tone",
-        "B Filter Fre"
+        "B Osc Type",
+        "B Detune",
+        "B Amp Attack",
+        "B Amp Decay",
+        "B Amp Sus",
+        "B Amp Rel",
+        "B Filt Freq",
+        "B Filter Q",
+        "B Filter L-B",
+        "B Filt Type",
+        "B Mod Attack",
+        "B Mod Decay",
+        "B Mod Sus",
+        "B Mod Rel",
+        "A Volume",
+        "A Tone ",
+        "A Pan",
+        "A Transpose",
+        "B Volume",
+        "B Tone",
+        "B Pan",
+        "B Transpose",
+        "Voice Spread",
+        "Drive",
+        "Volume"
       ],
       "buttons": [
-        "A On",
+        "Osc A On",
+        "A Octave",
+        "A  Amp Loop",
         "A Filter On",
-        "B On",
-        "Device On"
+        "A Mod Loop",
+        "Osc B On",
+        "B Octave",
+        "B Amp Loop",
+        "B Filter On",
+        "B Mod Loop",
+        "Limiter On",
+        "Scale Aware"
       ],
       "file": "mappings/ableton/Meld (Ableton stock).json",
-      "sha1": "56ca636109e6691e196ceeb8aa259bf63166ea35",
+      "sha1": "58f76ac52bff9e6511922954c1e2986dedb40a56",
       "label": "approved",
       "checkedIn": {
         "daw": "ableton",
@@ -3940,7 +4411,7 @@
       },
       "credit": null,
       "addedAt": "2026-11-20T21:00:12.914Z",
-      "updatedAt": "2026-11-20T21:00:12.914Z",
+      "updatedAt": "2026-11-21T14:29:43.562Z",
       "worksForMe": 0,
       "problems": 0
     },
@@ -4090,6 +4561,44 @@
       "credit": null,
       "addedAt": "2026-11-20T21:38:15.073Z",
       "updatedAt": "2026-11-20T21:38:15.073Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "2e2f0c554376527d",
+      "plugin": "Note Echo",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "midi-fx",
+      "knobs": [
+        "Delay",
+        "Fback",
+        "Pitch",
+        "Ms Delay",
+        "Beat Div",
+        "Offset %",
+        "Press Fback",
+        "Slide Fback",
+        "Note PB Fbac"
+      ],
+      "buttons": [
+        "MPE On",
+        "Thru/Mute",
+        "Delay Mode",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Note Echo (Ableton stock).json",
+      "sha1": "d309391ad1523d95f11f71287dd73c2166664763",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-21T14:29:43.562Z",
+      "updatedAt": "2026-11-21T14:29:43.562Z",
       "worksForMe": 0,
       "problems": 0
     },
@@ -6927,6 +7436,78 @@
       "credit": null,
       "addedAt": "2026-11-20T17:39:51.735Z",
       "updatedAt": "2026-11-20T17:39:51.735Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "6f0c31005e573b20",
+      "plugin": "Master Plan 2",
+      "maker": "Musik Hack",
+      "format": "AU",
+      "daw": "logic",
+      "logicPlugin": {
+        "name": "Master Plan 2",
+        "channels": "stereo",
+        "stock": false
+      },
+      "category": "mastering",
+      "knobs": [
+        "Low",
+        "Low Compress",
+        "Mid",
+        "Mid Frequenc",
+        "Mid Compress",
+        "High",
+        "High Compres",
+        "Loud",
+        "Calm",
+        "Clean",
+        "Aura",
+        "Presence",
+        "Body",
+        "Smooth",
+        "Wide",
+        "Loud",
+        "Thick",
+        "Thick Tone",
+        "Color",
+        "Tape",
+        "Tape Charact",
+        "Glow",
+        "Wide",
+        "Loud"
+      ],
+      "buttons": [
+        "Low Enable",
+        "Mid Enable",
+        "Snapshot",
+        "High Enable",
+        "Silk",
+        "Bypass",
+        "Calm Enable",
+        "Clean Enable",
+        "Aura Enable",
+        "Body Enable",
+        "Smooth",
+        "Unity",
+        "Bypass",
+        "Thick Enable",
+        "Color",
+        "Tape Enable",
+        "Glow Enable",
+        "Unity",
+        "Bypass"
+      ],
+      "file": "mappings/logic/Master Plan 2 (Logic, stereo).json",
+      "sha1": "dd658d5e0ee353603065b3daf2040b45159d2028",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "logic",
+        "version": "12.4"
+      },
+      "credit": null,
+      "addedAt": "2026-11-21T14:29:43.562Z",
+      "updatedAt": "2026-11-21T14:29:43.562Z",
       "worksForMe": 0,
       "problems": 0
     },
