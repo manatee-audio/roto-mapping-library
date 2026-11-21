@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-21T14:46:09.509Z",
+  "updatedAt": "2026-11-21T14:55:28.693Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -4686,6 +4686,47 @@
       "credit": null,
       "addedAt": "2026-11-21T14:46:09.509Z",
       "updatedAt": "2026-11-21T14:46:09.509Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "5f7d7a0733267013",
+      "plugin": "Phaser-Flanger",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "modulation",
+      "knobs": [
+        "time",
+        "LFO 1 Freq",
+        "LFO 1 Synced",
+        "LFO Amount",
+        "Feedback",
+        "Output",
+        "Warmth",
+        "Dry/Wet",
+        "Center Freq",
+        "Spread",
+        "Mod Blend",
+        "Flanger Time",
+        "Doubler Time"
+      ],
+      "buttons": [
+        "LFO 1 Sync",
+        "FB Invert",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Phaser-Flanger (Ableton stock).json",
+      "sha1": "d1b382c2e0b4680feb49c6459a57bc969db0c526",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-21T14:55:28.693Z",
+      "updatedAt": "2026-11-21T14:55:28.693Z",
       "worksForMe": 0,
       "problems": 0
     },
