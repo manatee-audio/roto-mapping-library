@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-23T14:30:35.808Z",
+  "updatedAt": "2026-11-23T14:45:50.555Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -5871,6 +5871,87 @@
       "credit": null,
       "addedAt": "2026-11-18T14:34:53.002Z",
       "updatedAt": "2026-11-18T14:34:53.002Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "2b7d496c09097f1d",
+      "plugin": "Shaper",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "tool",
+      "knobs": [
+        "Rate Hz",
+        "Rate Sync",
+        "Depth",
+        "GridSize",
+        "Jitter",
+        "Smooth",
+        "Phase",
+        "Offset"
+      ],
+      "buttons": [
+        "Time Mode",
+        "Snap",
+        "Trigger Mode",
+        "Trigger",
+        "Re-Trigger",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Shaper (Ableton stock).json",
+      "sha1": "0001ca55186144f0398d80e318ab4357622b7e67",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-23T14:45:50.555Z",
+      "updatedAt": "2026-11-23T14:45:50.555Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "4d41041e256c0348",
+      "plugin": "Shaper MIDI",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "midi-fx",
+      "knobs": [
+        "Rate Time",
+        "Rate Sync",
+        "Depth",
+        "GridSize",
+        "Jitter",
+        "Smooth",
+        "Velocity",
+        "Offset",
+        "Echo Time",
+        "Echo Amount"
+      ],
+      "buttons": [
+        "Time Mode",
+        "Snap",
+        "Rand",
+        "Trigger",
+        "Loop",
+        "Device On",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Shaper MIDI (Ableton stock).json",
+      "sha1": "000b912e56bb42f0ecd5b7b35a794d5af661427a",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-23T14:45:50.555Z",
+      "updatedAt": "2026-11-23T14:45:50.555Z",
       "worksForMe": 0,
       "problems": 0
     },
