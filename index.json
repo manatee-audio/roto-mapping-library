@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-24T14:47:16.395Z",
+  "updatedAt": "2026-11-24T16:41:22.875Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -6080,6 +6080,50 @@
       },
       "addedAt": "2026-11-23T15:01:32.875Z",
       "updatedAt": "2026-11-23T15:01:32.875Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "344d4c0712217018",
+      "plugin": "Simpler",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "instrument",
+      "knobs": [
+        "Filter Type",
+        "Filter Freq",
+        "Filter Res",
+        "Filter Drive",
+        "S Start",
+        "S Length",
+        "Transpose",
+        "Volume",
+        "Ve Attack",
+        "Ve Decay",
+        "Ve Sustain",
+        "Ve Release",
+        "Vol < Vel"
+      ],
+      "buttons": [
+        "F On",
+        "Filter Slope",
+        "Filter Circu",
+        "S Loop On",
+        "Trigger Mode",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Simpler (Ableton stock).json",
+      "sha1": "a2f3e62996ace8754a05df1b6b60162341cbeb8b",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-24T16:41:22.875Z",
+      "updatedAt": "2026-11-24T16:41:22.875Z",
       "worksForMe": 0,
       "problems": 0
     },
