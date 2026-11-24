@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-23T15:01:32.875Z",
+  "updatedAt": "2026-11-24T14:47:16.395Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -5838,6 +5838,49 @@
       "credit": null,
       "addedAt": "2026-11-23T14:30:35.808Z",
       "updatedAt": "2026-11-23T14:30:35.808Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "695c6740426a2148",
+      "plugin": "Sampler",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "instrument",
+      "knobs": [
+        "Filter Freq",
+        "Filter Res",
+        "Filter Type",
+        "Fe < Env",
+        "Fe Attack",
+        "Fe Decay",
+        "Transpose",
+        "Volume",
+        "Vol < Vel",
+        "Ve Attack",
+        "Ve Decay",
+        "Ve Sustain",
+        "Ve Release",
+        "Ve R < Vel"
+      ],
+      "buttons": [
+        "F On",
+        "Filter Slope",
+        "Fe On",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Sampler (Ableton stock).json",
+      "sha1": "d2649acd34942a7a921aecd0aa680c0d359dfabd",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "addedAt": "2026-11-24T14:47:16.395Z",
+      "updatedAt": "2026-11-24T14:47:16.395Z",
       "worksForMe": 0,
       "problems": 0
     },
