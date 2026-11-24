@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "updatedAt": "2026-11-24T16:44:10.781Z",
+  "updatedAt": "2026-11-24T16:58:37.100Z",
   "entries": [
     {
       "hash": "1507476c002f2457",
@@ -6159,6 +6159,83 @@
       "credit": null,
       "addedAt": "2026-11-24T16:44:10.781Z",
       "updatedAt": "2026-11-24T16:44:10.781Z",
+      "worksForMe": 0,
+      "problems": 0
+    },
+    {
+      "hash": "7c5e42616b311854",
+      "plugin": "Spectral Resonator",
+      "maker": "Ableton",
+      "format": "STOCK",
+      "daw": "ableton",
+      "logicPlugin": null,
+      "category": "fx",
+      "knobs": [
+        "Freq Hz",
+        "Freq Note",
+        "Decay",
+        "Stretch",
+        "Shift",
+        "High Damp",
+        "Low Damp",
+        "Dry Wet",
+        "Transpose",
+        "Decay",
+        "Glide",
+        "Mod Rate",
+        "Pitch Mod",
+        "Send Gain",
+        "Unison Amoun",
+        "Dry Wet"
+      ],
+      "buttons": [
+        "Use Scale",
+        "Quantize",
+        "Device On",
+        "Unison",
+        "Device On"
+      ],
+      "file": "mappings/ableton/Spectral Resonator (Ableton stock).json",
+      "sha1": "4497f74048cabec243972520e41f7cb290271de1",
+      "label": "approved",
+      "checkedIn": {
+        "daw": "ableton",
+        "version": "12.4.16"
+      },
+      "credit": null,
+      "live11": {
+        "file": "mappings/ableton-live11/Spectral Resonator (Ableton stock).json",
+        "sha1": "1220407fb8a2b07e008e2ae8bbe473b39f1211b7",
+        "knobs": [
+          "Freq Hz",
+          "Freq Note",
+          "Decay",
+          "Stretch",
+          "Shift",
+          "HF Damp",
+          "LF Damp",
+          "Dry Wet",
+          "Transpose",
+          "Decay",
+          "Glide",
+          "Mod Rate",
+          "Pitch Mod",
+          "Input Send G",
+          "Unison Amoun",
+          "Dry Wet"
+        ],
+        "buttons": [
+          "Device On",
+          "Unison",
+          "Device On"
+        ],
+        "leftOut": [
+          "Use Scale",
+          "Quantize"
+        ]
+      },
+      "addedAt": "2026-11-24T16:58:37.100Z",
+      "updatedAt": "2026-11-24T16:58:37.100Z",
       "worksForMe": 0,
       "problems": 0
     },
